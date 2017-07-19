@@ -1,17 +1,23 @@
-title: pixel-art
+---
 hero_image: images/banner.png
-description: pixel-art description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Pixel Art
+description: Create a pixel art editor.
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Creating a grid of pixels
+- title: 'Challenge: Resize your grid'
+- title: Colour the pixels
+- title: 'Challenge: Make all pixels clickable'
+- title: Add a colour palette
+- title: 'Challenge: Add more colours to the palette'
+
