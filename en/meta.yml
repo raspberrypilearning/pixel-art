@@ -1,3 +1,4 @@
+title: Pixel Art
 hero_image: images/banner.png
 theme: red
 duration: 1
@@ -5,7 +6,6 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Pixel Art
 description: Create a pixel art editor.
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
 interests: ''
