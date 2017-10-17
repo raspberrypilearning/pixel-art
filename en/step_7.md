@@ -1,47 +1,58 @@
 ## Add a colour palette
 
-Did you find it annoying that you couldn't change a pixel colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can click on a colour to change the pen. 
+Did you find it annoying that you couldn't change a pixel colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can click on a colour to change the pen.
 
-+ First create a pen style. 
++ Add the following code at the bottom of your `style.css` file to create a pen style:
 
-	Add the following code at the bottom of your `style.css` file:
+![screenshot](images/pixel-art-pen.png)
 
-	![screenshot](images/pixel-art-pen.png)
++ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` after the `<body>`:
 
-+ Now create black and white pen colours that use that style. 
+![screenshot](images/pixel-art-palette.png)
 
-	Add the following code to your `index.html` after the `<body>`:
+`style=` allows you to add CSS inside your HTML which is convenient here.
 
-	![screenshot](images/pixel-art-palette.png)
+When one of the colours in the palette is clicked on, the colour of the pen should change.
 
-	`style=` allows you to add CSS inside your HTML which is convient here. 
++ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value to `'black'`.
 
-+ You want to be able to change the pen colour when a palette colour is clicked on. 
+[[[generic-javascript-create-variable]]]
 
-	Variables are used to store information. Let's create a penColour variable in `script.js`.
+--- hints ---
+--- hint ---
+Add the following code at the top of the file:
 
-	Add the following code at the top of the file:
+![screenshot](images/pixel-art-pencolour.png)
+--- /hint ---
+--- /hints ---
 
-	![screenshot](images/pixel-art-pencolour.png)
++ Underneath the variable, create a function called `setPenColour`.
 
-	Then add a function to change the penColour:
++ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
-	![screenshot](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-+ You'll also need use the pen colour when you change the colour of a pixel. 
+You'll also need use the pen colour when you change the colour of a pixel.
 
-	Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
 
-	 ![screenshot](images/pixel-art-use-pen.png)
+ ![screenshot](images/pixel-art-use-pen.png)
 
-+ Now you need to call the `setPenColour` function when a pen colour gets clicked. 
++ In the **index.html** file, call the `setPenColour` function when a pen colour gets clicked.
 
-	Add the highlighted `onclick` code to your pen colours:
+--- hints ---
+--- hint ---
+Find the `<div>`s with the ID `pen` that you created earlier. Add some `onclick` code to each div to call the function `setPenColour` when the box is clicked. For example, here is the code you would add to the white pen `<div>`.
 
-	![screenshot](images/pixel-art-palette-onclick.png)
+```JavaScript
+onclick="setPenColour('white')"
+```
+--- /hint ---
+--- hint ---
+Add the highlighted `onclick` code to your pen colours:
 
-+ Now test that you can switch the pen colour between black and white to fill in or delete pixels.
+![screenshot](images/pixel-art-palette-onclick.png)
+--- /hint ---
+--- /hints ---
 
-
-
-
++ Test that you can switch the pen colour between black and white to fill in or delete pixels.

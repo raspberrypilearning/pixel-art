@@ -1,13 +1,12 @@
 --- challenge ---
 ## Challenge: Make all pixels clickable
 
-Can you make all the pixels clickable? Use cut and paste to make it quicker. 
+Can you make all the pixels clickable? Use copy and paste to make it quicker.
 
-Create a quick piece of pixel art. 
+Test your code by creating a quick piece of pixel art.
 
 ![screenshot](images/pixel-art-black-example.png)
 
-Tip: You can click __Autorun__ to clear all of the pixels. 
-
+Tip: You can click **Autorun** to clear all of the pixels.
 
 --- /challenge ---
