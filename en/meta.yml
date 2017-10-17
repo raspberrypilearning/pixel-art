@@ -13,7 +13,8 @@ technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduction
-- title: Creating a grid of pixels
+- title: What you will need
+- title: Create a grid of pixels
 - title: 'Challenge: Resize your grid'
 - title: Colour the pixels
 - title: 'Challenge: Make all pixels clickable'
