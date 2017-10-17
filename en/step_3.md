@@ -44,7 +44,7 @@ Now your pixels will line up in a grid with black lines around them.
 
 --- hints ---
 --- hint ---
-Find the `<div>` with the class "row" and copy it, including the three pixels which are inside it, up to its matching `</div>` tag.
+Find the `<div>` with the class "row" and copy it, including the three pixels which are inside it, up to and including its matching `</div>` tag.
 
 Paste this in immediately below the row you just copied to create another row. Repeat once more so that you have three rows.
 
