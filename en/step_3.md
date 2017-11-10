@@ -16,7 +16,7 @@ First, let's write some code to create a table with a black background and then 
 
 ![screenshot](images/pixel-art-art.png)
 
-A `<div>` is an invisible box, which you can give a **style** to. Give your `<div>` the ID `art` so you can add styles to it.
+A `<div>` is an invisible box, which you can give a **style** to. This `<div>` has the ID `art` so you can add styles to it.
 
 + Now go to your `style.css` file and add the table styling for the art `<div>`.
 
