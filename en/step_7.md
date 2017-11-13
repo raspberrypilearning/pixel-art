@@ -1,16 +1,16 @@
 ## Add a colour palette
 
-Did you find it annoying that you couldn't change a pixel colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can click on a colour to change the pen.
+Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can click on a colour to change the pen.
 
 + Add this code at the bottom of your `style.css` file to create a pen style:
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` after the `<body>`:
++ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>`tag:
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS inside your HTML which is convenient here.
+`style=` allows you to add CSS code inside your HTML file, which is convenient here.
 
 We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
 
@@ -28,17 +28,19 @@ Add the following code at the top of the file:
 
 + Underneath the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
+[[[generic-javascript-create-a-function]]]
+
 + Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need use the pen colour when you change the colour of a pixel.
+You'll also need use the `penColour` variable when you change the colour of a pixel.
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
 
  ![screenshot](images/pixel-art-use-pen.png)
 
-+ In the **index.html** file, add some code to call the `setPenColour` function when a pen colour gets clicked.
++ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
