@@ -1,10 +1,10 @@
 ## Introduction
 
-Create a pixel art editor. As well as using HTML and CSS you'll learn how to use JavaScript to add interactivity to your project.
+Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
 
 ### What you will make
 
-Click on a colour from the palette, then click on a pixel to change the colour.
+Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
