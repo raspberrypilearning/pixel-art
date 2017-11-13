@@ -3,7 +3,7 @@
 
 Can you add more colours to the palette?
 
-+ Choose the colours that you want to create pixel art with. Then create some cool pixel art.
++ Choose the colours that you want to use in your pixel art. Then create some cool pixel images.
 
 Hint: The bright green colour is called `chartreuse`.
 
