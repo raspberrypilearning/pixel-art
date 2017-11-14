@@ -1,3 +1,5 @@
-# pixel-art
+# Pixel Art
 
-Don't forget to update the project name in LICENSE.md
+![Pixel art](en/images/pixel-art.png)
+
+Create a pixel art editor using HTML, CSS and JavaScript.
