@@ -30,7 +30,7 @@ It doesn't look very interesting yet, so you need to put rows of pixels inside i
 
 ![screenshot](images/pixel-art-row.png)
 
-Notice that here you're using a class instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
 
 + Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
