@@ -1,12 +1,12 @@
 ## Add a colour palette
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can click on a colour to change the pen.
+Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
 + Add this code at the bottom of your `style.css` file to create a pen style:
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>`tag:
++ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
 
 ![screenshot](images/pixel-art-palette.png)
 
@@ -26,7 +26,7 @@ Add the following code at the top of the file:
 --- /hint ---
 --- /hints ---
 
-+ Underneath the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
 [[[generic-javascript-create-a-function]]]
 
