@@ -11,8 +11,6 @@ We will create a **function**. Functions are named blocks of code which perform 
 
 + Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
 
-[[[generic-javascript-create-a-function]]]
-
 ![Create function](images/create-function.png)
 
 + Add this code inside the function to set the background colour of the pixel:
