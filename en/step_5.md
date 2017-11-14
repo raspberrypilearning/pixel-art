@@ -23,11 +23,11 @@ Notice that `backgroundColor` uses the American spelling of 'colour'.
 
 At the moment this code doesn't have any effect.
 
-+ Go to `index.html` and add the following code to the first pixel so that when the pixel is clicked on, the `setPixelColour` function is called:
++ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
 
 ![screenshot](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, so that it knows which pixel to change the colour of — `this` pixel!
+The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
 
 + Test your code by clicking on the first pixel. It should turn black.
 
