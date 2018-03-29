@@ -16,7 +16,7 @@
 
 + انتقل إلى الملف `script.js` وأنشئ متغيرًا يُسمى `penColour` في بداية الملف. عيِّن قيمة المتغير إلى `'black'`.
 
-[[[generic-javascript-create-variable]]]
+*generic-javascript-create-variable* to be added
 
 --- hints ---
 --- hint ---
@@ -28,7 +28,7 @@
 
 + أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ الإدخال `pen`. راجع الدالة `setPixelColour` التي أنشأتها بالفعل لمساعدتك.
 
-[[[generic-javascript-create-a-function]]]
+*generic-javascript-create-a-function* to be added
 
 + داخل الدالة `setPenColour`، أضف تعليمة برمجية لتعيين المتغير `penColour` إلى لون `pen` الموجود كقيمة الإدخال.
 
