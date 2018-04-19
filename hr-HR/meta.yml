@@ -1,0 +1,35 @@
+---
+title: Pixel art
+description: Izradite uređivač piksela s HTML, CSS i JavaScript.
+hero_image: slike / piksela art.png
+theme: mornarica
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Ono što će vam trebati
+  - 
+    title: Izradite rešetku piksela
+  - 
+    title: 'Izazov: promijenite veličinu svoje rešetke'
+  - 
+    title: U boji piksela
+  - 
+    title: 'Izazov: omogućite klikanje svih piksela'
+  - 
+    title: Dodajte paletu boja
+  - 
+    title: 'Izazov: dodajte više boja na paletu'
