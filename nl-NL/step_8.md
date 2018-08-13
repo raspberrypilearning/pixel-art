@@ -4,7 +4,7 @@
 
 Kun je meer kleuren toevoegen aan het palet?
 
-+ Kies de kleuren die je in je pixelkunst wilt gebruiken en voeg ze toe aan uw code. Maak vervolgens een aantal coole pixelafbeeldingen.
++ Kies de kleuren die je in je pixelkunst wilt gebruiken en voeg ze toe aan de code. Maak vervolgens een aantal coole pixelafbeeldingen.
 
 Hint: de felle groene kleur heet `chartreuse`. Hier is een [lijst met kleurnamen](https://www.w3schools.com/colors/colors_names.asp) waaruit je jouw favorieten kunt kiezen.
 
