@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Challenge: зміна розміру вашої сітки
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3 × 3 - це досить маленька сітка для піксельного мистецтва. Чи можете ви зробити сітку більшою? 8 × 8 хороший розмір для піксельного мистецтва.
 
-Try copying and pasting rather than typing everything out.
+Спробуйте скопіювати та вставити, а не вводити все.
 
-![screenshot](images/pixel-art-grid-8.png)
+![знімок екрану](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
