@@ -44,6 +44,6 @@ Nu zullen je pixels in een raster worden geplaatst met zwarte lijnen eromheen.
 
 Plak deze code direct onder de sectie die je zojuist hebt gekopieerd om een ​​nieuwe rij te maken. Herhaal dit nog een keer zodat je drie rijen van elk drie pixels hebt.
 
-Je kunt controleren of je tabel er goed uitziet door naar het resultaat aan de rechterkant te kijken. --- / hint --- --- hint --- Zo zou je code eruit moeten zien:
+Je kunt controleren of je tabel er goed uitziet door naar het resultaat aan de rechterkant te kijken. --- /hint --- --- hint --- Zo zou je code eruit moeten zien:
 
 ![screenshot](images/pixel-art-grid-3.png) --- /hint --- --- /hints ---

@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Uitdaging: wijzig het formaat van het raster
+## Uitdaging: verklein je raster
 
 3 × 3 is een vrij klein raster voor pixelillustraties. Kun je het raster groter maken? 8 × 8 is een goede maat voor pixelillustraties.
 

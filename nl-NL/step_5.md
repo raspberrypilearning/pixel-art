@@ -10,7 +10,7 @@ Laten we een JavaScript-code toevoegen om een pixel automatisch te kleuren als j
 
 We gaan een **functie** maken. Functies zijn codeblokken met een naam die een specifieke taak uitvoeren. We kunnen een functie met zijn naam **aanroepen** als we de code die het bevat willen uitvoeren.
 
-+ Maak binnen het `script.js` bestand een functie met de naam `setPixelColour`(geefPixelKleur). De functie `setPixelColour` moet een `pixel` als een **invoer** (Engels: input) aannemen, zodat deze de kleur van die pixel kan veranderen.
++ Maak binnen het `script.js` bestand een functie met de naam `setPixelColour` (geefPixelKleur). De functie `setPixelColour` moet een `pixel` als een **invoer** (Engels: input) aannemen, zodat deze de kleur van die pixel kan veranderen.
 
 ![Maak een functie](images/create-function.png)
 
@@ -26,7 +26,7 @@ Op dit moment heeft deze code geen effect.
 
 ![screenshot](images/pixel-art-onclick.png)
 
-De `this`(deze) tussen haakjes is de invoer voor de functie `setPixelColou`, die het laat weten welke pixel de kleur moet instellen voor - `deze` pixel!
+De `this` (deze) tussen haakjes is de invoer voor de functie `setPixelColour`, die het laat weten welke pixel de kleur moet instellen voor - `deze` pixel!
 
 + Test je code door op de eerste pixel te klikken. Deze moet zwart worden.
 
