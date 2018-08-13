@@ -1,10 +1,10 @@
-## Create a grid of pixels
+## Crie uma grade de pixels
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Vamos criar uma grade de pixels que você pode usar para criar pixel art.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+A grade será parecida com uma tabela. As tabelas contêm linhas e as linhas contêm células que representam os pixels.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Abra [este trinket](http://jumpto.cc/web-pixel).
 
 The project should look like this:
 
