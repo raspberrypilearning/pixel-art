@@ -1,43 +1,43 @@
-## Add a colour palette
+## Додайте кольорову палітру
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+Вас дратує те, що ви не можете змінити колір пікселя на білий, якщо ви зробили помилку? Визначимо це, створивши колірну палітру, щоб ви могли вибрати один з кольорів за допомогою кліку.
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ Додайте цей код у нижній частині вашого `style.css` файл для створення стилю ручки:
 
-![screenshot](images/pixel-art-pen.png)
+![знімок екрану](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ Тепер створіть палітру з чорно-білими кольорами, використовуючи створений вами стиль пера. Додайте наступний код до `index.html` нижче `<body>` тег:
 
-![screenshot](images/pixel-art-palette.png)
+![знімок екрану](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style =` дозволяє додавати код CSS у ваш HTML-файл, що зручно тут.
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+Нам потрібно додати код так, щоб при натисканні одного з кольорів на палітрі кольори пера змінювалися.
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ Перейдіть на ` script.js ` і створіть змінну з назвою ` penColour ` на самому верху файла. Встановити значення змінної до ` 'black' ` .
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \--- \--- hint \--- Додайте наступний код у верхній частині файлу:
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+![знімок екрану](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Нижче змінної створіть нову функцію, яка називається `setPenColour` з входом `pen`. Подивіться на функцію `setPixelColour` що ви вже створили, це допоможе вам.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ Всередині `setPenColour` функція, додайте код, щоб встановити `penColour` змінна до `pen` колір наданий як вхідний.
 
-![screenshot](images/pixel-art-set-pen.png)
+![знімок екрану](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+Вам також буде потрібно використовувати `penColour` змінна, коли ви змінюєте колір пікселя.
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ Змініть ` setPixelColour ` Використовуйте ` penColour ` змінна замість ` чорна ` :
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![знімок екрану](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ У `index.html` файл, додайте код, щоб натиснути `setPenColour ` Функція, коли натискається колір у палітрі.
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![знімок екрану](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ Перевірте, чи можна змінити колір пера між чорним і білим, щоб заповнити або видалити пікселі.
