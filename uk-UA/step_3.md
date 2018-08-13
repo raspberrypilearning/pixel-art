@@ -1,49 +1,49 @@
-## Create a grid of pixels
+## Створіть сітку пікселів
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Створімо сітку пікселів, які можна використовувати для створення піксельного мистецтва.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+Сітка виглядатиме як таблиця. Таблиці містять рядки, а рядки містять комірки, які представлятимуть пікселі.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Відкрийте [starter trinket](http://jumpto.cc/web-pixel).
 
-The project should look like this:
+Проект повинен виглядати так:
 
-![screenshot](images/pixel-starter.png)
+![знімок екрану](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+Спочатку давайте напишемо код, щоб створити таблицю з чорним фоном, а потім додати в неї білі пікселі.
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ Додайте цей код у `<body>` свого ` index.html` файлу, щоб створити `<div>` :
 
-![screenshot](images/pixel-art-art.png)
+![знімок екрану](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+A `<div>` - це невидиме поле, на яке ви можете натиснути ** **. Цей `<div>` має ідентифікатор ` art ` , який вам потрібний, щоб ви могли додати стилі до коробки.
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ Тепер перейдіть до вашого ` style.css` файлу та додайте стиль таблиці для `<div>` називається `art` .
 
-![screenshot](images/pixel-art-style.png)
+![знімок екрану](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+Це створює таблицю з межами і встановлює інтервал всередині сітки.
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+Це ще не виглядає дуже цікаво, тому вам потрібно помістити в нього рядки пікселів.
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ Поверніться до свого ` index.html ` файлу і додайте рядок з трьох пікселів ** inside** ` art ` коробки. Якщо ви хочете заощадити час, ви можете ввести перший рядок, а потім скопіювати та вставити його, щоб створити інші.
 
-![screenshot](images/pixel-art-row.png)
+![знімок екрану](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+Зверніть увагу, що тут ви використовуєте **class** замість ID, до стилю відділення. Оскільки буде велика кількість їх, тому клас більш корисний.
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ Перейдіть до ` style.css ` файл і додайте наступні стилі для рядків та пікселів у кожному рядку:
 
-![screenshot](images/pixel-art-row-style.png)
+![знімок екрану](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+Тепер ваші пікселі вирівняються в сітці з чорними лініями навколо них.
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ У своєму ` index.html ` файл, додайте ще дві секції пікселів, щоб створити 3 × 3 піксельну сітку. Ви можете скопіювати та вставити ще раз, щоб заощадити час.
 
-\--- hints \--- \--- hint \--- Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+\--- hints \--- \--- hint \--- Знайдіть тег `<div>` з класом `row` і скопіюйте його, включаючи три рядки, позначені як `pixel` які знаходяться всередині нього, до і включаючи з'єднювальний тег `</div>`.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+Вставте цей код безпосередньо під розділ, який ви щойно скопіювали, щоб створити інший рядок. Повторіть ще раз, щоб у вас було три ряди по три пікселя кожен.
 
-You can check whether your table looks right by looking at the result area on the right. \--- /hint \--- \--- hint \--- Here is how your code should look:
+Ви можете перевірити, чи правильно виглядає таблиця, переглядаючи область результатів праворуч. \--- /hint \--- \--- hint \--- Ось як виглядає ваш код:
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+![знімок екрану](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
