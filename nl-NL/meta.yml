@@ -1,8 +1,8 @@
 ---
 title: Pixel kunst
-description: Maak een pixelart-editor met behulp van HTML, CSS en JavaScript.
-hero_image: images / pixel-art.png
-theme: marine
+description: Maak een editor voor pixelillustraties met HTML, CSS en JavaScript.
+hero_image: images/pixel-art.png
+theme: navy
 duration: 2
 listed: true
 ingredient: false
@@ -22,9 +22,9 @@ steps:
   - 
     title: Wat heb je nodig
   - 
-    title: Maak een tabel van pixels
+    title: Maak een raster van pixels
   - 
-    title: 'Uitdaging: verklein je tabel'
+    title: 'Uitdaging: verklein je raster'
   - 
     title: Kleur de pixels
   - 
