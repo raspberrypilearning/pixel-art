@@ -1,6 +1,6 @@
 ## Inleiding
 
-Maak een editor voor pixelkunst. Naast het gebruik van HTML en CSS, leer je hoe je met JavaScript interactie aan je project toe voegt.
+Maak een editor voor pixelkunst. Naast het gebruik van HTML en CSS leer je hoe je met JavaScript interactie aan je project toevoegt.
 
 ### Wat ga je maken?
 
@@ -18,10 +18,10 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 + [Ontwerp standaard 2D- en 3D-items](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-+ [Gebruik simpele programmeerconstructies om eenvoudige programma's te maken](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Gebruik eenvoudige programmeerconstructies om eenvoudige programma's te maken](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
 ### Aanvullende informatie voor clubleiders
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/pixel-art/print){: target = "_ blank"}.
 
-Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repository voor dit project, dat alle bronnen (inclusief een voorbeeld van een voltooid project) bevat in de map 'en / resources'.
+Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repository voor dit project, dat alle bronnen (inclusief een voorbeeld van een voltooid project) bevat in de map 'en/resources'.
