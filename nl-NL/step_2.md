@@ -6,4 +6,4 @@
 
 ### Software
 
-Dit project kan in een webbrowser met de onlinetoepassing [trinket.io](https://trinket.io){: target = "_ blank"} worden voltooid.
+Dit project kan in een webbrowser worden voltooid met de onlinetoepassing [trinket.io](https://trinket.io){: target = "_ blank"}.
