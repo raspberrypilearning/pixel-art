@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Challenge: зробити всі пікселі активними
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Чи можете ви зробити всі пікселі активними? Щоб заощадити час, ви можете скопіювати та вставити потрібний код.
 
-Test your code by creating a quick piece of pixel art.
+Перевірте свій код, створивши швидкий фрагмент піксельного мистецтва.
 
-![screenshot](images/pixel-art-black-example.png)
+![знімок екрану](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Порада. Ви можете натиснути **Autorun** очистити всі пікселі.
 
 \--- /challenge \---
