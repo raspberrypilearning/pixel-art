@@ -1,5 +1,6 @@
+---
 title: Піксельна графіка
-description: У цьому проекті ви створите редактор піксельної графіки.
+description: Створіть редактора пікселів за допомогою HTML, CSS та JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -15,5 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Піксельна графіка
+steps:
+  - title: Вступ
+  - title: Що вам знадобиться
+  - title: Створіть сітку пікселів
+  - title: 'Завдання: зміна розміру вашої сітки'
+  - title: Додайте колір пікселям
+  - title: 'Завдання: зробити всі пікселі активними'
+  - title: Додайте кольорову палітру
+  - title: 'Завдання: додайте більше кольорів до палітри'

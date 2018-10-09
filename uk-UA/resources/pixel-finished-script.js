@@ -1,6 +1,6 @@
 	var penColour = 'black';
     
-  function setPenColour(pen)
+  функція setPenColour (pen)
   {
     penColour = pen;
   }
