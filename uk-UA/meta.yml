@@ -1,6 +1,6 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: Піксельна графіка
+description: Створіть редактора пікселів за допомогою HTML, CSS та JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: What you will need
+    title: Що вам знадобиться
   - 
-    title: Create a grid of pixels
+    title: Створіть сітку пікселів
   - 
-    title: 'Challenge: resize your grid'
+    title: 'Завдання: зміна розміру вашої сітки'
   - 
-    title: Colour the pixels
+    title: Додайте колір пікселям
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: 'Завдання: зробити всі пікселі активними'
   - 
-    title: Add a colour palette
+    title: Додайте кольорову палітру
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: 'Завдання: додайте більше кольорів до палітри'
