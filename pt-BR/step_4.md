@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Desafio: redimensione sua grade
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+A grade 3 × 3 é pequena para pixel art. Você pode fazer a grade maior? 8 × 8 é um bom tamanho para pixel art.
 
-Try copying and pasting rather than typing everything out.
+Tente copiar e colar em vez de digitar tudo.
 
 ![screenshot](images/pixel-art-grid-8.png)
 
