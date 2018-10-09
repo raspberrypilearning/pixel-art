@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Desafío: cambia el tamaño de tu grilla
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3 × 3 es una cuadrícula bastante pequeña para el arte de píxeles. ¿Puedes hacer la grilla más grande? 8 × 8 es un buen tamaño para el arte de píxeles.
 
-Try copying and pasting rather than typing everything out.
+Intenta copiar y pegar en lugar de escribir todo.
 
-![screenshot](images/pixel-art-grid-8.png)
+![captura de pantalla](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
