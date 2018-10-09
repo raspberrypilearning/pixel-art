@@ -1,35 +1,35 @@
-## Colour the pixels
+## Colorindo os pixels
 
-This project uses three different languages:
+Este projeto usa três línguagens diferentes:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML é usado para organizar seu conteúdo
++ CSS diz ao conteúdo como ele deve se parecer usando os estilos
++ JavaScript é uma linguagem de programação que você pode usar para fazer uma página web responder às interações com ela
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+Vamos adicionar um código JavaScript para colorir um pixel automaticamente quando você clicar nele.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Vamos criar uma **função**. As funções são blocos de código denominados que executam uma tarefa específica. Podemos **chamar** uma função pelo seu nome quando queremos executar o código que ela contém.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ Dentro do ` script.js ` arquivo, crie uma função com o nome ` setPixelColour ` (dar cor ao pixel). A função `setPixelColour` precisa ter um `pixel` como **entrada** para que ele pode mudar a cor deste pixel.
 
 ![Create function](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ Adicione este código dentro da função para definir a cor de fundo do pixel:
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+Observe que `backgroundColor` usa a ortografia americana de 'cor'.
 
-At the moment this code doesn't have any effect.
+No momento, esse código não tem qualquer efeito.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ Vá para `index. html` e adicione o seguinte código ao primeiro pixel para que quando você clicar neste pixel, a função `setPixelColour` seja chamada:
 
 ![screenshot](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+O ` this` nos parênteses é a variável de entrada para a função` setPixelColour `, que permite saber qual pixel para terá cor definida, para - ` this` (este) pixel!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ Teste seu código clicando no primeiro pixel. Ele deve ficar preto.
 
 ![screenshot](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+Você adicionou código ` onclick ` apenas para o ** primeiro ** pixel, então clicar nos outros pixels não fará nada ainda.
