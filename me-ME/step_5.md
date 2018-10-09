@@ -1,35 +1,35 @@
-## Colour the pixels
+## Oboji piksele
 
-This project uses three different languages:
+U ovom projektu koriste se tri različita jezika:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML se koristi za organizovanje sadržaja
++ CSS govori sadržaju kako da izgleda koristeći stilove
++ JavaScript je programski jezik koji možeš da koristiš da napraviš da veb-stranica reaguje u tvojoj interakciji sa njom
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+Dodajmo Javascript kôd da se piksel automatski oboji kada klikneš na njega.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Kreiraćemo **funkciju**. Funkcije su imenovani blokovi kôda koji izvršavaju određeni zadatak. Možemo **pozvati** funkciju po njenom nazivu kada želimo da izvršimo kôd koji ona sadrži.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ Unutar datoteke `script.js`, kreiraj funkciju sa nazivom `setPixelColour`. Funkcija `setPixelColour` treba da ima `pixel` kao **ulaz** kako bi mogla da promijeni boju piksela.
 
-![Create function](images/create-function.png)
+![Napravi funkciju](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ Dodaj ovaj kôd unutar funkcije da postaviš boju pozadine piksela:
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+Primijeti da se u `backgroundColor` koristi američki pravopis za 'colour' (boja).
 
-At the moment this code doesn't have any effect.
+Trenutno ovaj kôd nema nikakav učinak.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ Idi u `index.html` i dodaj sljedeći kôd prvom pikselu tako da funkcija `setPixelColour` bude pozvana kada klikneš na taj piksel:
 
 ![screenshot](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+Riječ `this` u zagradama je ulaz za funkciju `setPixelColour` i ona omogućava funkciji da prepozna kojem pikselu treba da postavi boju — `this` pixel (ovaj piksel)!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ Isprobaj svoj kôd tako što ćeš kliknuti na prvi piksel. Trebalo bi da postane crn.
 
 ![screenshot](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+Kôd `onclick` dodali smo samo **prvom** pikselu, tako da se još uvijek neće ništa desiti kada klikneš na druge piksele.
