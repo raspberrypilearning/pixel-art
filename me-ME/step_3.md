@@ -1,49 +1,49 @@
-## Create a grid of pixels
+## Napravi rešetku od piksela
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Napravimo rešetku od piksela koju možeš da koristiš za kreiranje pixel art-a.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+Rešetka će izgledati kao tabela. Tabele sadrže redove, a redovi sadrže ćelije koje će predstavljati piksele.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Otvori [početni trinket](http://jumpto.cc/web-pixel).
 
-The project should look like this:
+Projekat treba da izgleda ovako:
 
 ![screenshot](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+Prvo napišimo kôd da napravimo tabelu sa crnom pozadinom, a zatim stavimo u nju bijele piksele.
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ Dodaj ovaj kôd u `<body>` svoje `index.html` datoteke da kreiraš `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+Element `<div>` je nevidljiva kutija kojoj možeš da dodijeliš **stil**. Ovaj `<div>` ima ID `art` koji ti je potreban za dodavanje stilova u kutiju.
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ Sada idi u svoju datoteku `style.css` i dodaj stil tabele za `<div>` pod nazivom `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+Tako ćeš kreirati tabelu sa okvirom i postaviti razmak unutar rešetke.
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+Još uvijek ne izgleda zanimljivo, pa stoga treba da postaviš redove piksela unutar nje.
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ Vrati se u svoju datoteku `index.html` i dodaj red od tri piksela **unutar** kutije `art`. Ako želiš da uštediš vrijeme, možeš upisati prvi red, a zatim ga kopirati i prenijeti da kreiraš ostale.
 
 ![screenshot](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+Obrati pažnju da ovdje upotrebljavaš **class** umjesto ID da stilizuješ elemente div. Razlog za to je što će ih biti mnogo, pa je klasa korisnija.
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ Pređi u datoteku `style.css` i dodaj sljedeće stilove za redove i piksele unutar svakog reda:
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ U svoju `index.html` datoteku dodaj još dva odjeljka piksela da kreiraš rešetku od 3x3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
 
-\--- hints \--- \--- hint \--- Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+\--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, sve do i uključujući njenu odgovarajuću oznaku `</div>`.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+Prenesi ovaj kôd odmah ispod odjeljka koji si upravo kopirao/kopirala da kreiraš drugi red. Ponovi to još jednom, tako da imaš tri reda po tri piksela.
 
-You can check whether your table looks right by looking at the result area on the right. \--- /hint \--- \--- hint \--- Here is how your code should look:
+Da provjeriš da li tvoja tabela izgleda ispravno, pogledaj rezultat sa desne strane. \--- /hint \--- \--- hint \--- Ovako bi trebalo da izgleda tvoj kôd:
 
 ![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
