@@ -26,7 +26,7 @@ Trenutno ovaj kôd nema nikakav učinak.
 
 ![screenshot](images/pixel-art-onclick.png)
 
-Riječ `this` u zagradama je ulaz za funkciju `setPixelColour` i ona omogućava funkciji da prepozna kojem pikselu treba da postavi boju — `this` pixel (ovaj piksel)!
+Riječ `this` u zagradi je ulaz za funkciju `setPixelColour` i ona omogućava funkciji da prepozna kojem pikselu treba da postavi boju - `this` pixel (ovaj piksel)!
 
 + Isprobaj svoj kôd tako što ćeš kliknuti na prvi piksel. Trebalo bi da postane crn.
 
