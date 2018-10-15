@@ -10,7 +10,7 @@ Projekat treba da izgleda ovako:
 
 ![screenshot](images/pixel-starter.png)
 
-Prvo napišimo kôd da napravimo tabelu sa crnom pozadinom, a zatim stavimo u nju bijele piksele.
+Prvo napišimo kôd kako bismo napravili tabelu sa crnom pozadinom i u nju stavili bijele piksele.
 
 + Dodaj ovaj kôd u `<body>` svoje `index.html` datoteke da kreiraš `<div>`:
 
