@@ -10,7 +10,7 @@ Dodajmo Javascript kôd da se piksel automatski oboji kada klikneš na njega.
 
 Kreiraćemo **funkciju**. Funkcije su imenovani blokovi kôda koji izvršavaju određeni zadatak. Funkciju možemo **pozvati** po nazivu kada želimo da izvršimo kôd koji ona sadrži.
 
-+ Unutar `script.js` datoteke kreiraj funkciju sa nazivom `setPixelColour`. Funkcija `setPixelColour` treba da ima `pixel` kao **ulaz** kako bi mogla da promijeni boju piksela.
++ Unutar `script.js` datoteke kreiraj funkciju sa nazivom `setPixelColour`. Funkcija `setPixelColour` treba da ima `pixel` kao **ulaz** kako bi mogla da promijeni boju tog piksela.
 
 ![Napravi funkciju](images/create-function.png)
 
