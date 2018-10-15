@@ -3,7 +3,7 @@
 U ovom projektu koriste se tri različita jezika:
 
 + HTML se koristi za organizovanje sadržaja
-+ CSS govori sadržaju kako da izgleda koristeći stilove
++ CSS određuje izgled sadržaja pomoću stilova
 + JavaScript je programski jezik koji možeš da koristiš da napraviš da veb-stranica reaguje u tvojoj interakciji sa njom
 
 Dodajmo Javascript kôd da se piksel automatski oboji kada klikneš na njega.
