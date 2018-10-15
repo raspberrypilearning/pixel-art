@@ -44,6 +44,6 @@ Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
 Prenesi ovaj kôd odmah ispod dijela koji si upravo kopirao/kopirala da kreiraš drugi red. Ponovi to još jednom, tako da imaš tri reda po tri piksela.
 
-Da provjeriš da li tvoja tabela izgleda ispravno, pogledaj rezultat sa desne strane. \--- /hint \--- \--- hint \--- Ovako bi trebalo da izgleda tvoj kôd:
+Možeš da provjeriš da li tvoja tabela izgleda ispravno tako što ćeš pogledati rezultat sa desne strane. \--- /hint \--- \--- hint \--- Tvoj kôd treba da izgleda ovako:
 
 ![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
