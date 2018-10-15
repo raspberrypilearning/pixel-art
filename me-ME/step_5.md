@@ -12,7 +12,7 @@ Kreiraćemo **funkciju**. Funkcije su imenovani blokovi kôda koji izvršavaju o
 
 + Unutar `script.js` datoteke kreiraj funkciju sa nazivom `setPixelColour`. Funkcija `setPixelColour` treba da ima `pixel` kao **ulaz** kako bi mogla da promijeni boju tog piksela.
 
-![Napravi funkciju](images/create-function.png)
+![Kreiraj funkciju](images/create-function.png)
 
 + Dodaj ovaj kôd unutar funkcije da postaviš boju pozadine piksela:
 
