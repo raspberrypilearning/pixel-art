@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: napravi sve piksele aktivnim
+## Izazov: napravi da svi pikseli budu klikabilni
 
 Možeš li da napraviš da svi pikseli budu aktivni? Da uštediš vrijeme, možeš kopirati i prenijeti kôd koji ti je potreban.
 
