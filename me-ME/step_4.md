@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: promijeni veličinu svoje rešetke
+## Izazov: promijeni veličinu rešetke
 
 Rešetka veličine 3x3 je previše mala za pixel art. Možeš li da povećaš rešetku? Dobra veličina za pixel art je 8x8.
 
