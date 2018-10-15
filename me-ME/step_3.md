@@ -18,11 +18,11 @@ Prvo napišimo kôd kako bismo napravili tabelu sa crnom pozadinom i u nju stavi
 
 Elemenat `<div>` je nevidljiva kutija kojoj možeš da dodijeliš **stil**. Ovaj `<div>` ima ID `art` koji ti je potreban za dodavanje stilova kutiji.
 
-+ Sada pređi na svoju datoteku `style.css` i dodaj stil tabele za `<div>` sa nazivom `art`.
++ Sada pređi na svoju `style.css` datoteku i dodaj stil tabele za `<div>` sa nazivom `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
-Tako ćeš kreirati tabelu sa okvirom i podesiti razmak unutar rešetke.
+Tako kreiraš tabelu sa okvirom i podešavaš razmak unutar rešetke.
 
 Još uvijek ne izgleda zanimljivo, pa stoga treba da postaviš redove piksela unutar nje.
 
