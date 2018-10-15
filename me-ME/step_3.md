@@ -22,7 +22,7 @@ Elemenat `<div>` je nevidljiva kutija kojoj možeš da dodijeliš **stil**. Ovaj
 
 ![screenshot](images/pixel-art-style.png)
 
-Tako ćeš kreirati tabelu sa okvirom i postaviti razmak unutar rešetke.
+Tako ćeš kreirati tabelu sa okvirom i podesiti razmak unutar rešetke.
 
 Još uvijek ne izgleda zanimljivo, pa stoga treba da postaviš redove piksela unutar nje.
 
