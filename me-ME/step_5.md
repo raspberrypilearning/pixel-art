@@ -18,7 +18,7 @@ Kreiraćemo **funkciju**. Funkcije su imenovani blokovi kôda koji izvršavaju o
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
 
-Primijeti da se u `backgroundColor` koristi američki pravopis za 'colour' (boja).
+Imaj u vidu da se u `backgroundColor` koristi američki pravopis za 'colour' (boja).
 
 Trenutno ovaj kôd nema nikakav učinak.
 
