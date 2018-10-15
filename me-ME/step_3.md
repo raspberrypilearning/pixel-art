@@ -38,7 +38,7 @@ Obrati pažnju na to da ovdje za stilizovanje elemenata div upotrebljavaš **cla
 
 Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
-+ U svoju `index.html` datoteku dodaj još dva reda piksela da kreiraš rešetku od 3x3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
++ U svoju `index.html` datoteku dodaj još dva reda piksela da kreiraš rešetku od 3 x 3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
 
 \--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, kao i odgovarajuću završnu oznaku `</div>`.
 
