@@ -30,15 +30,15 @@ Još uvijek ne izgleda zanimljivo, pa stoga treba da postaviš redove piksela un
 
 ![screenshot](images/pixel-art-row.png)
 
-Obrati pažnju da ovdje upotrebljavaš **class** umjesto ID da stilizuješ elemente div. Razlog za to je što će ih biti mnogo, pa je klasa korisnija.
+Obrati pažnju na to da ovdje za stilizovanje elemenata div upotrebljavaš **class** umjesto ID-a. Razlog za to je što će ih biti mnogo, pa je klasa korisnija.
 
-+ Pređi u datoteku `style.css` i dodaj sljedeće stilove za redove i piksele unutar svakog reda:
++ Pređi na `style.css` datoteku i dodaj sljedeće stilove za redove i piksele unutar svakog reda:
 
 ![screenshot](images/pixel-art-row-style.png)
 
 Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
-+ U svoju `index.html` datoteku dodaj još dva odjeljka piksela da kreiraš rešetku od 3x3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
++ U svoju `index.html` datoteku dodaj još dva reda piksela da kreiraš rešetku od 3x3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
 
 \--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, sve do i uključujući njenu odgovarajuću oznaku `</div>`.
 
