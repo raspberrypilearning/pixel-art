@@ -26,7 +26,7 @@ Tako kreiraš tabelu sa okvirom i podešavaš razmak unutar rešetke.
 
 Još uvijek ne izgleda zanimljivo, pa stoga treba da postaviš redove piksela unutar nje.
 
-+ Vrati se u svoju datoteku `index.html` i dodaj red od tri piksela **unutar** kutije `art`. Ako želiš da uštediš vrijeme, možeš upisati prvi red, a zatim ga kopirati i prenijeti da kreiraš ostale.
++ Vrati se na svoju `index.html` datoteku i dodaj red od tri piksela **unutar** kutije `art`. Ako želiš da uštediš vrijeme, možeš upisati prvi red, a zatim ga kopirati i prenijeti da napraviš ostale.
 
 ![screenshot](images/pixel-art-row.png)
 
