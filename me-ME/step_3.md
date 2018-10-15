@@ -16,9 +16,9 @@ Prvo napišimo kôd kako bismo napravili tabelu sa crnom pozadinom i u nju stavi
 
 ![screenshot](images/pixel-art-art.png)
 
-Element `<div>` je nevidljiva kutija kojoj možeš da dodijeliš **stil**. Ovaj `<div>` ima ID `art` koji ti je potreban za dodavanje stilova u kutiju.
+Elemenat `<div>` je nevidljiva kutija kojoj možeš da dodijeliš **stil**. Ovaj `<div>` ima ID `art` koji ti je potreban za dodavanje stilova kutiji.
 
-+ Sada idi u svoju datoteku `style.css` i dodaj stil tabele za `<div>` pod nazivom `art`.
++ Sada pređi na svoju datoteku `style.css` i dodaj stil tabele za `<div>` sa nazivom `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
