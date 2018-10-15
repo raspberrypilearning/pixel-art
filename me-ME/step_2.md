@@ -6,4 +6,4 @@
 
 ### Softver
 
-Ovaj projekat može biti izrađen u veb-pregledaču, koristeći [trinket.io](https://trinket.io){:target="_blank"} online aplikaciju.
+Ovaj projekat može biti izrađen u veb-pregledaču, koristeći online aplikaciju [trinket.io](https://trinket.io){:target="_blank"}.
