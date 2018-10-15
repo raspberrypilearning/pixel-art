@@ -40,9 +40,9 @@ Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
 + U svoju `index.html` datoteku dodaj još dva reda piksela da kreiraš rešetku od 3x3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
 
-\--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, sve do i uključujući njenu odgovarajuću oznaku `</div>`.
+\--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, kao i odgovarajuću završnu oznaku `</div>`.
 
-Prenesi ovaj kôd odmah ispod odjeljka koji si upravo kopirao/kopirala da kreiraš drugi red. Ponovi to još jednom, tako da imaš tri reda po tri piksela.
+Prenesi ovaj kôd odmah ispod dijela koji si upravo kopirao/kopirala da kreiraš drugi red. Ponovi to još jednom, tako da imaš tri reda po tri piksela.
 
 Da provjeriš da li tvoja tabela izgleda ispravno, pogledaj rezultat sa desne strane. \--- /hint \--- \--- hint \--- Ovako bi trebalo da izgleda tvoj kôd:
 
