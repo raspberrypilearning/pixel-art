@@ -18,7 +18,7 @@ Potrebno je da dodamo kôd kako bi se boja olovke mijenjala kada se klikne na je
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Dodaj sljedeći kôd na vrhu datoteke:
+\--- hints \--- \--- hint \--- Dodaj sljedeći kôd na vrh datoteke:
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
