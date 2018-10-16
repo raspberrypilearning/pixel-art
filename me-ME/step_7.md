@@ -2,7 +2,7 @@
 
 Da li ti je zasmetalo što boju piksela ne možeš da vratiš u bijelu kada napraviš grešku? Riješimo to kreiranjem palete boja, tako da možeš da odabereš boju olovke jednim klikom.
 
-+ Dodaj sljedeći kôd na kraju svoje datoteke `style.css` da kreiraš stil olovke:
++ Dodaj sljedeći kôd na kraju svoje `style.css` datoteke da kreiraš stil olovke:
 
 ![screenshot](images/pixel-art-pen.png)
 
