@@ -1,6 +1,6 @@
 ---
 title: Pixel art
-description: Kreiraj pixel art editor koristeći HTML, CSS i JavaScript.
+description: Izradi pixel art editor koristeći HTML, CSS i JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -24,12 +24,12 @@ steps:
   - 
     title: Napravi rešetku od piksela
   - 
-    title: 'Izazov: promijeni veličinu svoje rešetke'
+    title: 'Izazov: promijeni veličinu rešetke'
   - 
     title: Oboji piksele
   - 
-    title: 'Izazov: napravi sve piksele aktivnim'
+    title: 'Izazov: napravi da svi pikseli budu klikabilni'
   - 
     title: Dodaj paletu boja
   - 
-    title: 'Izazov: dodaj još boja u paletu'
+    title: 'Izazov: dodaj više boja u paletu'
