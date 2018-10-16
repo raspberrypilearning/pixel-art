@@ -14,7 +14,7 @@ Da li ti je zasmetalo što boju piksela ne možeš da vratiš u bijelu kada napr
 
 Potrebno je da dodamo kôd kako bi se boja olovke mijenjala kada se klikne na jednu od boja iz palete.
 
-+ Pređi na `script.js` i kreiraj promjenljivu pod nazivom `penColour` na samom vrhu datoteke. Postavi vrijednost promjenljive na `'black'` (crna).
++ Pređi na `script.js` i kreiraj promjenljivu pod nazivom `penColour` na samom vrhu datoteke. Promjenljivoj dodijeli vrijednost `'black'` (crna).
 
 [[[generic-javascript-create-variable]]]
 
