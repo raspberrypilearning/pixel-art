@@ -22,7 +22,7 @@ Potrebno je da dodamo kôd kako bi se boja olovke mijenjala kada se klikne na je
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Ispod promjenljive, kreiraj novu funkciju pod nazivom `setPenColour` sa ulazom `pen` (olovka). Za pomoć, pogledaj već kreiranu funkciju `setPixelColour`.
++ Ispod promjenljive kreiraj novu funkciju pod nazivom `setPenColour` sa ulazom `pen` (olovka). Pogledaj već kreiranu funkciju `setPixelColour` ako ti treba pomoć.
 
 [[[generic-javascript-create-a-function]]]
 
