@@ -1,6 +1,6 @@
 ## Dodaj paletu boja
 
-Da li ti je zasmetalo što boju piksela ne možeš da vratiš u bijelu kada napraviš grešku? Popravimo to kreiranjem palete boja, tako da ćeš moći da izabereš boju olovke jednim klikom.
+Da li ti je zasmetalo što boju piksela ne možeš da vratiš u bijelu kada napraviš grešku? Riješimo to kreiranjem palete boja, tako da možeš da odabereš boju olovke jednim klikom.
 
 + Dodaj sljedeći kôd na kraju svoje datoteke `style.css` da kreiraš stil olovke:
 
