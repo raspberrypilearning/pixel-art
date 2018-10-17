@@ -22,7 +22,7 @@ Imaj u vidu da se u `backgroundColor` koristi američki pravopis za 'colour' (bo
 
 Trenutno ovaj kôd nema nikakav učinak.
 
-+ Idi u `index.html` i dodaj sljedeći kôd prvom pikselu tako da funkcija `setPixelColour` bude pozvana kada klikneš na taj piksel:
++ Pređi na `index.html` i dodaj sljedeći kôd prvom pikselu tako da funkcija `setPixelColour` bude pozvana kada klikneš na taj piksel:
 
 ![screenshot](images/pixel-art-onclick.png)
 
