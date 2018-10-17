@@ -2,7 +2,7 @@
 
 ## Izazov: dodaj više boja u paletu
 
-Da li možeš da dodaš više boja u paletu?
+Možeš li da dodaš više boja u paletu?
 
 + Odaberi boje koje želiš da koristiš u svom pixel art-u i dodaj ih u svoj kôd. Zatim izradi nekoliko zanimljivih slika od piksela.
 
