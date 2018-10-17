@@ -6,7 +6,7 @@ Možeš li da dodaš više boja u paletu?
 
 + Odaberi boje koje želiš da koristiš u svom pixel art-u i dodaj ih u svoj kôd. Zatim izradi nekoliko zanimljivih slika od piksela.
 
-Savjet: Svijetlozelenu boju naći ćeš pod nazivom `chartreuse`. Ovdje je [spisak naziva boja](https://www.w3schools.com/colors/colors_names.asp) iz kojeg možeš da izabereš svoje omiljene boje.
+Savjet: Svijetlozelenu boju naći ćeš pod nazivom `chartreuse`. Ovdje je [spisak naziva boja](https://www.w3schools.com/colors/colors_names.asp) iz kojeg možeš da odabereš svoje omiljene boje.
 
 ![screenshot](images/pixel-art-final.png)
 
