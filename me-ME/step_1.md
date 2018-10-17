@@ -1,6 +1,6 @@
 ## Uvod
 
-Izradi pixel art editor. Pored toga što ćeš koristiti HTML i CSS, naučićeš kako se koristi JavaScript za dodavanje interaktivnosti tvom projektu.
+Izradi pixel art editor. Pored toga što ćeš koristiti HTML i CSS, naučićeš kako da koristiš JavaScript za dodavanje interaktivnosti u svoj projekat.
 
 ### Šta ćeš napraviti
 
