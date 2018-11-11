@@ -1,9 +1,9 @@
-## What you will need
+## 준비물
 
-### Hardware
+### 하드웨어
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ [trinket.io](https://trinket.io)에 액세스 할 수있는 컴퓨터 {: target = "_ blank"}
 
-### Software
+### 소프트웨어
 
-This project can be completed in a web browser using the [trinket.io](https://trinket.io){:target="_blank"} online application.
+이 프로젝트는 [trinket.io](https://trinket.io){:target="_blank"} 사이트에서 완성할 수 있습니다.
