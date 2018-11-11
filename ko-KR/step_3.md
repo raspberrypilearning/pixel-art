@@ -32,13 +32,13 @@
 
 여기서 **클래스**를 ID 대신 사용하고 있음을 주목하십시오. 많은 내용을 한번에 바꾸기 위해서는 클래스를 사용하는 것이 유용합니다.
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ `style.css` 파일로 돌아가 아래 코드를 추가하여, 각 행과 각 픽셀에 스타일을 추가합니다.
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+이제 픽셀 주위에 검은 선으로 된 눈금 선이 나타날 것입니다.
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ `index.html` 파일에서, 두 개의 픽셀 섹션을 추가하여 3x3 픽셀 격자를 만들어 보십시오. 복사 붙여넣기를 사용해서 시간을 절약할 수 있습니다.
 
 \--- hints \--- \--- hint \--- Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
