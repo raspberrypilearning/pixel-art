@@ -1,12 +1,12 @@
-## Create a grid of pixels
+## 픽셀 그리드 만들기
 
-Let's create a grid of pixels that you can use for creating pixel art.
+픽셀 아트를 만들 때 사용할 픽셀 그리드를 만들어 봅시다.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+그리드는 우리가 흔히 보는 표처럼, 행과 셀로 표현되어 있습니다.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ 이 [trinket](http://jumpto.cc/web-pixel)을 열어 주십시오.
 
-The project should look like this:
+프로젝트는 아래와 같이 보일 것입니다:
 
 ![screenshot](images/pixel-starter.png)
 
