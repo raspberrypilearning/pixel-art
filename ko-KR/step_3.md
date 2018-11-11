@@ -10,27 +10,27 @@
 
 ![screenshot](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+먼저 검정색 배경이 있는 표를 만들고, 흰색 픽셀을 그 안에 넣는 코드를 작성해 보겠습니다.
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ `<div>`를 만들기 위해 아래 코드를 `index.html`의 `<body>`에 넣어주세요.
 
 ![screenshot](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+`<div>` 태그는 보이지 않는 박스이나, **스타일을 지정할 수 있습니다.** `<div>`은 `art`라는 ID를 가지고 있습니다. 이 영역에 스타일을 추가할 수 있는 것입니다.
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ 이제 `style.css` 파일로 이동하여 `<div>` 내 `art`을 스타일링할 수 있는 코드를 추가하십시오.
 
 ![screenshot](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+이렇게 하면 태두리가 있는 표가 만들어지고 표 안의 간격이 설정됩니다.
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+아직 별로 흥미롭게 보이지 않네요, 그래서 내부에 픽셀 행을 넣어야 합니다.
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ `index.html` 파일로 돌아가 `art` 박스 **안에** 아래 3줄 코드를 추가해 봅시다. 만약 시간을 절약하고 싶다면 첫 번째 줄 코드를 입력한 다음에 복사 붙여넣기하는 방법이 있습니다.
 
 ![screenshot](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+여기서 **클래스**를 ID 대신 사용하고 있음을 주목하십시오. 많은 내용을 한번에 바꾸기 위해서는 클래스를 사용하는 것이 유용합니다.
 
 + Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
