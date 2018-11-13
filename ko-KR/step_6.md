@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## 과제: 모든 픽셀에 클릭 적용하기
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+모든 픽셀을 클릭할 수 있게 할 수 있나요? 시간을 절약하기 위해 복사 붙여넣기를 활용하세요.
 
-Test your code by creating a quick piece of pixel art.
+아래와 같이 예쁜 픽셀 아트를 만들어 코드를 테스트해 보세요.
 
-![screenshot](images/pixel-art-black-example.png)
+![스크린샷](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+팁: **Autorun**을 누르면 모든 픽셀을 지울 수 있습니다.
 
 \--- /challenge \---
