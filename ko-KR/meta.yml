@@ -1,8 +1,8 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: 픽셀 아트
+description: HTML, CSS, JavaScript를 사용하여 만드는 픽셀 아트 편집기.
 hero_image: images/pixel-art.png
-theme: navy
+theme: 해군
 duration: 2
 listed: true
 ingredient: false
