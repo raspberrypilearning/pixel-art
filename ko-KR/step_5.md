@@ -12,24 +12,24 @@
 
 + `script.js` 파일에 들어가서, `setPixelColour` 함수를 제작하십시오. `setPixelColour` 함수는 `pixel`을 **입력**으로 받아 픽셀의 색깔을 바꿀 수 있도록 설정해 주는 함수입니다.
 
-![Create function](images/create-function.png)
+![함수 만들기](images/create-function.png)
 
 + 아래 코드를 함수 안에 추가하여 픽셀의 배경색을 설정하세요.
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![스크린샷](images/pixel-art-set-pixel-colour.png)
 
 `backgroundColor`는 'colour'라는 미국식 철자를 사용합니다.
 
 아직 이 코드는 아무런 효과가 없습니다.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ `index.html`로 이동해 아래 코드를 첫 번째 픽셀에 추가하여 픽셀을 클릭할 때 `setPixelColour` 함수가 호출되도록 합니다.
 
-![screenshot](images/pixel-art-onclick.png)
+![스크린샷](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+괄호 안의 `this`는 `setPixelColour` 함수의 입력을 의미하고 어떤 픽셀에 색상 정보를 줘야 할지 알려줍니다. - `this` 픽셀!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ 첫 번째 픽셀을 클릭하여 코드를 테스트하십시오. 검은 색으로 변하는 것을 확인할 수 있습니다.
 
-![screenshot](images/pixel-art-black.png)
+![스크린샷](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+아직 `onclick` 코드를 **첫 번째** 픽셀밖에 적용하지 못했습니다. 다른 픽셀을 클릭했을 때에는 아무런 변화가 없을 것입니다.
