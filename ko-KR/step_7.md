@@ -22,17 +22,17 @@
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ 변수 아래에 새 `setPenColour` 함수를 만들어서 `pen`의 색깔을 함수에서 받을 수 있도록 합니다. 아까 만들었던 `setPixelColour` 함수를 참고하시면 도움이 될 것입니다.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ `setPenColour` 함수에 아래 코드를 추가하여 `penColour` 변수가 `pen`의 색깔을 함수에서 입력으로 받을 수 있도록 합니다.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+또한 `penColour` 변수를 픽셀 색상을 바꿀 때 사용해야 합니다.
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ `setPixelColour` 함수를 아래와 같이 `black` 대신 `penColour`로 변경합니다.
     
     ![screenshot](images/pixel-art-use-pen.png)
 
