@@ -1,12 +1,12 @@
-## Add a colour palette
+## 색깔 팔레트 추가
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+실수로 검은색을 칠해 버렸을 때 다시 흰색으로 바꾸지 못한다는 것을 알고 계셨나요? 이제 색상 팔레트를 만들어 그 문제를 해결해 봅시다!
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ 아래 코드를 `style.css` 파일에 추가해 펜 스타일을 만들어 봅시다.
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ 이제 검은색과 회색 펜 색상 팔레트를 제작하였습니다. 아래 코드를 `index.html` 내 `<body>` 태그 안에 넣어 주십시오.
 
 ![screenshot](images/pixel-art-palette.png)
 
