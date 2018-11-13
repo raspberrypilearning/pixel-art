@@ -10,15 +10,15 @@
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style=`은 CSS 코드를 HTML 파일에 넣을 수 있도록 해 줍니다. 편리하게 사용할 수 있는 기능이니 참고하시기 바랍니다.
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+팔레트의 색깔 중 하나를 클릭하면 펜의 색상이 변경되도록 코드를 추가할 것입니다.
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ `script.js` 파일에서 `penColour` 변수를 코드의 제일 위에 만드세요. 그리고 변수의 값을 `'black'`으로 설정하세요.
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \--- \--- hint \--- 아래 코드를 파일 가장 위에 삽입하세요.
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
