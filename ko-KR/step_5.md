@@ -10,17 +10,17 @@
 
 우리는 **함수**를 제작할 것입니다. 함수는 특정 작업을 수행하는 코드 블록입니다. 해당 블록을 실행하고자 할 때 우리는 함수를 **호출**할 수 있습니다.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ `script.js` 파일에 들어가서, `setPixelColour` 함수를 제작하십시오. `setPixelColour` 함수는 `pixel`을 **입력**으로 받아 픽셀의 색깔을 바꿀 수 있도록 설정해 주는 함수입니다.
 
 ![Create function](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ 아래 코드를 함수 안에 추가하여 픽셀의 배경색을 설정하세요.
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+`backgroundColor`는 'colour'라는 미국식 철자를 사용합니다.
 
-At the moment this code doesn't have any effect.
+아직 이 코드는 아무런 효과가 없습니다.
 
 + Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
 
