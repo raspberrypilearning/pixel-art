@@ -1,14 +1,14 @@
-## Colour the pixels
+## 픽셀에 색상 입히기
 
-This project uses three different languages:
+이 프로젝트는 세 가지 다른 언어를 사용합니다.
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ 내용을 구성하기 위해 HTML 사용
++ 스타일을 어떻게 보여줄지 구성하는 CSS 사용
++ 웹페이지 상호 작용을 구현하기 위한 JavaScript 사용
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+이제 JavaScript 코드를 추가하여 클릭할 때 자동으로 색상을 지정하는 코드를 추가해 보겠습니다.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+우리는 **함수**를 제작할 것입니다. 함수는 특정 작업을 수행하는 코드 블록입니다. 해당 블록을 실행하고자 할 때 우리는 함수를 **호출**할 수 있습니다.
 
 + Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
 
