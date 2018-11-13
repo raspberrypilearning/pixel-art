@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## 과제: 그리드 리사이징
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3x3 그리드는 픽셀 아트를 표현하기에 너무 작습니다. 그리드를 더 크게 만들 수 있나요? 8x8 그리드 정도가 픽셀 아트를 만들기에 적합한 크기입니다.
 
-Try copying and pasting rather than typing everything out.
+직접 입력하지 말고 복사, 붙여 넣기를 활용하세요.
 
-![screenshot](images/pixel-art-grid-8.png)
+![스크린샷](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
