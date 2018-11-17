@@ -22,7 +22,7 @@
 
 ![لقطة الشاشة](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ مدخل `pen`. راجع الدالة `setPixelColour` التي أنشأتها مُسبق لمساعدتك.
++ أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ مدخل `pen`. راجع الدالة `setPixelColour` التي أنشأتها مُسبقاً لمساعدتك.
 
 [[[generic-javascript-create-a-function]]]
 
@@ -30,13 +30,13 @@
 
 ![لقطة الشاشة](images/pixel-art-set-pen.png)
 
-ستحتاج إلى استخدام المتغير `penColour` عندما تغير لون وحدة بكسل.
+ستحتاج أيضاً إلى استخدام المتغير `penColour` عندما تغير لون وحدة بكسل.
 
 + غيِّر الدالة `setPixelColour` بحيث تستخدم المتغير `penColour` بدلًا من القيمة `black`:
     
     ![لقطة الشاشة](images/pixel-art-use-pen.png)
 
-+ في الملف `index.html`، أضف بعض التعليمات البرمجية لاستدعاء الدالة `setPenColour` عند النقر فوق لون في لوحة الألوان.
++ في الملف `index.html`، أضف بعض التعليمات البرمجية لاستدعاء الدالة `setPenColour` عندما يتم النقر على لون في لوحة الألوان.
 
 ![لقطة الشاشة](images/pixel-art-palette-onclick.png)
 
