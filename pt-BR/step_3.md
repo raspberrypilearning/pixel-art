@@ -6,7 +6,7 @@ A grade será parecida com uma tabela. As tabelas contêm linhas e as linhas con
 
 + Abra [este trinket](http://jumpto.cc/web-pixel).
 
-O projeto deve se parecer com isto:
+O arquivo ficará assim:
 
 ![screenshot](images/pixel-starter.png)
 
@@ -46,4 +46,4 @@ Cole este código imediatamente abaixo da seção que você acabou de copiar par
 
 Você pode verificar se sua tabela está certa observando a área de resultados à direita. \---dica de /hint\--- \---\--- Eis como seu código deve parecer:
 
-![screenshot](images/pixel-art-grid-3.png) \---/hints \--- \--- /hint \---
+![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
