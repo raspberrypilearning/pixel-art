@@ -20,7 +20,7 @@
     
     \---ヒント\--- \---ヒント\--- \--- ファイルの先頭に次のコードを追加します。
     
-    ![スクリーンショット](images/pixel-art-pencolour.png) \--- /ヒント\--- \--- /ヒント\---
+    ![スクリーンショット](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
     
     + 変数の下に、 `setPenColour` という新しい関数を作成し、 `ペン`入力を加えます。すでに作成した関数 `setPixelColour` を見てください。
     
