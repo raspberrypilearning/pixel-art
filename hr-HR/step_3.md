@@ -8,19 +8,19 @@ Rešetka će izgledati poput stola. Tablice sadrže retke, a redovi sadrže ćel
 
 Projekt bi trebao izgledati ovako:
 
-![zaslona](images/pixel-starter.png)
+![screenshot](images/pixel-starter.png)
 
 Prvo napišite neki kôd da biste izradili tablicu s crnom pozadinom i stavili bijele piksele u nju.
 
 + Dodajte ovaj kôd u `<body>` svoje `index.html` datoteke za stvaranje `<div>`:
 
-![zaslona](images/pixel-art-art.png)
+![screenshot](images/pixel-art-art.png)
 
 `<div>` je nevidljivi okvir na koji možete dati **stil**. Ovaj `<div>` ima ID `art`, koji vam je potreban kako biste u okvir dodali stilove.
 
 + Sada idite na `style.css` datoteku i dodajte stil stola za `<div>` zove `art`.
 
-![zaslona](images/pixel-art-style.png)
+![screenshot](images/pixel-art-style.png)
 
 To stvara tablicu s granicom i postavlja razmak unutar rešetke.
 
@@ -28,13 +28,13 @@ Još ne izgleda zanimljivo, stoga trebate staviti redke piksela unutar nje.
 
 + Vratite se na `index.html` datoteku i dodajte redak od tri piksela **u** okvir `art`. Ako želite uštedjeti vrijeme, možete upisati prvi red, a zatim kopirati i zalijepiti da biste stvorili ostale.
 
-![zaslona](images/pixel-art-row.png)
+![screenshot](images/pixel-art-row.png)
 
 Primijetite da ovdje upotrebljavate **klase** umjesto ID-a za stilizaciju divova. To je zato što će ih biti puno, pa je klasa korisnija.
 
 + Prijeđite na `style.css` datoteku i dodajte sljedeće stilove za retke i piksele unutar svakog retka:
 
-![zaslona](images/pixel-art-row-style.png)
+![screenshot](images/pixel-art-row-style.png)
 
 Sada će vam se pikseli smjestiti u mrežu s crnim crtama oko njih.
 
@@ -46,4 +46,4 @@ Zalijepite ovaj kôd odmah ispod dijela koji ste upravo kopirali da biste izradi
 
 Možete provjeriti izgleda li tablica ispravno gledanjem područja rezultata s desne strane. \--- / savjet \--- \--- savjet \--- Evo kako treba izgledati vaš kôd:
 
-![zaslona](images/pixel-art-grid-3.png) \--- / savjet \--- \--- / savjeti \---
+![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
