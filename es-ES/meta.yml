@@ -2,14 +2,14 @@
 title: Arte de Pixel
 description: Crea un editor de arte pixelado.
 hero_image: images/pixel-art.png
-theme: azul marino
+theme: navy
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
-interests: arte
+interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
@@ -20,16 +20,16 @@ steps:
   - 
     title: Introducción
   - 
+    title: Lo que necesitarás
+  - 
     title: Crear una cuadrícula de píxeles
   - 
-    title: 'Desafío: Modifica el tamaño de la cuadrícula'
+    title: 'Desafío: cambia el tamaño de tu grilla'
   - 
-    title: 'Colorea los píxeles'
+    title: Colorea los píxeles
   - 
-    title: 'Desafío: Haz que todos los píxeles sean clicablese'
-  - 
-    title: 'Añade una paleta de colores'
+    title: 'Desafío: hacer clic en todos los píxeles'
   - 
     title: 'Desafío: Añade más colores a la paleta'
   - 
-    title: 'Desafío: agregar más colores a la paleta'
+    title: 'Desafío: agrega más colores a la paleta'
