@@ -1,8 +1,8 @@
-## あなたが必要とするもの
+## 必要なもの
 
 ### ハードウェア
 
-+ [trinket.io](https://trinket.io){：target = "_ blank"}ウェブサイトにアクセスできるコンピュータ
++ [trinket.io](https://trinket.io)ウェブサイトにアクセスできるコンピュータ
 
 ### ソフトウェア
 
