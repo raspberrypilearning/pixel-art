@@ -1,10 +1,10 @@
-## Add a colour palette
+## Aufgabe: Füge weitere Farben zur Palette hinzu
 
 Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
 + Add this code at the bottom of your `style.css` file to create a pen style:
 
-![screenshot](images/pixel-art-pen.png)
+![Screenshot](images/pixel-art-pen.png)
 
 + Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
 
@@ -20,7 +20,7 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hints \--- \--- hint \--- Add the following code at the top of the file:
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+![Screenshot](images/pixel-art-pencolour.png) \--- / Hinweis \--- \--- / Hinweise \---
 
 + Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
@@ -28,13 +28,13 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 + Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
-![screenshot](images/pixel-art-set-pen.png)
+![Screenshot](images/pixel-art-set-pen.png)
 
 You'll also need use the `penColour` variable when you change the colour of a pixel.
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![Screenshot](images/pixel-art-use-pen.png)
 
 + In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
