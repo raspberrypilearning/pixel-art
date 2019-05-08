@@ -16,7 +16,7 @@ Izradit ćemo **funkciju**. Funkcije se nazivaju blokovi koda koji izvršavaju o
 
 + Dodajte ovaj kôd unutar funkcije da biste postavili boju pozadine piksela:
 
-![zaslona](images/pixel-art-set-pixel-colour.png)
+![screenshot](images/pixel-art-set-pixel-colour.png)
 
 Napominjemo da `backgroundColor` koristi američki pravopis 'boja'.
 
@@ -24,12 +24,12 @@ Trenutačno ovaj kôd nema nikakav učinak.
 
 + Idite na `index.html` i dodajte sljedeći kôd prvom pikselu tako da kada kliknete na taj piksel, naziva se `setPixelColour` funkcija:
 
-![zaslona](images/pixel-art-onclick.png)
+![screenshot](images/pixel-art-onclick.png)
 
 `ovo` u zagradama je unos za `setPixelColour` funkciju koja omogućuje da znaju koji piksel postaviti boju za - `ovaj` piksel!
 
 + Isprobajte svoj kôd klikom na prvi piksel. Trebao bi postati crn.
 
-![zaslona](images/pixel-art-black.png)
+![screenshot](images/pixel-art-black.png)
 
 Dodali ste samo `onclick` kod **prvih** piksela, pa klikom na druge piksele još uvijek neće učiniti ništa.
