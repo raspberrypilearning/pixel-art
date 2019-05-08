@@ -1,4 +1,4 @@
-## Colorea los píxeles
+## Desafío: Haz que todos los píxeles sean clicablese
 
 Este proyecto usa tres lenguajes diferentes:
 
@@ -16,7 +16,7 @@ Vamos a crear una **función**. Las funciones son bloques de código con nombre,
 
 + Agrega este código dentro de la función para establecer el color de fondo del píxel:
 
-![captura de pantalla](images/pixel-art-set-pixel-colour.png)
+![screenshot](images/pixel-art-set-pixel-colour.png)
 
 Observa que `backgroundColor` utiliza la ortografía estadounidense de 'color'.
 
@@ -30,6 +30,6 @@ El ` this ` en los paréntesis es la entrada para la función ` setPixelColour `
 
 + Prueba tu código haciendo clic en el primer píxel. Deberá ponerse negro.
 
-![captura de pantalla](images/pixel-art-black.png)
+![screenshot](images/pixel-art-black.png)
 
 Solo has añadido el código ` onclick ` al ** first** píxel, por lo que hacer clic en los otros píxeles no hará nada todavía.
