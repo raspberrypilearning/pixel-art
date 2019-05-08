@@ -1,4 +1,4 @@
-## Colorindo os pixels
+## Colora os pixels
 
 Este projeto usa três línguagens diferentes:
 
