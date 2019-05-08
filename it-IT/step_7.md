@@ -1,43 +1,43 @@
-## Add a colour palette
+## Aggiungi una tavolozza di colori
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+Hai trovato fastidioso non poter cambiare il colore di un pixel in bianco in caso di errore? Risolviamo subito il problema creando una tavolozza di colori in modo da poter fare clic su un colore per modificare la penna.
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ Aggiungi il seguente codice in fondo al file `style.css` per creare uno stile per la penna:
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ Ora crea una tavolozza con i colori della penna in bianco e nero usando lo stile di penna appena creato. Aggiungi il seguente codice al tuo ` index.html` sotto il tag `<body>`:
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+` style = ` ti permette di aggiungere codice CSS all'interno del tuo file HTML, opzione alquanto pratica in questo caso.
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+Dobbiamo aggiungere il codice in modo che quando uno dei colori della tavolozza viene cliccato, il colore della penna cambi.
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ Passa a `script.js` e crea una variabile chiamata `penColour` in cima al file. Imposta il valore della variabile a `'black'`.
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \--- \--- hint \--- Aggiungi il seguente codice all'inizio del file:
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Sotto la variabile, crea una nuova funzione chiamata `setPenColour` con un input di `pen`. Guarda la funzione `setPixelColour` che hai già creato per aiutarti.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ All'interno della funzione `setPenColour` aggiungi il codice per impostare la variabile `penColour` al colore `pen` fornito come input.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+Avrai anche bisogno di usare la variabile ` penColour ` quando cambi il colore di un pixel.
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ Cambia la funzione `setPixelColour` per utilizzare la variabile `penColour` invece di `nero`:
     
     ![screenshot](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ Nel file `index.html` aggiungi un codice per chiamare la funzione `setPenColour` quando viene cliccato un colore nella tavolozza.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ Verifica di poter cambiare il colore della penna tra bianco e nero per inserire o eliminare i pixel.
