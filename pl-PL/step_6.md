@@ -10,4 +10,4 @@ Przetestuj swój kod, tworząc szybki kawałek sztuki pikseli.
 
 Wskazówka: możesz kliknąć **Autorun** , aby wyczyścić wszystkie piksele.
 
-\--- / wyzwanie \---
+\--- /challenge \---
