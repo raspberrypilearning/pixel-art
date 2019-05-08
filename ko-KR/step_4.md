@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- 도전 \---
 
 ## 과제: 그리드 리사이징
 
@@ -8,4 +8,4 @@
 
 ![스크린샷](images/pixel-art-grid-8.png)
 
-\--- /challenge \---
+<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
