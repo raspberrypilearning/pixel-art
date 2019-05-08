@@ -16,7 +16,7 @@
 
 + このコードを関数内に追加して、ピクセルの背景色を設定します。
 
-![スクリーンショット](images/pixel-art-set-pixel-colour.png)
+![screenshot](images/pixel-art-set-pixel-colour.png)
 
 `backgroundColor` は、アメリカの 'color'のスペルを使用しています。
 
