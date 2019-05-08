@@ -14,14 +14,14 @@ Experimente o projeto abaixo. Clique em uma cor na paleta e clique em um pixel p
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
 
-+ [ Projeto básicos de ativos 2D e 3D ](https://www.raspberrypi.org/curriculum/design/creator) {: target = "_ blank"}.
++ [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}.
 
-+ [Use construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Use construções básicas de programação para criar um programa simplea](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Informações adicionais para educadores
 
 Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en / resources'.
+Use o link no rodapé para acessar o repositório deste projeto no GitHub, o qual contém todos os recursos (incluindo um exemplo de projeto finalizado) na pasta 'pt-br/recursos'.
