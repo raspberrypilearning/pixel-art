@@ -1,4 +1,4 @@
-## Crear una cuadrícula de píxeles
+## Desafío: Modifica el tamaño de la cuadrícula
 
 Vamos a crear una cuadrícula de píxeles que se pueden utilizar para la creación de arte de pixel.
 
@@ -6,7 +6,7 @@ La grilla se verá como una tabla. Las tablas contienen filas y las filas contie
 
 + Abre el [starter trinket](http://jumpto.cc/web-pixel).
 
-El producto final debe tener este aspecto:
+El proyecto debería parecerse a esto:
 
 ![captura de pantalla](images/pixel-starter.png)
 
