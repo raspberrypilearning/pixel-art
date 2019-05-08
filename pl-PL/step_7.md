@@ -20,7 +20,7 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 \--- wskazówki \--- \--- podpowiedź \--- Dodaj następujący kod u góry pliku:
 
-![zrzut ekranu](images/pixel-art-pencolour.png) \--- / wskazówka \--- \--- / wskazówki \---
+![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
 + Poniżej zmiennej, utwórz nową funkcję o nazwie `setPenColour` z wejściem `pisaka`. Spójrz na funkcję `setPixelColour` , którą już utworzyłeś, aby ci pomóc.
 
@@ -30,7 +30,7 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 ![zrzut ekranu](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+Będzie również konieczne użycie zmiennej `penColour` po zmianie koloru piksela.
 
 + Zmień funkcję `setPixelColour` , aby używać `zmiennej penColour` zamiast `czarnej`:
     
