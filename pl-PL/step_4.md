@@ -8,4 +8,4 @@ Spróbuj skopiować i wkleić zamiast wszystkiego pisać.
 
 ![zrzut ekranu](images/pixel-art-grid-8.png)
 
-\--- / wyzwanie \---
+\--- /challenge \---
