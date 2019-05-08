@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Einführung
+    title: Einleitung
   - 
-    title: Erstelle ein Pixelraster
+    title: Was du brauchen wirst
   - 
     title: 'Aufgabe: Verändere die Einstellung deiner Rastergröße'
   - 
