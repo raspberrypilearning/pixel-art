@@ -4,7 +4,7 @@ Creiamo una griglia di pixel che potrai usare per creare pixel art.
 
 La griglia sarà simile a una tabella. Le tabelle contengono righe, e le righe contengono le celle che rappresenteranno i pixel.
 
-+ Apri il [gingillo starter](http://jumpto.cc/web-pixel).
++ Apri [questo link per iniziare](http://jumpto.cc/web-pixel).
 
 Il progetto dovrebbe assomigliare a questo:
 
@@ -12,7 +12,7 @@ Il progetto dovrebbe assomigliare a questo:
 
 Per prima cosa, scriviamo del codice per creare una tabella con uno sfondo nero e inseriamoci dei pixel bianchi.
 
-+ Aggiungi questo codice nel `<body>` del tuo file `index.html` per creare un `<div>`:
++ Aggiungi il seguente codice html nel `<body>` del tuo file `index.html` per creare un `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
@@ -24,7 +24,7 @@ Un `<div>` è un box invisibile a cui puoi assegnare uno **style**. Questo `<div
 
 Questo crea una tabella con un bordo e imposta la spaziatura all'interno della griglia.
 
-Non sembra ancora molto interessante, è quindi necessario inserire righe di pixel al suo interno.
+Non sembra ancora molto bella esteticamente, è quindi necessario inserire righe di pixel al suo interno.
 
 + Torna al tuo file `index.html` e aggiungi una riga di tre pixel **all'interno** dell'`art` box. Se vuoi risparmiare tempo, puoi scrivere la prima riga e poi copiarla e incollarla per crearne altre.
 
@@ -36,7 +36,7 @@ Nota che qui stai usando una **classe** invece di un ID per lo stile dei div. Qu
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Ora i tuoi pixel si allineano in una griglia con linee nere attorno a loro.
+Ora i tuoi pixel si allineano in una griglia con linee contornate di nero.
 
 + Nel tuo file `index.html`, aggiungi altre due sezioni di pixel per creare una griglia di pixel 3 × 3.Puoi copiare e incollare di nuovo per risparmiare tempo.
 
@@ -44,6 +44,6 @@ Ora i tuoi pixel si allineano in una griglia con linee nere attorno a loro.
 
 Incolla questo codice immediatamente sotto la sezione appena copiata per creare un'altra riga. Ripeti ancora una volta in modo da avere tre righe di tre pixel ciascuna.
 
-Puoi controllare se la tua tabella sia corretta guardando nell'area dei risultati sulla destra. \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice:
+Puoi controllare se la tua tabella sia corretta guardando nell'area risultante sulla destra. \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice:
 
 ![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
