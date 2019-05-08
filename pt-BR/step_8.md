@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: adicione mais cores à paleta
 
@@ -12,4 +12,4 @@ Dica: A cor verde brilhante é chamada de `chartreuse`. Aqui está uma [lista de
 
 Você pode usar a Ferramenta de Captura no Windows (ou uma alternativa se não estiver usando o Windows) para salvar uma cópia da sua arte em pixel como um arquivo de imagem.
 
-\--- /challenge \---
+\--- / desafio \---
