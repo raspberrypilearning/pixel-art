@@ -6,7 +6,7 @@ Siatka będzie wyglądać jak stół. Tabele zawierają wiersze, a wiersze zawie
 
 + Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-Projekt powinien wyglądać tak:
+Projekt powinien wyglądać następująco:
 
 ![zrzut ekranu](images/pixel-starter.png)
 
@@ -46,4 +46,4 @@ Wklej ten kod bezpośrednio pod sekcją, którą właśnie skopiowałeś, aby ut
 
 Możesz sprawdzić, czy Twój stół wygląda prawidłowo, patrząc na obszar wyników po prawej stronie. \--- / hint \--- \--- hint \--- Oto jak powinien wyglądać twój kod:
 
-![zrzut ekranu](images/pixel-art-grid-3.png) \--- / wskazówka \--- \--- / wskazówki \---
+![zrzut ekranu](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
