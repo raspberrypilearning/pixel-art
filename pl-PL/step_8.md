@@ -12,4 +12,4 @@ Podpowiedź: Jasny zielony kolor nazywa się `chartreuse`. Oto [lista nazw kolor
 
 Możesz użyć narzędzia wycinania w systemie Windows (lub alternatywnie, jeśli nie korzystasz z systemu Windows), aby zapisać kopię sztuki pikseli jako plik obrazu.
 
-\--- / wyzwanie \---
+\--- /challenge \---
