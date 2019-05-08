@@ -18,7 +18,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [currículo de cr
 
 + [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator) {: target = "_ blank"}.
 
-+ [Usar estructuras básicas de programación para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Usa estructuras de programación básicos para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Información adicional para los educadores
 
