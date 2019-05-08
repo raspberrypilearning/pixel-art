@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Füge eine Farbpalette hinzu
 
 Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
 
