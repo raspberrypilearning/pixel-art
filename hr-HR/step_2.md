@@ -1,8 +1,8 @@
-## Ono što će vam trebati
+## Trebat ćeš
 
 ### Hardver
 
-+ Računalo sposobno za pristup web stranici [trinket.io](https://trinket.io){: target = "_ blank"}
++ Računalo kojim možeš pristupiti web stranici [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Softver
 
