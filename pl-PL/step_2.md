@@ -1,9 +1,9 @@
-## Co będzie potrzebne
+## Czego będziesz potrzebować
 
-### Sprzęt komputerowy
+### Sprzęt
 
-+ Komputer z dostępem do strony [trinket.io](https://trinket.io){: target = "_ blank"}
++ Komputer, na którym jest dostęp do strony [trinket.io](https://trinket.io){:target="_blank"}
 
-### Oprogramowanie
+### Oprogamowanie
 
 Ten projekt można ukończyć w przeglądarce internetowej, używając aplikacji [trinket.io](https://trinket.io){: target = "_ blank"} online.
