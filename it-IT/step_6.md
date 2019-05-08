@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Sfida: rendere tutti i pixel selezionabili
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Puoi rendere tutti i pixel cliccabili? Per risparmiare tempo, puoi copiare e incollare il codice che ti serve.
 
-Test your code by creating a quick piece of pixel art.
+Metti alla prova il tuo codice creando un rapido pezzo di pixel art.
 
 ![screenshot](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Suggerimento: puoi cliccare su **Autorun** per cancellare tutti i pixel.
 
 \--- /challenge \---
