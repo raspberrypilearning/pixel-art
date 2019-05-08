@@ -1,4 +1,4 @@
-\--- izazov \---
+\--- challenge \---
 
 ## Izazov: promijenite veličinu svoje rešetke
 
@@ -6,6 +6,6 @@
 
 Pokušajte kopirati i zalijepiti, a ne ispisivati ​​sve.
 
-![zaslona](images/pixel-art-grid-8.png)
+![screenshot](images/pixel-art-grid-8.png)
 
-\--- / izazov \---
+\--- challenge \---
