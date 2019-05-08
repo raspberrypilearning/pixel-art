@@ -2,7 +2,7 @@
 
 Izradite uređivač piksela piksela. Osim HTML-a i CSS-a, naučit ćete kako upotrebljavati JavaScript za dodavanje interaktivnosti u svoj projekt.
 
-### Što ćete učiniti
+### Što ćete napraviti
 
 Isprobajte projekt u nastavku. Kliknite boju iz palete, a zatim kliknite na piksel da biste promijenili njezinu boju.
 
@@ -14,14 +14,14 @@ Isprobajte projekt u nastavku. Kliknite boju iz palete, a zatim kliknite na piks
 
 ### Što ćete naučiti
 
-Ovaj projekt pokriva elemente iz sljedećih niza nastavnih planova [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Izradite osnovne 2D i 3D snimke](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [Koristite osnovne programske konstrukcije za stvaranje jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Dodatne informacije za odgajatelje
+### Dodatne informacije za voditelje kluba
 
-Ako trebate ispisati ovaj projekt, upotrijebite verziju</a>{/ target = "_ blank"} za prilagodbu ispisu.</p> 
+Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:Target="_ blank"} .
 
-Upotrijebite vezu u podnožju kako biste pristupili GitHub repozitoriji za ovaj projekt, koji sadrži sve resurse (uključujući primjer završenog projekta) u mapi 'en / resources'.
+Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-Hr/resources'.
