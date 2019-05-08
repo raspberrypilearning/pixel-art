@@ -16,7 +16,7 @@
 
 + 아래 코드를 함수 안에 추가하여 픽셀의 배경색을 설정하세요.
 
-![스크린샷](images/pixel-art-set-pixel-colour.png)
+![screenshot](images/pixel-art-set-pixel-colour.png)
 
 `backgroundColor`는 'colour'라는 미국식 철자를 사용합니다.
 
@@ -30,6 +30,6 @@
 
 + 첫 번째 픽셀을 클릭하여 코드를 테스트하십시오. 검은 색으로 변하는 것을 확인할 수 있습니다.
 
-![스크린샷](images/pixel-art-black.png)
+![<0>#outside-pic</0> CSS 코드에서 <0>width</0>(너비) 와 <0>height</0>(높이) 값을 수정하여, 바깥 쪽에 있는 이미지를 <0>200px</0>로 수정해보세요. (<0>px</0>는 픽셀을 의미합니다.)](images/pixel-art-black.png)
 
 아직 `onclick` 코드를 **첫 번째** 픽셀밖에 적용하지 못했습니다. 다른 픽셀을 클릭했을 때에는 아무런 변화가 없을 것입니다.
