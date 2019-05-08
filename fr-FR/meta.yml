@@ -2,13 +2,13 @@
 title: Pixel art
 description: Créer un éditeur de pixel art.
 hero_image: images/pixel-art.png
-theme: navy
+theme: bleu marin
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
-original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+curriculum: 1, design-1, programmation-1, phys-comp-0, fabrication-0, communauté-0
+original_url: https://codeclubprojects.org/fr-FR/webdev/pixel-art/
 interests: art
 technologies: html-css-javascript
 site_areas: projects
