@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Desafío: hacer clic en todos los píxeles
+## Añade una paleta de colores
 
 ¿Puedes hacer que puedas hacer clic en todos los píxeles? Para ahorrar tiempo, puede copiar y pegar el código que necesitas.
 
