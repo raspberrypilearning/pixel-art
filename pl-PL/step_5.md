@@ -8,7 +8,7 @@ Ten projekt wykorzystuje trzy różne języki:
 
 Dodajmy trochę kodu JavaScript, aby kolorować w pikselach automatycznie po kliknięciu.
 
-We will create a **function**. Funkcje są nazwane blokami kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję według jej nazwy, gdy chcemy uruchomić kod, który zawiera.
+Stworzymy **funkcję**. Funkcje są nazwane blokami kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję według jej nazwy, gdy chcemy uruchomić kod, który zawiera.
 
 + Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **wejście** , aby mógł zmienić kolor tego piksela.
 
