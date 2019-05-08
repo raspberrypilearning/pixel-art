@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Desafío: agrega más colores a la paleta
+## Desafío: agregar más colores a la paleta
 
 ¿Puedes agregar más colores a la paleta?
 
