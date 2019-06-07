@@ -19,8 +19,7 @@
 [[[generic-javascript-create-variable]]]
 
 --- hints ---
---- hint --- 
- Додайте наступний код у верхній частині файлу:
+ --- hint --- Додайте наступний код у верхній частині файлу:
 
 ![знімок екрану](images/pixel-art-pencolour.png)
 --- /hint ---
@@ -36,7 +35,7 @@
 
 Вам також буде потрібно використовувати `penColour` змінна, коли ви змінюєте колір пікселя.
 
-+ Змініть `setPixelColour` Використовуйте `penColour` змінна замість `black` :
++ Змініть `setPixelColour` Використовуйте ` penColour ` змінна замість `black` :
     
     ![знімок екрану](images/pixel-art-use-pen.png)
 
