@@ -1,35 +1,35 @@
-## Colour the pixels
+## Цвет пикселей
 
-This project uses three different languages:
+Этот проект использует три разных языка:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML используется для организации контента
++ CSS сообщает контенту, как должны выглядеть стили
++ JavaScript - это язык программирования, который можно использовать, чтобы веб-страница реагировала на выполняемые действия
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+Давайте добавим немного кода на JavaScript, чтобы автоматически раскрасить пиксель при нажатии на него.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Мы создадим **функцию**. Функции - это именованные блоки кода, которые выполняют определенную задачу. Мы можем **вызвать** функцию по имени, когда мы хотим выполнить код, который она содержит.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ Внутри файла `script.js`, создайте функцию с именем `setPixelColour`. Функция `setPixelColour` должна использовать `pixel` как **параметр** для изменения цвета пикселя.
 
-![Create function](images/create-function.png)
+![Создать функцию](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ Добавим этот код внутри функции, чтобы установить цвет фона пикселя:
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+Обратите внимание, что `backgroundColor` использует американское написание слова «цвет».
 
-At the moment this code doesn't have any effect.
+На данный момент этот код нигде не вызывается.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ Перейдем на `index.html<code> и добавим следующий код к первому пикселю, чтобы при нажатии на этот пиксель вызывалась функция <0>setPixelColour`.
 
 ![screenshot](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+`this` в скобках это параметр функции `setPixelColour<code>, который указывает какой пискель нужно поменять, указанный как <0>this`!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ Проверим свой код, нажав на первый пиксель. Это должно стать черным.
 
 ![screenshot](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+Вы добавили код `onclick` только для **первого** пикселя, поэтому нажатие на другие пиксели ничего не изменит.
