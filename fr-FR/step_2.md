@@ -1,4 +1,4 @@
-## Tu auras besoin de
+## Ce dont tu auras besoin
 
 ### Matériel
 
