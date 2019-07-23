@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- sfida \---
 
 ## Sfida: aggiungi più colori alla tavolozza
 
