@@ -12,7 +12,7 @@ Il progetto dovrebbe assomigliare a questo:
 
 Per prima cosa, scriviamo del codice per creare una tabella con uno sfondo nero e inseriamoci dei pixel bianchi.
 
-+ Aggiungi il seguente codice html nel `<body>` del tuo file `index.html` per creare un `<div>`:
++ Aggiungi questo codice nel `<body>` del tuo file `index.html` per creare un `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
@@ -36,7 +36,7 @@ Nota che qui stai usando una **classe** invece di un ID per lo stile dei div. Qu
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Ora i tuoi pixel si allineano in una griglia con linee contornate di nero.
+Ora i tuoi pixel si allineano in una griglia con linee nere attorno a loro.
 
 + Nel tuo file `index.html`, aggiungi altre due sezioni di pixel per creare una griglia di pixel 3 × 3.Puoi copiare e incollare di nuovo per risparmiare tempo.
 
