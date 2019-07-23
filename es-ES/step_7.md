@@ -1,12 +1,12 @@
-## Desafío: Añade más colores a la paleta
+## Añade una paleta de colores
 
 ¿Te molesta que no puedas cambiar el color de un píxel a blanco si cometiste un error? Arreglemos eso creando una paleta de colores para que puedas elegir entre los colores de la pluma con un clic.
 
-+ Agregua este código en la parte inferior de tu archivo` style.css ` para crear un estilo de pluma:
++ Agrega este código en la parte inferior de tu archivo` style.css ` para crear un estilo de pluma:
 
 ![captura de pantalla](images/pixel-art-pen.png)
 
-+ Ahora crea una paleta con colores de lápiz en blanco y negro usando el estilo de lápiz que acabas de crear. Agregua el siguiente código a tu ` index.html` debajo de la etiqueta `<body>`:
++ Ahora crea una paleta con colores blanco y negro usando el estilo que acabas de crear. Agrega el siguiente código a tu ` index.html` debajo de la etiqueta `<body>`:
 
 ![captura de pantalla](images/pixel-art-palette.png)
 
@@ -18,9 +18,9 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \--- \--- hint \--- Agregue el siguiente código en la parte superior del archivo:
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+![captura de pantalla](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
 + Debajo de la variable, crea una nueva función llamada ` setPenColour ` con una entrada de ` pen`. Mira la función ` setPixelColour ` que ya has creado para ayudarte.
 
@@ -28,7 +28,7 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 + Dentro de la función ` setPenColour `, agrega código para asignar el de ` pen` proporcionado como entrada a la variable ` penColour `.
 
-![screenshot](images/pixel-art-set-pen.png)
+![captura de pantalla](images/pixel-art-set-pen.png)
 
 También necesitarás usar la variable ` penColour ` cuando cambies el color de un píxel.
 
@@ -36,8 +36,8 @@ También necesitarás usar la variable ` penColour ` cuando cambies el color de 
     
     ![captura de pantalla](images/pixel-art-use-pen.png)
 
-+ En el archivo` index.html `, agrega código para llamar a la función ` setPenColour ` cuando se hace clic en un color en la paleta.
++ En el archivo` index.html `, agrega código para llamar a la función ` setPenColour ` cuando se haga clic en un color en la paleta.
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![captura de pantalla](images/pixel-art-palette-onclick.png)
 
 + Prueba que puedes cambiar el color del lápiz entre negro y blanco para pintar o borrar píxeles.
