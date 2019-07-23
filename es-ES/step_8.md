@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: agregar más colores a la paleta
 
