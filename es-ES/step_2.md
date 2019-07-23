@@ -6,4 +6,4 @@
 
 ### Software
 
-Este proyecto se puede completar en un navegador web usando [trinket.io](https://trinket.io){:target="_blank"}.
+Este proyecto se puede completar en un navegador web usando la applicación online [trinket.io](https://trinket.io){:target="_blank"}.
