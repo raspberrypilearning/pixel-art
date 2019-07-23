@@ -1,6 +1,6 @@
 ## Introduction
 
-Créer un éditeur de pixel art. En plus d’utiliser l’HTML et le CSS, tu vas apprendre comment utiliser le JavaScript pour ajouter de l’interactivité à votre projet.
+Créer un éditeur de pixel art. En plus d’utiliser l’HTML et le CSS, tu vas apprendre comment utiliser le JavaScript pour ajouter de l’interactivité à ton projet.
 
 ### Ce que tu feras
 
@@ -12,16 +12,16 @@ Essaye le projet ci-dessous. Clique sur une couleur de la palette, puis clique s
   <img src="images/pixel-art-final.png">
 </div>
 
-### Ce que tu apprendras
+### Ce que tu vas apprendre
 
-Ce projet couvre des éléments des sections du [ Programme d'étude sur la création numérique Raspberry Pi](http://rpf.io/curriculum) {:target="_blank"}:
+Ce projet couvre des éléments des sections suivantes du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [ Utilise des concepts de base de programmation pour créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
++ [Utiliser des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Informations supplémentaires pour les éducateurs
 
-Si vous besoin d'imprimer ce projet, utiliser la [ version imprimable. ](https://projects.raspberrypi.org/en/projects/pixel-art/print) {: target = "_ blank"} .
+Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
 
 Utilise le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en / resources'.
