@@ -1,13 +1,13 @@
 ---
-title: L' arte del pixel
-description: Crea un pixel configurabile usando HTM, CSS e JavaScript.
+title: Pixel Art
+description: Crea un editor di Pixel Art usando HTML, CSS e JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1,-1 progettazione, programmazione-1, phys-comp-0, fabbricazione-0, comunità-0
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
 interests: art
 technologies: html-css-javascript
@@ -20,7 +20,7 @@ steps:
   - 
     title: Introduzione
   - 
-    title: Cosa ti serve
+    title: Di cosa avrai bisogno
   - 
     title: Crea una griglia di pixel
   - 
