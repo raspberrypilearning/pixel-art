@@ -12,13 +12,13 @@ Le projet doit ressembler à ça :
 
 Commençons par écrire du code pour créer un tableau avec un arrière-plan noir, puis y insérer des pixels blancs.
 
-+ Ajoutez ce code dans le `<body>` de votre fichier ` index.html` pour créer un `<div>`:
++ Ajoute ce code dans le `<body>` de ton fichier `index.html` pour créer un `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
-Un `<div>` est une boîte invisible à laquelle vous pouvez donner un**style ** . Cette `<div>` a l'ID `art`, dont vous avez besoin pour ajouter des styles à la boîte.
+Un `<div>` est une boîte invisible à laquelle tu peux donner un **style**. Cette `<div>` a l'ID `art`, dont tu auras besoin pour ajouter des styles à la boîte.
 
-+ Accède maintenant à ton fichier `style.css` et ajoute le tableau de style pour le `<div>` appelé `art`.
++ Accède maintenant à ton fichier `style.css` et ajoute la table de style pour le `<div>` appelé `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
@@ -26,7 +26,7 @@ Cela crée une table avec une bordure et définit l'espacement à l'intérieur d
 
 Cela ne semble pas encore très intéressant, tu dois donc y insérer des rangées de pixels.
 
-+ Retourne à votre fichier `index.html` et ajoutez une ligne de trois pixels **à l'intérieur** la case `art` . Si tu veux gagner du temps, tu peux taper la première ligne puis la copier-coller pour créer les autres.
++ Retourne à ton fichier `index.html` et ajoute une ligne de trois pixels **à l'intérieur** la case `art`. Si tu veux gagner du temps, tu peux taper la première ligne puis la copier-coller pour créer les autres.
 
 ![screenshot](images/pixel-art-row.png)
 
@@ -40,9 +40,9 @@ Maintenant, les pixels vont s'aligner dans une grille avec des lignes noires aut
 
 + Dans ton fichier `index.html` ajoute deux autres sections de pixels pour créer une grille de 3×3 pixel. Tu peux utiliser le procédé du copier-coller à nouveau pour gagner du temps.
 
-\--- hints \--- \--- hint \--- Trouver la balise `<div>` avec la rangée de classe ` ` et copie-le, y compris les trois lignes intitulées ` pixel ` qui sont à l'intérieur, jusqu'à et y compris ses ` correspondants </div>` étiquette.
+\--- hints \--- \--- hint \--- Trouve la balise `<div>` avec la classe `rangee` et copie-la, y compris les trois lignes intitulées `pixel` qui sont à l'intérieur, tout en incluant son `</div>` étiquette correspondante.
 
-Colle ce code immédiatement sous la section que vous venez de copier pour créer une autre ligne. Répète une fois de plus afin d'avoir trois rangées de trois pixels chacune.
+Colle ce code immédiatement sous la section que tu viens de copier pour créer une autre ligne. Répète une fois de plus afin d'avoir trois rangées de trois pixels chacune.
 
 Tu peux vérifier si ta table a l’air juste en regardant la zone de résultats à droite. \--- /hint \--- \--- hint \--- Voici à quoi devrait ressembler ton code:
 
