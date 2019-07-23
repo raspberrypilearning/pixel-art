@@ -1,6 +1,6 @@
-\--- challenge \---
+—- challenge —-
 
-## Challenge: resize your grid
+## Défi : redimensionner ta grille
 
 3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
 
