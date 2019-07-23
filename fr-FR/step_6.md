@@ -8,6 +8,6 @@ Teste votre code en créant un pixel art rapide.
 
 ![screenshot](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Astuce: tu peux cliquer **Autorun** pour effacer tous les pixels.
 
 \--- /challenge \---
