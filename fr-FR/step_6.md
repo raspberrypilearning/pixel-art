@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Défi: rendre tous les pixels cliquables
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Peux-tu rendre cliquable tous les pixels ? Pour gagner du temps, tu peux copier et coller le code dont tu as besoin.
 
-Test your code by creating a quick piece of pixel art.
+Teste votre code en créant un pixel art rapide.
 
 ![screenshot](images/pixel-art-black-example.png)
 
