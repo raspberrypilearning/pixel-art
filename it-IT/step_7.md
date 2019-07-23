@@ -1,6 +1,6 @@
 ## Aggiungi una tavolozza di colori
 
-Hai trovato fastidioso non poter cambiare il colore di un pixel in bianco in caso di errore? Risolviamo subito il problema creando una tavolozza di colori in modo da poter fare clic su un colore per modificare la penna.
+È stato fastidioso non poter cambiare il colore di un pixel in bianco in caso di errore? Risolviamo subito il problema creando una tavolozza di colori in modo da poter fare clic su un colore per modificare la penna.
 
 + Aggiungi il seguente codice in fondo al file `style.css` per creare uno stile per la penna:
 
@@ -36,7 +36,7 @@ Avrai anche bisogno di usare la variabile ` penColour ` quando cambi il colore d
     
     ![screenshot](images/pixel-art-use-pen.png)
 
-+ Nel file `index.html` aggiungi un codice per chiamare la funzione `setPenColour` quando viene cliccato un colore nella tavolozza.
++ Nel file `index.html` aggiungi un codice per richiamare la funzione `setPenColour` quando viene cliccato un colore nella tavolozza.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
