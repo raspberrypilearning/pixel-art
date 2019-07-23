@@ -1,4 +1,4 @@
-## Desafío: Haz que todos los píxeles sean clicablese
+## Colorea los píxeles
 
 Este proyecto usa tres lenguajes diferentes:
 
@@ -8,7 +8,7 @@ Este proyecto usa tres lenguajes diferentes:
 
 Agreguemos un código JavaScript para colorear un píxel automáticamente cuando haces clic en él.
 
-Vamos a crear una **función**. Las funciones son bloques de código con nombre, que realizan una tarea particular. Podemos ** llamar ** una función por su nombre cuando queremos ejecutar el código que contiene.
+Vamos a crear una **función**. Las funciones son bloques de código con nombre, que realizan una tarea particular. Podemos ** llamar ** a una función por su nombre cuando queremos ejecutar el código que contiene.
 
 + Dentro del archivo ` script.js `, crea una función con el nombre ` setPixelColour `. La función `setPixelColour` debe tomar un `pixel` como **entrada** para que puede cambiar el color de ese píxel.
 
@@ -16,7 +16,7 @@ Vamos a crear una **función**. Las funciones son bloques de código con nombre,
 
 + Agrega este código dentro de la función para establecer el color de fondo del píxel:
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![captura de pantalla](images/pixel-art-set-pixel-colour.png)
 
 Observa que `backgroundColor` utiliza la ortografía estadounidense de 'color'.
 
@@ -30,6 +30,6 @@ El ` this ` en los paréntesis es la entrada para la función ` setPixelColour `
 
 + Prueba tu código haciendo clic en el primer píxel. Deberá ponerse negro.
 
-![screenshot](images/pixel-art-black.png)
+![captura de pantalla](images/pixel-art-black.png)
 
-Solo has añadido el código ` onclick ` al ** first** píxel, por lo que hacer clic en los otros píxeles no hará nada todavía.
+Solo has añadido el código ` onclick ` al ** primer** píxel, por lo que hacer clic en los otros píxeles no hará nada todavía.
