@@ -2,7 +2,7 @@
 
 ## Sfida: rendere tutti i pixel selezionabili
 
-Puoi rendere tutti i pixel cliccabili? Per risparmiare tempo, puoi copiare e incollare il codice che ti serve.
+Riesci a rendere tutti i pixel cliccabili? Per risparmiare tempo, puoi copiare e incollare il codice che ti serve.
 
 Metti alla prova il tuo codice creando un rapido pezzo di pixel art.
 
