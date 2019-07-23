@@ -1,10 +1,10 @@
 ## Introduzione
 
-In questo progetto, creerai un editor di Pixel Art. Oltre a utilizzare il codice HTML e CSS, imparerai a usare il linguaggio JavaScript per aggiungere interattività al progetto.
+Crea un editor di pixel art. Oltre all'utilizzo di HTML e CSS, imparerai come utilizzare il JavaScript per aggiungere interattività al tuo progetto.
 
 ### Cosa creerai
 
-Prova il progetto nell'immagine qui sotto. Clicca su un colore dalla tavolozza, e poi clicca su un pixel per cambiarne il colore.
+Prova il progetto qui sotto. Clicca su un colore dalla tavolozza, poi clicca su un pixel per cambiarne il colore.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
