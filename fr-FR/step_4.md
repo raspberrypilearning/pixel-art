@@ -2,10 +2,10 @@
 
 ## Défi : redimensionner ta grille
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3x3 est plutôt petit pour une grille de pixel art. Peux-tu faire une grille plus grande ? 8x8 est une bonne taille pour le pixel art.
 
-Try copying and pasting rather than typing everything out.
+Essaye de copier et coller au lieu de tout retaper.
 
-![screenshot](images/pixel-art-grid-8.png)
+![screenshot](images/pixel-art-final.png)
 
-\--- /challenge \---
+—- /challenge —-
