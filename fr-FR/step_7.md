@@ -40,4 +40,4 @@ Tu devras également utiliser la variable `penColour` lorsque tu changes la coul
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ Teste que tu peux changer la couleur du stylet entre noir et blanc pour remplir ou supprimer des pixels.
