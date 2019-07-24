@@ -1,6 +1,6 @@
 ## Ajoute une palette de couleurs
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+As-tu trouvé ennuyeux de ne pas pouvoir changer la couleur d'un pixel en blanc si tu as commis une erreur? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
 + Add this code at the bottom of your `style.css` file to create a pen style:
 
