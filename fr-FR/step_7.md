@@ -1,42 +1,42 @@
-## Ajoute une palette de couleurs
+## Ajoute une palette de couleur
 
 As-tu trouvé ennuyeux de ne pas pouvoir changer la couleur d'un pixel en blanc si tu as commis une erreur? Corrigeons ça en créant un palette de couleurs, pour que tu puisses choisir entre les couleurs du pinceau en un clic.
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ Ajoute ce code en bas de ton fichier `style.css` pour créer un style de stylo :
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ Maintenant, crée une palette avec les couleurs noir et blanc pour le stylo, en utilisant le style du stylo que tu viens de créer. Puis suis le code d s ton `index.html` en dessous du tag `<body>` :
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style=` te permet d'ajouter du code CSS dans votre fichier HTML, ce qui est pratique ici.
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+Nous devons ajouter du code pour que lorsque l'une des couleurs de la palette est cliquée, la couleur du stylet change.
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ Passe maintenant à ton fichier `script.js` et crée une variable appelée `penColour` au haut du fichier. Définis sa valeur à `'black'`.
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \--- \--- hint \--- Ajouter le code suivant en haut du fichier :
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Sous la variable, crée une nouvelle fonction appelée `setPenColour` avec une entrée de `pen`. Regarde la fonction `setPixelColour` que tu as déjà créé pour t’aider.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ Dans la fonction `setPenColour` ,ajoute du code pour définir la variable `penColour` à la couleur `pen` fournie en tant qu'entrée.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+Tu devras également utiliser la variable `penColour` lorsque tu changes la couleur d'un pixel.
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ Change la fonction `setPixelColour` pour utiliser la variable `penColour` au lieu de `noir`:
     
     ![screenshot](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ Dans le fichier `index.html` ajoute un code pour appeler la fonction `setPenColour` quand une couleur dans la palette est cliquée.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
