@@ -14,9 +14,9 @@
 
 ### ما ستتعلمه
 
-يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من الخِصال التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [تصميم الأصول الأساسية ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 + [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
@@ -24,4 +24,4 @@
 
 إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/pixel-art/print){:target="_blank"} .
 
-استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-SA/resources'.
+استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (متضمِّناً مثالاً لمشروع مكتمل) في المجلد 'ar-SA/resources'.
