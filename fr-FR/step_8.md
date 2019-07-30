@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Défi : ajouter plus de couleurs sur la palette
+## Défi : ajouter plus de couleurs à la palette
 
 Peux-tu ajouter plus de couleurs sur la palette ?
 
