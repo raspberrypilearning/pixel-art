@@ -1,4 +1,4 @@
-## Ajoute une palette de couleur
+## Ajouter une palette de couleur
 
 As-tu trouvé ennuyeux de ne pas pouvoir changer la couleur d'un pixel en blanc si tu as commis une erreur? Corrigeons ça en créant une palette de couleurs, pour que tu puisses choisir les couleurs du pinceau en un clic.
 
