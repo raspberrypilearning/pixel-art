@@ -2,7 +2,7 @@
 title: Pixel art
 description: Créer un éditeur de pixel art en utilisant HTML, CSS et JavaScript.
 hero_image: images/pixel-art.png
-theme: marine
+theme: navy
 duration: 2
 listed: true
 ingredient: false
