@@ -1,8 +1,8 @@
-## Ce dont tu auras besoin
+## Ce qu'il te faut
 
 ### Matériel
 
-+ Un ordinateur qui peut accéder au site [trinket.io](https://trinket.io) {:target="_blank"}
++ Un ordinateur qui peut accéder au site [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Logiciel
 
