@@ -8,19 +8,19 @@ La grille ressemblera à un tableau. Les tableaux contiennent des lignes qui con
 
 Le projet doit ressembler à ça :
 
-![screenshot](images/pixel-starter.png)
+![capture d'écran](images/pixel-starter.png)
 
 Commençons par écrire du code pour créer un tableau avec un arrière-plan noir, puis y insérer des pixels blancs.
 
 + Ajoute ce code dans le `<body>` de ton fichier `index.html` pour créer un `<div>`:
 
-![screenshot](images/pixel-art-art.png)
+![capture d'écran](images/pixel-art-art.png)
 
 Un `<div>` est une boîte invisible à laquelle tu peux donner un **style**. Cette `<div>` a l'ID `art`, dont tu auras besoin pour ajouter des styles à la boîte.
 
 + Accède maintenant à ton fichier `style.css` et ajoute la table de style pour le `<div>` appelé `art`.
 
-![screenshot](images/pixel-art-style.png)
+![capture d'écran](images/pixel-art-style.png)
 
 Cela crée une table avec une bordure et définit l'espacement à l'intérieur de la grille.
 
@@ -28,13 +28,13 @@ Cela ne semble pas encore très intéressant, tu dois donc y insérer des rangé
 
 + Retourne à ton fichier `index.html` et ajoute une ligne de trois pixels **à l'intérieur** la case `art`. Si tu veux gagner du temps, tu peux taper la première ligne puis la copier-coller pour créer les autres.
 
-![screenshot](images/pixel-art-row.png)
+![capture d'écran](images/pixel-art-row.png)
 
 Note que tu utilises ici une **classe** au lieu d'un ID pour faire les divs. C'est parce qu'il y aura beaucoup d'entre eux, donc une classe est plus utile.
 
 + Passe au fichier `style.css` et ajoute les styles suivants pour les lignes et les pixels dans chaque ligne :
 
-![screenshot](images/pixel-art-row-style.png)
+![capture d'écran](images/pixel-art-row-style.png)
 
 Maintenant, les pixels vont s'aligner dans une grille avec des lignes noires autour d'eux.
 
@@ -46,4 +46,4 @@ Colle ce code immédiatement sous la section que tu viens de copier pour créer 
 
 Tu peux vérifier si ta table a l’air juste en regardant la zone de résultats à droite. \--- /hint \--- \--- hint \--- Voici à quoi devrait ressembler ton code:
 
-![screenshot](images/pixel-art-final.png) \--- /hint \--- \--- /hints \---
+![capture d'écran](images/pixel-art-final.png) \--- /hint \--- \--- /hints \---
