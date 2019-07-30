@@ -6,11 +6,11 @@
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Ora crea una tavolozza con i colori della penna in bianco e nero usando lo stile di penna appena creato. Aggiungi il seguente codice al tuo ` index.html` sotto il tag `<body>`:
++ Ora crea una tavolozza con i colori della penna in bianco e nero usando lo stile di penna appena creato. Aggiungi il seguente codice al tuo `index.html` sotto il tag `<body>`:
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style = ` ti permette di aggiungere codice CSS all'interno del tuo file HTML, opzione alquanto pratica in questo caso.
+`style=` ti permette di aggiungere codice CSS all'interno del tuo file HTML, opzione alquanto pratica in questo caso.
 
 Dobbiamo aggiungere il codice in modo che quando uno dei colori della tavolozza viene cliccato, il colore della penna cambi.
 
