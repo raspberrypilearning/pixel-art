@@ -6,6 +6,6 @@
 
 Essaye de copier et coller au lieu de tout retaper.
 
-![screenshot](images/pixel-art-final.png)
+![capture d'écran](images/pixel-art-final.png)
 
-—- /challenge —-
+\--- /challenge \---
