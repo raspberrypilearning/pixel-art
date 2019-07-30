@@ -1,4 +1,4 @@
-—- challenge —-
+--- challenge ---
 
 ## Défi : redimensionner ta grille
 
