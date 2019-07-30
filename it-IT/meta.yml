@@ -1,5 +1,6 @@
-title: Pixel art
-description: Crea un editor di Pixel Art.
+---
+title: Pixel Art
+description: Crea un editor di Pixel Art usando HTML, CSS e JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -15,11 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduzione
-- title: Creazione di una griglia di pixel
-- title: 'Sfida: Ridimensiona la griglia'
-- title: Colora i pixel
-- title: 'Sfida: Rendi tutti i pixel selezionabili'
-- title: Aggiungi una tavolozza di colori
-- title: 'Sfida: Aggiungi più colori alla tavolozza'
+steps:
+  - title: Introduzione
+  - title: Di cosa avrai bisogno
+  - title: Crea una griglia di pixel
+  - title: 'Sfida: ridimensiona la tua griglia'
+  - title: Colora i pixel
+  - title: 'Sfida: rendere tutti i pixel selezionabili'
+  - title: Aggiungi una tavolozza di colori
+  - title: 'Sfida: aggiungi più colori alla tavolozza'
