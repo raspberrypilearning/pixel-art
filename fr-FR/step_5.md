@@ -1,4 +1,4 @@
-## Colore les pixels
+## Colorier les pixels
 
 Ce projet utilise différents langages :
 
