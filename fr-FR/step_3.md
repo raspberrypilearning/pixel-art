@@ -49,6 +49,6 @@ Tu peux vérifier si ta table a l’air juste en regardant la zone de résultats
 --- /hint ---
  --- hint --- Voici à quoi devrait ressembler ton code:
 
-![capture d'écran](images/pixel-art-final.png)
+![capture d'écran](images/pixel-art-grid-3.png)
 --- /hint ---
 --- /hints ---
