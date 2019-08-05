@@ -38,7 +38,7 @@ Nota che qui stai usando una **classe** invece di un ID per lo stile dei div. Qu
 
 Ora i tuoi pixel si allineano in una griglia con linee nere attorno a loro.
 
-+ Nel tuo file `index.html`, aggiungi altre due sezioni di pixel per creare una griglia di pixel 3 × 3.Puoi copiare e incollare di nuovo per risparmiare tempo.
++ Nel tuo file `index.html`, aggiungi altre due sezioni di pixel per creare una griglia di pixel 3 × 3. Puoi copiare e incollare di nuovo per risparmiare tempo.
 
 \--- hints \--- \--- hint \--- Trova il tag `<div>` con la classe `row` e copialo, incluse le tre righe etichettate `pixel` che sono al suo interno, fino alla suo corrispondente tag `</div>`.
 
