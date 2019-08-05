@@ -10,6 +10,6 @@ Suggerimento: Il colore verde brillante si chiama ` chartreuse `. Ecco un elenco
 
 ![screenshot](images/pixel-art-final.png)
 
-È possibile utilizzare Snipping Tool in Windows (o un'alternativa se non si utilizza Windows) per salvare una copia della pixel art come file immagine.
+È possibile utilizzare "Strumento di cattura" in Windows (o un'alternativa se non si utilizza Windows) per salvare una copia della pixel art come file immagine.
 
 \--- /challenge \---
