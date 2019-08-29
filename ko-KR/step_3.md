@@ -6,7 +6,7 @@
 
 + 이 [trinket](http://jumpto.cc/web-pixel)을 열어 주십시오.
 
-프로젝트는 아래와 같을겁니다:
+프로젝트는 아래와 같이 보일 것입니다:
 
 ![스크린샷](images/pixel-starter.png)
 
