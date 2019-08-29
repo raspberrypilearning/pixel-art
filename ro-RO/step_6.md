@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Provocare: activează click-ul pentru toți pixelii
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Poți face ca toți pixelii să facă ceva atunci când dai click pe ei? Pentru a economisi timpul, poți da copt paste codul de care ai nevoie.
 
-Test your code by creating a quick piece of pixel art.
+Testează-ți codul creând o scurtă operă de artă cu pixeli.
 
-![screenshot](images/pixel-art-black-example.png)
+![captură de ecran](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Pont: poți da click pe **Autorun** pentru a șterge toți pixelii.
 
 \--- /challenge \---
