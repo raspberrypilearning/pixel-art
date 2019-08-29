@@ -2,7 +2,7 @@
 
 ## Sfida: aggiungi più colori alla tavolozza
 
-Puoi aggiungere più colori alla tavolozza?
+Riesci ad aggiungere più colori alla tavolozza?
 
 + Scegli i colori che desideri utilizzare nella tua pixel art e aggiungili al tuo codice. Quindi crea delle fantastiche immagini pixel.
 
