@@ -30,7 +30,7 @@ Trebuie să adăugăm niște cod pentru ca culoarea stiloului să se schimbe atu
 
 ![captură de ecran](images/pixel-art-set-pen.png)
 
-Vei avea nevoie și de variabila `culoareStilou` când schimbi culoarea pixelului.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Modifică funcția `seteazaCuloarePixel` pentru a folosi variabila `culoareStilou` în loc de `black`:
     
