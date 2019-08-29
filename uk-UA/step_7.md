@@ -30,7 +30,7 @@
 
 ![знімок екрану](images/pixel-art-set-pen.png)
 
-Вам також буде потрібно використовувати `penColour` змінна, коли ви змінюєте колір пікселя.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Змініть ` setPixelColour ` Використовуйте ` penColour ` змінна замість `black` :
     
