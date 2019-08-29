@@ -30,7 +30,7 @@
 
 ![截圖](images/pixel-art-set-pen.png)
 
-更改像素的顏色時，還需要使用 `penColour` 變量。
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + 更改 `setPixelColour` 函數以使用 `penColour` 變量而不是 `black`：
     
