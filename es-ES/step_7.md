@@ -30,7 +30,7 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 ![captura de pantalla](images/pixel-art-set-pen.png)
 
-También necesitarás usar la variable ` penColour ` cuando cambies el color de un píxel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Cambia la función ` setPixelColour ` para usar la variable ` penColour ` en lugar de ` black `:
     
