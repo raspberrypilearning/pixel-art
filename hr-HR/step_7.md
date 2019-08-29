@@ -30,7 +30,7 @@ Moramo dodati kôd tako da kada se klikne jedna od boja u paleti, boja olovke se
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-Također ćete morati koristiti varijablu `penColour` kada promijenite boju piksela.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Promijenite `setPixelColour` funkciju da biste koristili `penColour` varijablu umjesto `crno`:
     
