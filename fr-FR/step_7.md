@@ -30,7 +30,7 @@ Nous devons ajouter du code pour que lorsque l'une des couleurs de la palette es
 
 ![capture d'écran](images/pixel-art-set-pen.png)
 
-Tu devras également utiliser la variable `penColour` lorsque tu changes la couleur d'un pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Change la fonction `setPixelColour` pour utiliser la variable `penColour` au lieu de `noir`:
     
