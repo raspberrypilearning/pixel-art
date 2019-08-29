@@ -30,7 +30,7 @@
 
 ![لقطة الشاشة](images/pixel-art-set-pen.png)
 
-ستحتاج أيضاً إلى استخدام المتغير `penColour` عندما تغير لون وحدة بكسل.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + غيِّر الدالة `setPixelColour` بحيث تستخدم المتغير `penColour` بدلًا من القيمة `black`:
     
