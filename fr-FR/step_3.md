@@ -22,7 +22,7 @@ Un `<div>` est une boîte invisible à laquelle tu peux donner un **style**. Cet
 
 ![capture d'écran](images/pixel-art-style.png)
 
-Cela crée une table avec une bordure et définit l'espacement à l'intérieur de la grille.
+Cela crée un tableau avec une bordure et définit l'espacement à l'intérieur de la grille.
 
 Cela ne semble pas encore très intéressant, tu dois donc y insérer des rangées de pixels.
 
