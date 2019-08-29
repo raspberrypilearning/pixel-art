@@ -1,6 +1,6 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: Artă cu pixeli
+description: Creează o editor de artă cu pixeli folosind HTML, CSS și JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -8,7 +8,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
-original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+original_url: https://codeclubprojects.org/ro-RO/webdev/pixel-art
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: What you will need
+    title: De ce vei avea nevoie
   - 
-    title: Create a grid of pixels
+    title: Creează o grilă de pixeli
   - 
-    title: 'Challenge: resize your grid'
+    title: 'Provocare: redimensionează-ți grila'
   - 
-    title: Colour the pixels
+    title: Colorează pixelii
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: 'Provocare: activează click-ul pentru toți pixelii'
   - 
-    title: Add a colour palette
+    title: Adaugă o paletă de culori
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: 'Provocare: adaugă mai multe culori la paletă'
