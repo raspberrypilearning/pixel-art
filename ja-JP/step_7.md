@@ -30,7 +30,7 @@
     
     ![スクリーンショット](images/pixel-art-set-pen.png)
     
-    また、ピクセルの色を変更する場合は、 `penColour` 変数を使用する必要があります。
+    You'll also need to use the `penColour` variable when you change the colour of a pixel.
     
     + `setPixelColour` 関数を変更して、 `代わりに <code>penColour` 変数を使用する</code>：
         
