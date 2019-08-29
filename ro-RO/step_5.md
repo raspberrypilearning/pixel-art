@@ -1,35 +1,35 @@
-## Colour the pixels
+## Colorează pixelii
 
-This project uses three different languages:
+Proiectul folosește trei limbi diferite:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML este folosit pentru a-ți organiza conținutul
++ CSS spune conținutului cum ar trebui să arate stilizat
++ JavaScript este un limbaj de programare pe care îl poți folosi pentru ca o pagină web să răspundă atunci când interacționezi cu ea
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+Hai să adăugăm niște cod JavaScript pentru a color un pixel automat când se dă click pe el.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Vom crea o **funcție**. Funcțiile sunt blocuri de cod denumite care îndeplinesc o anumită sarcină. Putem să **apelăm** o funcție cu numele ei atunci când vrem să executăm codul pe care o conține.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ În interiorul fișierului `script.js`, creează o funcție cu numele `seteazaCuloarePixel`. Funcția `seteazaCuloarePixel` trebuie să primească un `pixel` ca și o **intrare** pentru a putea schimba culoarea pixelului.
 
-![Create function](images/create-function.png)
+![Creare funcție](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ Adaugă acest cod în interiorul funcției pentru a seta culoarea fundalului pentru un pixel:
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![captură de ecran](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+Observă că `backgroundColor` folosește ortografia americană pentru cuvântul „colour”.
 
-At the moment this code doesn't have any effect.
+Momentan, codul nu are niciun efect.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ Mergi la fișierul `index.html` și adaugă următorul cod pentru primul pixel astfel încât acesta să apeleze funcția `seteazaCuloarePixel` atunci când se dă click pe el:
 
-![screenshot](images/pixel-art-onclick.png)
+![captură de ecran](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+Cuvântul `this` în paranteze este intrarea pentru funcția `seteazaCuloarePixel` care îi permite să știe care dintre pixeli să fie colorat — `this` (acest) pixel!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ Testează-ți codul dând click pe primul pixel. Ar trebui să devină negru.
 
-![screenshot](images/pixel-art-black.png)
+![captură de ecran](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+Ai adăugat codul `onclick` doar la **primul** pixel, așa că dacă dai click pe ceilalți pixeli nu se va întâmpla nimic momentan.
