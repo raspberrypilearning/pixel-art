@@ -30,7 +30,7 @@ Precisamos adicionar um código para que, quando uma das cores da paleta for cli
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-Você vai precisar também usar a variável de `penColour` quando você mudar a cor de um pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Altere a função ` setPixelColour ` para usar a variável ` penColour ` em vez de ` black ` (a cor preta):
     
