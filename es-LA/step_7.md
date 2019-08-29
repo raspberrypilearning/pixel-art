@@ -30,7 +30,7 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 ![captura de pantalla](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
     
