@@ -30,7 +30,7 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 ![zrzut ekranu](images/pixel-art-set-pen.png)
 
-Będzie również konieczne użycie zmiennej `penColour` po zmianie koloru piksela.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Zmień funkcję `setPixelColour` , aby używać `zmiennej penColour` zamiast `czarnej`:
     
