@@ -30,7 +30,7 @@ We moeten code toevoegen zodat wanneer een van de kleuren in het palet wordt aan
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-Je moet ook de `penKleur` -variabele gebruiken wanneer je de kleur van een pixel wijzigt.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Wijzig de functie `geefPixelKleur` om de `penKleur` -variabele te gebruiken in plaats van `black`:
     
