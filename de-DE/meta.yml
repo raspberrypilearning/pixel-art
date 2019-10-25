@@ -1,5 +1,6 @@
-title: Pixel art
-description: Erstelle einen Pixel Art Editor.
+---
+title: Pixel Kunst
+description: Erstelle ein Pixelbild Editor mit HTML, CSS und JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -15,11 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Einführung
-- title: Erstelle ein Pixelraster
-- title: 'Aufgabe: Verändere die Einstellung deiner Rastergröße'
-- title: Die Pixel färben
-- title: 'Aufgabe: Mache alle Pixel anklickbar'
-- title: Füge eine Farbpalette hinzu
-- title: 'Aufgabe: Füge weitere Farben zur Palette hinzu'
+steps:
+  - title: Einleitung
+  - title: Was du brauchen wirst
+  - title: Erstelle ein Pixelraster
+  - title: 'Herausforderung: Verändere die Größe des Rasters'
+  - title: Färbe die Pixel
+  - title: 'Herausforderung: Mache alle Pixel anklickbar'
+  - title: Füge eine Farbpalette hinzu
+  - title: 'Herausforderung: Füge mehr Farben zur Palette hinzu'
