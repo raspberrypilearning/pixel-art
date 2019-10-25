@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Πρόκληση: Άλλαξε το μέγεθος του πλέγματός σου
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+Το 3x3 είναι αρκετά μικρό μέγεθος πλαισίου για pixel art. Μπορείς να κάνεις το πλαίσιο μεγαλύτερο; Το 8x8 είναι καλό μέγεθος για pixel art.
 
-Try copying and pasting rather than typing everything out.
+Δοκίμασε την αντιγραφή και επικόλληση αντί να πληκτρολογήσεις τα πάντα.
 
-![screenshot](images/pixel-art-grid-8.png)
+![στιγμιότυπο οθόνης](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
