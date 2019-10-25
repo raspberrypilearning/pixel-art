@@ -1,6 +1,10 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du einen sog. „Pixel Art Editor” erstellen, um deine Kunstwerke zu bearbeiten. Zusätzlich zum HTML und CSS Code wirst du lernen, wie man JavaScript benutzt, um interaktive Funktionen zu deinem Projekt hinzuzufügen.
+Erstelle einen Pixel-Kunsteditor. Neben HTML und CSS lernst du, wie man JavaScript verwendet, um Interaktivität zu deinem Projekt hinzuzufügen.
+
+### Was du machen wirst
+
+Probiere das unten stehende Projekt aus. Klicke auf eine Farbe in der Palette und dann auf ein Pixel, um dessen Farbe zu ändern.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,60 +12,16 @@ In diesem Projekt wirst du einen sog. „Pixel Art Editor” erstellen, um deine
   <img src="images/pixel-art-final.png">
 </div>
 
-__Wie man den Editor benutzt__: Klicke auf eine Farbe in der Farbpalette, um deine Stiftfarbe zu wählen, klicke dann auf die Pixel, um deren Farbe zu ändern.
+### Was du lernen wirst
 
---- collapse ---
----
-title: Notizen für den Club-Leiter
----
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum){:target="_blank"}:
 
-## Einführung:
-In diesem Projekt erstellen die Kinder einen sog. „Pixel Art Editor“ mit dem die Kunstwerke bearbeitet werden können. Sie erhalten eine Einführung in JavaScript, um die Farbe der Pixel zu verändern. Sie lernen ebenfalls, wie man HTML Tabellen benutzt, um ein Pixelraster zu erstellen.
++ [Entwurf von grundlegenden 2D- and 3D-Elementen](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-## Online Ressourcen
++ [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-Wir empfehlen [Trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+### Zusätzliche Informationen für Pädagogen
 
-+ ['Pixel Art' starting point](https://trinket.io/html/web-pixel)
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/pixel-art/print){:target="_blank"} .
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML und CSS Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
-
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
-
-+ ['Pixel Art' Finished](https://trinket.io/html/0e102a306b)
-
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](../offline.html), falls bevorzugt. Zugang zu den Projektressourcen ist durch Klicken auf den 'Download Project Materials' (Projektmaterialien herunterladen) Link für dieses Projekt möglich. Dieser Link enthält ein 'Project Resources' (Projektressourcen) Verzeichnis, das u.a. Ressourcen enthält, welche die Kinder benötigen, damit sie dieses Projekt offline fertig stellen können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieses Verzeichnis enthält die folgenden Dateien:
-
-+ template/index.html
-+ template/script.js
-+ template/style.css
-+ pixel/index.html
-+ pixel/style.css
-+ pixel/script.js
-
-
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
-
-+ index.html
-+ style.css
-+ script.js
-
-## Lernziele
-+ Einführung in die Nutzung von JavaScript, um interaktive Webseiten zu erstellen. 
-+ Eine Einführung in die Nutzung von Tabellen-Layout. 
-
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
-
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
-
-+ [Kombiniere die Programmierkonstrukte, um ein Problem zu lösen.](https://www.raspberrypi.org/curriculum/programming/builder)
-
-## Aufgaben
-+ „Verändere die Einstellung deiner Rastergröße“: Füge weitere Zeilen und Felder zu einer Tabelle hinzu;
-+ „Mache alle deine Pixel anklickbar“: Füge den „OnClick“ Code zu allen Pixeln hinzu.
-+ „Füge weitere Farben zur Farbpalette hinzu „: Füge weitere Farben zur Farbpalette hinzu und veranlasse, dass sich die Stiftfarbe ändert, wenn der Stift angeklickt wird. 
-
-
-
---- /collapse ---
+Verwende den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-De/resources".
