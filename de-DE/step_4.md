@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Die Pixel färben
+## Herausforderung: Verändere die Größe des Rasters
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3 × 3 ist ein recht kleines Raster für ein Pixelbild. Kannst du das Gitter vergrößern? 8 × 8 ist eine gute Größe für Pixelbilder.
 
-Try copying and pasting rather than typing everything out.
+Versuche, zu kopieren und einzufügen, anstatt alles zu tippen.
 
 ![screenshot](images/pixel-art-grid-8.png)
 
