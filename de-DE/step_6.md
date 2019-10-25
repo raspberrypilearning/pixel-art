@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Füge eine Farbpalette hinzu
+## Herausforderung: Mache alle Pixel anklickbar
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Kannst du alle Pixel anklickbar machen? Um Zeit zu sparen, kannst du den benötigten Code kopieren und einfügen.
 
-Test your code by creating a quick piece of pixel art.
+Teste deinen Code, durch erstellen eines schnellen Pixel-Kunstwerks.
 
 ![screenshot](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Tipp: Du kannst auf **Autorun** klicken um alle Pixel zurückzusetzen.
 
 \--- /challenge \---
