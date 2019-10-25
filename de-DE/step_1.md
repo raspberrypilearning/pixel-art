@@ -22,6 +22,6 @@ Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digit
 
 ### Zusätzliche Informationen für Pädagogen
 
-Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/pixel-art/print){:target="_blank"} .
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/pixel-art/print){:target="_blank"}.
 
 Verwende den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-De/resources".
