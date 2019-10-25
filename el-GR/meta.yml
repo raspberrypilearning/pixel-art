@@ -1,6 +1,6 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: Pixel Art
+description: Δημιουργήστε έναν επεξεργαστή τέχνης pixel χρησιμοποιώντας HTML, CSS και JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -9,27 +9,27 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
-interests: art
+interests: τέχνη
 technologies: html-css-javascript
-site_areas: projects
+site_areas: έργα
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: What you will need
+    title: Τι θα χρειαστείς
   - 
-    title: Create a grid of pixels
+    title: Δημιούργησε ένα πλέγμα εικονοστοιχείων
   - 
-    title: 'Challenge: resize your grid'
+    title: 'Πρόκληση: αλλαγή μεγέθους του πλέγματός σου'
   - 
-    title: Colour the pixels
+    title: Χρωμάτισε τα εικονοστοιχεία
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: 'Πρόκληση: Κάνε όλα τα εικονοστοιχεία ενεργά'
   - 
-    title: Add a colour palette
+    title: Πρόσθεσε χρωματική παλέττα
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: 'Πρόκληση: πρόσθεσε περισσότερα χρώματα στην παλέττα'
