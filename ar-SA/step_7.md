@@ -4,11 +4,11 @@
 
 + أضف هذه التعليمات البرمجية في الجزء السفلي من ملف `style.css` لإنشاء نمط القلم:
 
-![لقطة شاشة](images/pixel-art-pen.png)
+![لقطة الشاشة](images/pixel-art-pen.png)
 
 + الآن أنشئ لوحة تضم لونَي الأقلام الأبيض والأسود باستخدام نمط القلم الذي أنشأته للتو. أضف التعليمات البرمجية التالية إلى الملف `index.html` أسفل الوسم `<body>` :
 
-![لقطة شاشة](images/pixel-art-palette.png)
+![لقطة الشاشة](images/pixel-art-palette.png)
 
 تسمح لك الخاصية `=style` بإضافة تعليمات CSS البرمجية داخل ملف HTML، وهي مناسبة هنا.
 
@@ -22,7 +22,7 @@
 
 ![لقطة الشاشة](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ مدخل `pen`. راجع الدالة `setPixelColour` التي أنشأتها مُسبقاً لمساعدتك.
++ أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ قيمة إدخال `pen`. راجع الدالة `setPixelColour` التي أنشأتها مُسبقاً لمساعدتك.
 
 [[[generic-javascript-create-a-function]]]
 
@@ -30,7 +30,7 @@
 
 ![لقطة الشاشة](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+ستحتاج أيضاً إلى استخدام المتغير `penColour` عندما تغير لون وحدة بكسل.
 
 + غيِّر الدالة `setPixelColour` بحيث تستخدم المتغير `penColour` بدلًا من القيمة `black`:
     
