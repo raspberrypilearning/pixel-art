@@ -4,7 +4,7 @@
 
 ### ما ستصنعه
 
-جرِّب المشروع أدناه. انقر فوق لون من لوحة الألوان، ثم انقر فوق وحدة بكسل لتغيير لونها.
+جرِّب المشروع أدناه. انقر على لون من لوحة الألوان، ثم انقر فوق وحدة بكسل لتغيير لونها.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
