@@ -1,8 +1,8 @@
 ## Πρόσθεσε χρωματική παλέττα
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+Δεν βρήκες ενοχλητικό ότι δεν μπορούσες να ξανακάνεις λευκό ένα εικονοστοιχείο, σε περίπτωση λάθους; Διόρθωσέ το αυτό δημιουργώντας μια χρωματική παλέττα, ώστε να μπορείς να επιλέξεις κάποιο χρώμα με ένα κλικ.
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ Πρόσθεσε αυτόν τον κώδικα στο τέλος του αρχείου `style.css` για να δημιουργήσεις ένα στυλ για το μολύβι:
 
 ![screenshot](images/pixel-art-pen.png)
 
