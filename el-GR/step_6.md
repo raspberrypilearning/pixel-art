@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Πρόκληση: Κάνε όλα τα εικονοστοιχεία ενεργά
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Μπορείς να κάνεις όλα τα εικονοστοιχεία να αλλάζουν χρώμα όταν κάνεις κλικ πάνω τους; Για να γλιτώσεις χρόνο, μπορείς να κάνεις αντιγραφή και επικόλληση τον κώδικα που θα χρειαστείς.
 
-Test your code by creating a quick piece of pixel art.
+Δοκίμασε τον κώδικά σου δημιουργώντας ένα γρήγορο κομμάτι pixel art.
 
 ![screenshot](images/pixel-art-black-example.png)
 
