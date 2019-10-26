@@ -22,11 +22,11 @@
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Κάτω από τη μεταβλητή, δημιούργησε μια νέα συνάρτηση με όνομα `setPenColour` με όρισμα τη λέξη `pen`. Δες τη συνάρτηση `setPixelColour` που ήδη έχεις δημιουργήσει για να σε βοηθήσει.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ Μέσα στη συνάρτηση `setPenColour` πρόσθεσε κώδικα ώστε να ορίσεις τη μεταβλητή `penColour` με το χρώμα που θα περαστεί μέσω του ορίσματος `pen`.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
