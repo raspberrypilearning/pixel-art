@@ -6,8 +6,8 @@
 
 Δοκίμασε τον κώδικά σου δημιουργώντας ένα γρήγορο κομμάτι pixel art.
 
-![screenshot](images/pixel-art-black-example.png)
+![στιγμιότυπο οθόνης](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Συμβουλή: Μπορείς να κάνεις κλικ στο **Autorun** προκειμένου να καθαρίσεις όλα τα εικονοστοιχεία.
 
 \--- /challenge \---
