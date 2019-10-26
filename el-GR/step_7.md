@@ -6,7 +6,7 @@
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ Τώρα κάνε μια παλέττα με άσπρα και μαύρα χρώματα μολυβιού χρησιμοποιώντας το στυλ μολυβιού που μόλις δημιούργησες. Πρόσθεσε τον παρακάτω κώδικα στο αρχείο `index.html` κάτω από την ετικέτα `<body>`:
 
 ![screenshot](images/pixel-art-palette.png)
 
