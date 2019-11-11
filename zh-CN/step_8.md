@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add more colours to the palette
+## 挑战：为调色板添加更多颜色
 
-Can you add more colours to the palette?
+您能添加更多颜色到调色板吗？
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
++ 选择您想要在作品中添加的颜色，并添加相应的代码來创建一些炫酷的像素图像作品。
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+提示：亮绿色调的名字是`chartreuse`。您可以从这个[彩色名称列表](https://www.w3schools.com/colors/colors_names.asp){:target="https://www.w3schools.com/colors/colors_names.asp"}中挑选您需要的顔色。
 
-![screenshot](images/pixel-art-final.png)
+![截屏](images/pixel-art-final.png)
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+您可以使用Windows中的截图工具SnippingTool（非Windows用戶可以使用其他工具）将生成的像素图稿另存为图像文件。
 
 \--- /challenge \---
