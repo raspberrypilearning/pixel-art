@@ -12,14 +12,14 @@
   .pixel {
     display: table-cell;
     background-color: white;
-    szerokość: 40px;
-		wysokość: 40px;
+    width: 40px;
+		height: 40px;
 	}
 	
 	.pen {
 	  display: inline-block;
-	  szerokość: 40px;
-		wysokość: 40px;
+	  width: 40px;
+		height: 40px;
 		border: 2px solid black;
 	}
 	
