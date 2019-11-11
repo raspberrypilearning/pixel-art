@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add more colours to the palette
+## Πρόκληση: πρόσθεσε περισσότερα χρώματα στην παλέτα
 
-Can you add more colours to the palette?
+Μπορείς να προσθέσεις περισσότερα χρώματα στην παλέτα;
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
++ Επίλεξε τα χρώματα που θες να χρησιμοποιήσεις για το pixel art και πρόσθεσέ τα στον κώδικά σου. Κατόπιν δημιούργησε μερικές όμορφες εικόνες.
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+Συμβουλή: Το φωτεινό πράσινο χρώμα λέγεται `chartreuse`. Να λοιπόν μια [ λίστα ](https://www.w3schools.com/colors/colors_names.asp) με ονόματα χρωμάτων από την οποία μπορείς να διαλέξεις τα αγαπημένα σου.
 
-![screenshot](images/pixel-art-final.png)
+![στιγμιότυπο οθόνης](images/pixel-art-final.png)
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+Μπορείς να χρησιμοποιήσεις το εργαλείο αποκομμάτων των Windows (ή κάποιο παρόμοιο αν δεν χρησιμοποιείς Windows) για να σώσεις ένα αντίγραφο του pixel art ως αρχείο εικόνας.
 
 \--- /challenge \---
