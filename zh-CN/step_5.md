@@ -1,35 +1,35 @@
-## Colour the pixels
+## 为像素着色
 
-This project uses three different languages:
+该项目使用三种不同的语言：
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML用于组织您的内容
++ CSS用于设定内容的样式
++ JavaScript 是一种编程语言。您可以用它来设定网页如何回复用戶的交互。
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+让我们添加一些JavaScript代码，在单击像素时可以自动为像素着色。
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+我们将创建一个**函数** 。 函数就是一个被命名了的，执行特定任务的代码块。 当我们想运行一个函数所包含的代码时，我们可以通过它的名字**调用**此函数。
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ 在` script.js`文件中，创建一个名称为` setPixelColour`的函数。 `setPixelColour`函数需要一个`像素`作为**输入**，函数就可以改变这个像素的颜色。
 
-![Create function](images/create-function.png)
+![创建函数](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ 在函数中添加以下代码以设置像素的背景色：
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![截屏](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+请注意，` backgroundColor `使用美国拼写。
 
-At the moment this code doesn't have any effect.
+目前，此代码没有任何作用。
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ 回到`index.html`文件，将以下代码添加到第一个像素上。当您点击这个像素时，就將调用`setPixelColour`函数：
 
-![screenshot](images/pixel-art-onclick.png)
+![截屏](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+括号中的`this`是` setPixelColour`函数的输入，它指定了要设置颜色的像素— ` this`！
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ 通过单击第一个像素来测试代码。它应该变成黑色。
 
-![screenshot](images/pixel-art-black.png)
+![截屏](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+您仅添加了` onclick `代码到第一个像素，因此点击其他像素将不会执行任何操作。
