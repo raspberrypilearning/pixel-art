@@ -1,6 +1,6 @@
-## Colora os pixels
+## Colorindo os pixels
 
-Este projeto usa três línguagens diferentes:
+Este projeto usa três linguagens diferentes:
 
 + HTML é usado para organizar seu conteúdo
 + CSS diz ao conteúdo como ele deve se parecer usando os estilos
@@ -10,7 +10,7 @@ Vamos adicionar um código JavaScript para colorir um pixel automaticamente quan
 
 Vamos criar uma **função**. As funções são blocos de código denominados que executam uma tarefa específica. Podemos **chamar** uma função pelo seu nome quando queremos executar o código que ela contém.
 
-+ Dentro do ` script.js ` arquivo, crie uma função com o nome ` setPixelColour ` (dar cor ao pixel). A função `setPixelColour` precisa ter um `pixel` como **entrada** para que ele pode mudar a cor deste pixel.
++ Dentro do arquivo `script.js`, crie uma função com o nome `setPixelColour`. A função `setPixelColour` precisa ter um `pixel` como **entrada** para que ele pode mudar a cor deste pixel.
 
 ![Create function](images/create-function.png)
 
