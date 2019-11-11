@@ -16,7 +16,7 @@ En primer lugar, vamos a escribir algo de código para crear una tabla con un fo
 
 ![captura de pantalla](images/pixel-art-art.png)
 
-Un `<div>` es una caja invisible a la que le puedes dar un **estilo**. Este `<div>` tiene el ID `arte`, que necesitas para que puedas añadir estilos a la caja.
+Un `<div>` es una caja invisible a la que le puedes dar un **estilo**. Este `<div>` tiene el ID `art (arte)`, que necesitas para que puedas añadir estilos a la caja.
 
 + Ahora ve a tu archivo `style.css` y agrega el estilo de tabla para el `<div>` llamado `art`.
 
