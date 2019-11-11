@@ -16,9 +16,9 @@ En primer lugar, vamos a escribir algo de código para crear una tabla con un fo
 
 ![captura de pantalla](images/pixel-art-art.png)
 
-Un `<div>`es una caja invisible a la que le puedes dar una **apariencia**. Este `<div>` tiene el ID `arte`, que necesitas para que puedas añadir estilos a la caja.
+Un `<div>` es una caja invisible a la que le puedes dar un **estilo**. Este `<div>` tiene el ID `arte`, que necesitas para que puedas añadir estilos a la caja.
 
-+ Ahora ve a tu archivo `style.css` y agrega la apariencia de tabla para el `<div>`llamado `art`.
++ Ahora ve a tu archivo `style.css` y agrega el estilo de tabla para el `<div>` llamado `art`.
 
 ![captura de pantalla](images/pixel-art-style.png)
 
@@ -26,7 +26,7 @@ Esto crea una tabla con un borde y establece el espaciado interno de la cuadríc
 
 Todavía no se ve muy interesante, por lo que necesitarás poner filas de píxeles dentro de ella.
 
-+ Vuelve a tu archivo `index.html` y añade una fila de tres píxeles **dentro de** la caja `art`. Si deseas ahorrar tiempo, puedes escribir la primera fila y luego copiar y pegar para crear las otras.
++ Vuelve a tu archivo `index.html` y añade una fila de tres píxeles **dentro** de la caja `art`. Si deseas ahorrar tiempo, puedes escribir la primera fila y luego copiar y pegar para crear las otras.
 
 ![captura de pantalla](images/pixel-art-row.png)
 
@@ -40,10 +40,10 @@ Ahora tus píxeles se alinearán en una cuadrícula con líneas negras a su alre
 
 + En tu archivo` index.html `, agrega otras dos secciones de píxeles para crear una cuadrícula de 3 × 3 píxeles. Puedes usar copiar y pegar nuevamente para ahorrar tiempo.
 
-\--- hints \--- \--- hint \--- Encuentra la `<div>` etiqueta de la clase ` row` y cópiala, incluyendo las tres filas llamadas ` pixel` que están dentro de ella, hasta e incluyendo su etiqueta` </div>` coincidente.
+\--- hints \--- \--- hint \--- Encuentra la etiqueta `<div>` con la clase `row` y cópiala, incluyendo las tres filas llamadas `pixel` que están dentro de ella, hasta e incluyendo la etiqueta de cierre `</div>`.
 
-Pegua este código inmediatamente debajo de la sección que acabas de copiar para crear otra fila. Repite una vez más para tener tres filas de tres píxeles cada una.
+Pega este código inmediatamente debajo de la sección que acabas de copiar para crear otra fila. Repite una vez más para tener tres filas de tres píxeles cada una.
 
-Puedes verificar si tu mesa se ve bien al mirar el área de resultados a la derecha. \--- / hint \--- \--- hint \--- Así es como debe verse tu código:
+Puedes verificar si tu tabla se ve bien mirando el área de resultados a la derecha. \--- / hint \--- \--- hint \--- Así es como debe verse tu código:
 
 ![captura de pantalla](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
