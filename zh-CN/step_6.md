@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## 挑战：将所有像素都设置成可以点击
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+您可以把所有像素都设置成可点击吗？为了节省时间，您可以复制并粘贴所需的代码。
 
-Test your code by creating a quick piece of pixel art.
+您可以通过创建一个快速的像素艺术来测试您的代码。
 
-![screenshot](images/pixel-art-black-example.png)
+![截屏](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+提示：您可以单击**自动运行**來清除所有的像素。
 
 \--- /challenge \---
