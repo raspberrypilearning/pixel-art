@@ -9,13 +9,13 @@ ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
-interests: art
+interests: 艺术
 technologies: html/css
 site_areas: codeclub, webdev
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017年1月1日
 steps:
   - 
     title: 介绍
