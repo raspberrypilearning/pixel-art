@@ -1,10 +1,10 @@
 ## Utwórz siatkę pikseli
 
-Stwórzmy siatkę pikseli, której możesz użyć do tworzenia sztuki pikseli.
+Stwórzmy siatkę pikseli, której możesz użyć do tworzenia pikselowej sztuki.
 
-Siatka będzie wyglądać jak stół. Tabele zawierają wiersze, a wiersze zawierają komórki, które będą reprezentować piksele.
+Siatka będzie wyglądać jak tabela. Tabele zawierają wiersze, a wiersze zawierają komórki, które będą reprezentować piksele.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Otwórz [startowy trinket](http://jumpto.cc/web-pixel).
 
 Projekt powinien wyglądać następująco:
 
@@ -12,11 +12,11 @@ Projekt powinien wyglądać następująco:
 
 Najpierw napiszmy kod, aby utworzyć tabelę z czarnym tłem, a następnie wstawić do niej białe piksele.
 
-+ Dodaj ten kod do `<body>` pliku `index.html` , aby utworzyć `<div>`:
++ Dodaj ten kod do `<body>` pliku `index.html`, aby utworzyć `<div>`:
 
 ![zrzut ekranu](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. Ten `<div>` ma identyfikator `art`, który jest potrzebny, aby można było dodawać style do tego pola.
+`<div>` to niewidzialne pole któremu możesz nadać **styl**. Ten `<div>` ma identyfikator `art`, którego potrzebujesz, aby móc dodawać style do pola.
 
 + Teraz przejdź do pliku `style.css` i dodaj stylizację tabeli dla `<div>` o nazwie `art`.
 
@@ -24,9 +24,9 @@ A `<div>` is an invisible box to which you can give a **style**. Ten `<div>` ma 
 
 Tworzy to tabelę z ramką i ustawia odstępy wewnątrz siatki.
 
-Nie wygląda jeszcze zbyt interesująco, więc musisz umieścić w nim rzędy pikseli.
+Nie wygląda to jeszcze zbyt interesująco, więc musisz umieścić w nim rzędy pikseli.
 
-+ Wróć do pliku `index.html` i dodaj wiersz z trzema pikselami **w polu** w polu `art`. Jeśli chcesz zaoszczędzić czas, możesz wpisać pierwszy wiersz, a następnie skopiować i wkleić go, aby utworzyć pozostałe.
++ Wróć do pliku `index.html` i dodaj wiersz z trzema pikselami **w środku** pola `art`. Jeśli chcesz zaoszczędzić czas, możesz wpisać pierwszy wiersz, a następnie skopiować i wkleić go, aby utworzyć pozostałe.
 
 ![zrzut ekranu](images/pixel-art-row.png)
 
@@ -40,10 +40,10 @@ Teraz twoje piksele ustawią się w siatce z czarnymi liniami wokół nich.
 
 + W pliku `index.html` dodaj kolejne dwie sekcje pikseli, aby utworzyć siatkę o wymiarach 3 × 3 pikseli. Możesz ponownie skopiować i wkleić, aby zaoszczędzić czas.
 
-\--- wskazówki \--- \--- podpowiedź \--- Znajdź `<div>` znacznik z klasy `wiersz` i skopiuj go, w tym trzy wiersze oznaczone jako `piksel` , które są w nim, aż do jego dopasowania `włącznie</div>` tag.
+\--- hints \--- \--- hint \--- Znajdź znacznik `<div>` z klasą `row` i skopiuj go, w tym trzy wiersze oznaczone `pixel` które są w środku, wliczając jego znacznik `</div>`.
 
 Wklej ten kod bezpośrednio pod sekcją, którą właśnie skopiowałeś, aby utworzyć kolejny wiersz. Powtórz jeszcze raz, aby mieć trzy rzędy po trzy piksele.
 
-Możesz sprawdzić, czy Twój stół wygląda prawidłowo, patrząc na obszar wyników po prawej stronie. \--- / hint \--- \--- hint \--- Oto jak powinien wyglądać twój kod:
+Możesz sprawdzić, czy twoja tabela wygląda prawidłowo, patrząc na wynik po prawej. \--- /hint \--- \--- hint \--- Tak powinien wyglądać twój kod:
 
 ![zrzut ekranu](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
