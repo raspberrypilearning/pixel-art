@@ -3,7 +3,7 @@
   function setPenColour(pen)
   {
     penColour = pen;
-  }
+  }}
 
   function setPixelColour(pixel)
   {
