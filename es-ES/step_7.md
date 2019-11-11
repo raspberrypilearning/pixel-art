@@ -2,7 +2,7 @@
 
 ¿Te molesta que no puedas cambiar el color de un píxel a blanco si cometiste un error? Arreglemos eso creando una paleta de colores para que puedas elegir entre los colores de la pluma con un clic.
 
-+ Agrega este código en la parte inferior de tu archivo` style.css ` para crear un estilo de pluma:
++ Agrega este código en la parte inferior de tu archivo ` style.css` para crear un estilo de pluma:
 
 ![captura de pantalla](images/pixel-art-pen.png)
 
@@ -30,13 +30,13 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 ![captura de pantalla](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+También necesitarás usar la variable ` penColour ` cuando cambies el color de un píxel.
 
 + Cambia la función ` setPixelColour ` para usar la variable ` penColour ` en lugar de ` black `:
     
     ![captura de pantalla](images/pixel-art-use-pen.png)
 
-+ En el archivo` index.html `, agrega código para llamar a la función ` setPenColour ` cuando se haga clic en un color en la paleta.
++ En el archivo `index.html`, agrega código para llamar a la función `setPenColour` cuando se haga clic en un color en la paleta.
 
 ![captura de pantalla](images/pixel-art-palette-onclick.png)
 
