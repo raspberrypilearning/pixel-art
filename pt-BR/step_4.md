@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: redimensione sua grade
 
