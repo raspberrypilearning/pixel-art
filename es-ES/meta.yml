@@ -1,5 +1,6 @@
-title: Pixel art
-description: Crea un editor de arte pixelado.
+---
+title: Arte de Pixel
+description: Crea un editor de arte pixelado usando HTML, CSS y JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -15,11 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: Crear una cuadrícula de píxeles
-- title: 'Desafío: Modifica el tamaño de la cuadrícula'
-- title: Colorea los píxeles
-- title: 'Desafío: Haz que todos los píxeles sean clicablese'
-- title: Añade una paleta de colores
-- title: 'Desafío: Añade más colores a la paleta'
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Crear una cuadrícula de píxeles
+  - title: 'Desafío: cambia el tamaño de tu cuadrícula'
+  - title: Colorea los píxeles
+  - title: 'Desafío: hacer que todos los píxeles sean "clicables"'
+  - title: Añade una paleta de colores
+  - title: 'Desafío: agrega más colores a la paleta'
