@@ -1,60 +1,27 @@
 ## Introducción
 
-En este proyecto, vamos a crear un editor de pixel art. Además de usar HTML y CSS, aprenderás a usar JavaScript para dar interactividad a tu proyecto.
+Crea un editor de pixel art. Además de usar HTML y CSS, aprenderás cómo usar JavaScript para agregar interactividad a tu proyecto.
+
+### Lo que harás
+
+Prueba el proyecto que sigue. Haz clic en un color de la paleta, luego haz clic en un píxel para cambiar su color.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-  <img src="pixel-art-final.png">
+  <img src="images/pixel-art-final.png">
 </div>
 
-__Cómo usar el editor__: Haz clic en un color de la paleta para escoger el color de dibujo, y después haz clic en los píxeles para cambiar su color.
+### Lo que aprenderás
 
---- collapse ---
----
-title: Notas para los Líderes de Club
----
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-## Introducción:
-En este proyecto, la clase creará un editor de pixel art. Usarán por primera vez JavaScript para cambiar el color de los píxeles. También aprenderán a usar tablas de HTML para crear una cuadrícula de píxeles.
++ [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-## Recursos en línea
++ [Usa estructuras de programación básicos para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-Recomendamos usar [trinket](https://trinket.io/) para escribir HTML y CSS en línea. Este proyecto contiene los siguientes trinkets:
+### Información adicional para los educadores
 
-+ ['Pixel Art' starting point](https://trinket.io/html/web-pixel)
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/pixel-art/print){:target="_blank"}.
 
-Además, existe un trinket que contiene un modelo de solución para los desafíos:
-
-+ ['Pixel Art' Finished](https://trinket.io/html/0e102a306b)
-
-## Recursos sin conexión
-Si lo preferís, este proyecto se puede [completar sin conexión](../offline.html). Podéis acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del Proyecto' que se encuentra en este proyecto. Dicho enlace contiene una carpeta de 'Recursos del Proyecto', que incluye recursos que la clase necesitará para completar el proyecto sin conexión. Toda la clase debería tener acceso a una copia de estos recursos. Esta carpeta incluye los siguientes archivos:
-
-+ template/index.html
-+ template/script.js
-+ template/style.css
-+ pixel/index.html
-+ pixel/style.css
-+ pixel/script.js
-
-
-También podéis encontrar la versión de este proyecto con los retos completados en la carpeta 'Recursos para voluntarios', que contiene:
-
-+ index.html
-+ style.css
-+ script.js
-
-## Objetivos de aprendizaje
-+ Empezar a usar JavaScript para crear páginas web interactivas. 
-+ Empezar a usar la configuración de tablas. 
-
-## Desafíos
-+ "Modifica el tamaño de la cuadrícula" - añadir más filas y celdas a una tabla;
-+ "Haz que todos los píxeles sean clicables" - añadir código onclick a todos los píxeles.
-+ "Añade más colores a la paleta" - añadir más colores a la paleta y hacer que el color del lápiz cambie cuando se hace clic en ellos. 
-
-## Preguntas frecuentes
-
-
---- /collapse ---
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.

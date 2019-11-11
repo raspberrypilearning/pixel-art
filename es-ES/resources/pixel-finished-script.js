@@ -1,11 +1,11 @@
 	var penColour = 'black';
     
-  function setPenColour(pen)
+  function setPenColour (pen)
   {
     penColour = pen;
   }
 
-  function setPixelColour(pixel)
+  function setPixelColour (pixel)
   {
     pixel.style.backgroundColor = penColour;
   }
