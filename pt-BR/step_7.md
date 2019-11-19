@@ -18,6 +18,7 @@ Precisamos adicionar um código para que, quando uma das cores da paleta for cli
 
 [[[generic-javascript-create-variable]]]
 
+--- hints ---
 --- hint ---
 
 ![screenshot](images/pixel-art-pencolour.png)
