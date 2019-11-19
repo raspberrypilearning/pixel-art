@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: torne todos os pixels clicáveis
 
@@ -10,4 +10,4 @@ Teste seu código, criando uma desenho rápido de pixel art.
 
 Dica: você pode clicar em ** Autorun ** para limpar todos os pixels.
 
-\--- / desafio \---
+\--- /challenge \---
