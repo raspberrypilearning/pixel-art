@@ -30,7 +30,7 @@ Dobbiamo aggiungere il codice in modo che quando uno dei colori della tavolozza 
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+Avrai anche bisogno di usare la variabile `penColour` quando cambi il colore di un pixel.
 
 + Cambia la funzione `setPixelColour` per utilizzare la variabile `penColour` invece di `nero`:
     
