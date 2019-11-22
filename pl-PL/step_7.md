@@ -2,7 +2,7 @@
 
 Czy denerwuje Cię to, że nie możesz zmienić koloru piksela z powrotem na biały, jeśli popełnisz błąd? Naprawmy to, tworząc paletę kolorów, aby można było wybierać między kolorami pióra za pomocą kliknięcia.
 
-+ Dodaj ten kod u dołu pliku `style.css` , aby utworzyć styl pióra:
++ Dodaj ten kod u dołu swojego pliku `style.css`, aby utworzyć styl pióra:
 
 ![zrzut ekranu](images/pixel-art-pen.png)
 
