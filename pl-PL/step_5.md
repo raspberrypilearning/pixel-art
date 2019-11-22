@@ -10,7 +10,7 @@ Dodajmy trochę kodu JavaScript, aby pokolorować piksel automatycznie po klikni
 
 Stworzymy **funkcję**. Funkcje to nazwane bloki kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję używając jej nazwy, gdy chcemy uruchomić kod, który zawiera.
 
-+ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **dane wejściowe**, aby mogła zmienić kolor tego piksela.
++ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **argument**, aby mogła zmienić kolor tego piksela.
 
 ![Stwórz funkcję](images/create-function.png)
 
@@ -26,7 +26,7 @@ W tej chwili ten kod nie ma żadnego efektu.
 
 ![zrzut ekranu](images/pixel-art-onclick.png)
 
-`this` (z ang. ten) w nawiasach jest wejściem dla funkcji `setPixelColour`, który pozwala jej określić, który piksel ma ustawić kolor dla - `this` piksel!
+`this` (z ang. ten) w nawiasach jest argumentem dla funkcji `setPixelColour`, pozwalającym określić, któremu pikselowi należy ustawić kolor - `temu` pikselowi!
 
 + Przetestuj swój kod, klikając na pierwszy piksel. Powinien stać się czarny.
 
