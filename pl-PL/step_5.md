@@ -3,14 +3,14 @@
 Ten projekt wykorzystuje trzy różne języki:
 
 + HTML służy do porządkowania treści
-+ CSS mówi zawartość, jak wyglądać ze stylami
++ CSS mówi treści, jak wyglądać ze stylami
 + JavaScript to język programowania, którego można użyć, aby strona internetowa reagowała podczas interakcji z nią
 
 Dodajmy trochę kodu JavaScript, aby pokolorować piksel automatycznie po kliknięciu.
 
-Stworzymy **funkcję**. Funkcje to bloki kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję używając jej nazwy, gdy chcemy uruchomić kod, który zawiera.
+Stworzymy **funkcję**. Funkcje to nazwane bloki kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję używając jej nazwy, gdy chcemy uruchomić kod, który zawiera.
 
-+ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **wejście**, aby mogła zmienić kolor tego piksela.
++ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **dane wejściowe**, aby mogła zmienić kolor tego piksela.
 
 ![Stwórz funkcję](images/create-function.png)
 
