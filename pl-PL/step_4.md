@@ -1,8 +1,8 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Wyzwanie: zmień rozmiar siatki
+## Wyzwanie: zmień rozmiar swojej siatki
 
-3 × 3 to dość mała siatka dla sztuki pikseli. Czy możesz powiększyć sieć? 8 × 8 to dobry rozmiar dla sztuki pikseli.
+3×3 to dość mała siatka dla pikselowej sztuki. Czy możesz ją powiększyć? 8×8 to dobry rozmiar dla pikselowej sztuki.
 
 Spróbuj skopiować i wkleić zamiast wszystkiego pisać.
 
