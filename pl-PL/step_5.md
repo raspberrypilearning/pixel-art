@@ -4,21 +4,21 @@ Ten projekt wykorzystuje trzy różne języki:
 
 + HTML służy do porządkowania treści
 + CSS mówi zawartość, jak wyglądać ze stylami
-+ JavaScript jest językiem programowania, za pomocą którego strona internetowa może reagować na interakcję z nią
++ JavaScript to język programowania, którego można użyć, aby strona internetowa reagowała podczas interakcji z nią
 
-Dodajmy trochę kodu JavaScript, aby kolorować w pikselach automatycznie po kliknięciu.
+Dodajmy trochę kodu JavaScript, aby pokolorować piksel automatycznie po kliknięciu.
 
-Stworzymy **funkcję**. Funkcje są nazwane blokami kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję według jej nazwy, gdy chcemy uruchomić kod, który zawiera.
+Stworzymy **funkcję**. Funkcje to bloki kodu, które wykonują określone zadanie. Możemy **wywoływać** funkcję używając jej nazwy, gdy chcemy uruchomić kod, który zawiera.
 
-+ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **wejście** , aby mógł zmienić kolor tego piksela.
++ Wewnątrz pliku `script.js` utwórz funkcję o nazwie `setPixelColour`. Funkcja `setPixelColour` musi przyjąć `piksel` jako **wejście**, aby mogła zmienić kolor tego piksela.
 
-![Utwórz funkcję](images/create-function.png)
+![Stwórz funkcję](images/create-function.png)
 
-+ Dodaj ten kod do funkcji, aby ustawić kolor tła piksela:
++ Dodaj ten kod wewnątrz funkcji, aby ustawić kolor tła piksela:
 
 ![zrzut ekranu](images/pixel-art-set-pixel-colour.png)
 
-Zauważ, że `backgroundColor` używa amerykańskiej pisowni "color".
+Zauważ, że `backgroundColor` używa amerykańskiej pisowni słowa "colour".
 
 W tej chwili ten kod nie ma żadnego efektu.
 
@@ -26,10 +26,10 @@ W tej chwili ten kod nie ma żadnego efektu.
 
 ![zrzut ekranu](images/pixel-art-onclick.png)
 
-`to` w nawiasach jest wejściem dla funkcji `setPixelColour` , która pozwala mu określić, który piksel ma ustawić kolor dla - `tego` piksela!
+`this` (z ang. ten) w nawiasach jest wejściem dla funkcji `setPixelColour`, który pozwala jej określić, który piksel ma ustawić kolor dla - `this` piksel!
 
-+ Przetestuj swój kod, klikając pierwszy piksel. Powinno stać się czarne.
++ Przetestuj swój kod, klikając na pierwszy piksel. Powinien stać się czarny.
 
 ![zrzut ekranu](images/pixel-art-black.png)
 
-Dodałeś tylko `kod onclick` do **pierwszego** piksela, więc kliknięcie innych pikseli nic jeszcze nie da.
+Dodałeś kod `onclick` tylko do **pierwszego** piksela, więc kliknięcie innych pikseli nic jeszcze nie zrobi.
