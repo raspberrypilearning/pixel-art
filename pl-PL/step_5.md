@@ -32,4 +32,4 @@ W tej chwili ten kod nie ma żadnego efektu.
 
 ![zrzut ekranu](images/pixel-art-black.png)
 
-Dodałeś kod `onclick` tylko do **pierwszego** piksela, więc kliknięcie innych pikseli nic jeszcze nie zrobi.
+Dodałeś kod `onclick` tylko do **pierwszego** piksela, więc kliknięcie innych pikseli niczego jeszcze nie zrobi.
