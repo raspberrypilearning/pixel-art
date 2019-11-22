@@ -2,7 +2,7 @@
 
 Stwórz edytor pikselowej sztuki. Oprócz korzystania z HTML i CSS nauczysz się używać JavaScript, aby dodać interaktywność do swojego projektu.
 
-### Co zrobisz
+### Co będziesz robić
 
 Wypróbuj projekt poniżej. Kliknij kolor z palety, a następnie kliknij piksel, aby zmienić jego kolor.
 
