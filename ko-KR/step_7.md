@@ -30,7 +30,7 @@
 
 ![<0>#outside-pic</0> CSS 코드에서 <0>width</0>(너비) 와 <0>height</0>(높이) 값을 수정하여, 바깥 쪽에 있는 이미지를 <0>200px</0>로 수정해보세요. (<0>px</0>는 픽셀을 의미합니다.)](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+또한 `penColour` 변수를 픽셀 색상을 바꿀 때 사용해야 합니다.
 
 + `setPixelColour` 함수를 아래와 같이 `black` 대신 `penColour`로 변경합니다.
     
