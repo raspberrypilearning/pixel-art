@@ -26,7 +26,7 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 [[[generic-javascript-create-a-function]]]
 
-+ Wewnątrz funkcji `setPenColour` dodaj kod, aby ustawić zmienną `penColour` na kolor `pen` podany jako wejście.
++ Wewnątrz funkcji `setPenColour` dodaj kod, aby ustawić zmienną `penColour` na kolor `pen` podany jako argument.
 
 ![zrzut ekranu](images/pixel-art-set-pen.png)
 
