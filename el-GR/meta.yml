@@ -1,6 +1,6 @@
 ---
 title: Pixel Art
-description: Δημιουργήστε έναν επεξεργαστή τέχνης pixel χρησιμοποιώντας HTML, CSS και JavaScript.
+description: Δημιούργησε έναν επεξεργαστή τέχνης pixel χρησιμοποιώντας HTML, CSS και JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -30,6 +30,6 @@ steps:
   - 
     title: 'Πρόκληση: Κάνε όλα τα εικονοστοιχεία ενεργά'
   - 
-    title: Πρόσθεσε χρωματική παλέττα
+    title: Πρόσθεσε χρωματική παλέτα
   - 
-    title: 'Πρόκληση: πρόσθεσε περισσότερα χρώματα στην παλέττα'
+    title: 'Πρόκληση: πρόσθεσε περισσότερα χρώματα στην παλέτα'
