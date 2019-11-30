@@ -18,7 +18,7 @@ Moramo dodati kôd tako da kada se klikne jedna od boja u paleti, boja olovke se
 
 [[[generic-javascript-create-variable]]]
 
-\--- savjeti \--- \--- savjet \--- Dodajte sljedeći kod pri vrhu datoteke:
+\--- hints \--- \--- hint \--- Dodajte sljedeći kod pri vrhu datoteke:
 
 ![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
@@ -30,7 +30,7 @@ Moramo dodati kôd tako da kada se klikne jedna od boja u paleti, boja olovke se
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+Također ćete trebati upotrijebiti `penColour` varijablu kad promijenite boju piksela.
 
 + Promijenite `setPixelColour` funkciju da biste koristili `penColour` varijablu umjesto `crno`:
     
