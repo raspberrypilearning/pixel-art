@@ -18,10 +18,10 @@ Ten projekt pokrywa elementy z następujących wątków z [Programu nauczania Ra
 
 + [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"
++ [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}.
 
 ### Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/pl-PL/projects/pixel-art/print){:target="_blank"} .
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/pl-PL/projects/pixel-art/print){:target="_blank"}.
 
-Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.
+Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'en/resources'.
