@@ -14,7 +14,7 @@
 
 我们需要添加代码，使得在用户单击调色板中的某一种颜色时，画笔的颜色会相应改变。
 
-+ 切换到` script.js `文件。在文件的最顶部创建一个名为` penColour`的变量，并将变量的初始值设置为`'black' ` 。
++ 切换到`script.js `文件。在文件的最顶部创建一个名为`penColour`的变量，并将变量的初始值设置为`'black'` 。
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,7 +22,7 @@
 
 ![截屏](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
 
-+ 在变量申明下面，创建一个名为` setPenColour`的新函数，函数的输入是`pen` 。您可以參考您已经创建的函数` setPixelColour `來获得帮助。
++ 在变量下面，创建一个名为`setPenColour`的新函数，函数的输入是`pen` 。您可以参考您已经创建的函数`setPixelColour`获得帮助。
 
 [[[generic-javascript-create-a-function]]]
 
@@ -36,8 +36,8 @@
     
     ![截屏](images/pixel-art-use-pen.png)
 
-+ 在 `index.html` 文件中，添加代码使得当调色板中的颜色被点击时，可以调用`setPenColour` 函数。
++ 在 `index.html` 文件中，添加一些代码使得当调色板中的颜色被点击时，可以调用`setPenColour`函数。
 
 ![截屏](images/pixel-art-palette-onclick.png)
 
-+ 测试您是否可以在黑色和白色之间切换笔的颜色用來填充或删除像素。
++ 测试您是否可以在黑色和白色之间切换笔的颜色用来填充或删除像素。
