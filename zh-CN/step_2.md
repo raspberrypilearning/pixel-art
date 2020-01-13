@@ -1,9 +1,9 @@
-## 您需要准备什么
+## 您将需要什么
 
 ### 硬件
 
-+ 一台能够访问[trinket.io](https://trinket.io){:target="https://trinket.io/"}网站的计算机
++ 一台能够访问[trinket.io](https://trinket.io){:target="_blank"}网站的计算机
 
 ### 软件
 
-该项目仅需要通过Web浏览器访问[trinket.io](https://trinket.io){:target="https://trinket.io/"}就可以完成。
+该项目可以在Web浏览器中使用[trinket.io](https://trinket.io){:target="_blank"}的在线应用程序完成。
