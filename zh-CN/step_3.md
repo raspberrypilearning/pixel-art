@@ -4,7 +4,7 @@
 
 创建的网格看起来就像一个表格。表格包含行，而行则包含代表像素的单元格。
 
-+ 启动[trinket](http://jumpto.cc/web-pixel){:target="http://jumpto.cc/web-pixel"}
++ 启动[trinket](http://jumpto.cc/web-pixel)
 
 项目如下图所示：
 
