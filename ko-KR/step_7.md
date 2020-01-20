@@ -18,9 +18,17 @@
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- 아래 코드를 파일 가장 위에 삽입하세요.
+\--- hints \---
 
-![스크린샷](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![스크린샷](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + 변수 아래에 새 `setPenColour` 함수를 만들어서 `pen`의 색깔을 함수에서 받을 수 있도록 합니다. 아까 만들었던 `setPixelColour` 함수를 참고하시면 도움이 될 것입니다.
 
@@ -28,9 +36,9 @@
 
 + `setPenColour` 함수 안에 아래 코드를 추가하여 `penColour` 변수가 입력 받은 `pen`의 색깔이 되도록 합니다.
 
-![스크린샷](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-또한 `penColour` 변수는 픽셀 색상을 바꿀 때도 사용해야 합니다.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + `setPixelColour` 함수를 아래와 같이 `black` 대신 `penColour`로 변경합니다.
     
@@ -38,6 +46,6 @@
 
 + `index.html` 파일에서 아래 코드를 추가하여 팔레트의 색깔을 클릭하면 `setPenColour` 함수가 동작하도록 제작하십시오.
 
-![스크린샷](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + 펜 색상이 검은색, 흰색으로 바뀌는지, 픽셀 색깔을 채우거나 삭제할 수 있는지 테스트해 보세요.
