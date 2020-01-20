@@ -18,9 +18,17 @@
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Πρόσθεσε τον ακόλουθο κώδικα στην αρχή του αρχείου:
+\--- hints \---
 
-![στιγμιότυπο οθόνης](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![στιγμιότυπο οθόνης](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Κάτω από τη μεταβλητή, δημιούργησε μια νέα συνάρτηση με όνομα `setPenColour` με όρισμα τη λέξη `pen`. Δες τη συνάρτηση `setPixelColour` που ήδη έχεις δημιουργήσει για να σε βοηθήσει.
 
@@ -28,9 +36,9 @@
 
 + Μέσα στη συνάρτηση `setPenColour` πρόσθεσε κώδικα ώστε να ορίσεις τη μεταβλητή `penColour` με το χρώμα που θα περαστεί μέσω του ορίσματος `pen`.
 
-![στιγμιότυπο οθόνης](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-Θα χρειαστεί επίσης να χρησιμοποιήσεις τη μεταβλητή `penColour` για ν' αλλάξεις το χρώμα ενός εικονοστοιχείου.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Άλλαξε τη συνάρτηση `setPixelColour` ώστε να κάνει χρήση της μεταβλητής `penColour` αντί της τιμής `black`:
     
@@ -38,6 +46,6 @@
 
 + Στο αρχείο `index.html`, πρόσθεσε κώδικα για να καλείς τη συνάρτηση `setPenColour` όταν πατηθεί κάποιο χρώμα στην παλέτα.
 
-![στιγμιότυπο οθόνης](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Δοκίμασε ότι μπορείς να εναλλάσσεις το χρώμα του μολυβιού ανάμεσα σε άσπρο - μαύρο για να χρωματίσεις ένα εικονοστοιχείο ή να το καθαρίσεις.
