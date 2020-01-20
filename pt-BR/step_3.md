@@ -40,10 +40,24 @@ Agora seus pixels se alinharão em uma grade com linhas pretas ao redor deles.
 
 + No seu arquivo `index.html`, adicione outras duas seções de pixel para criar uma grade de pixel 3×3. Você pode usar novalmente o copiar e colar para economizar tempo.
 
-\--- hints \--- \--- hint \--- Encontre a tag `<div>` com a classe `row` e copie, incluindo as três linhas marcadas com `pixel` que estão dentro dela, até a que inclui sua tag`</div>` correspondente.
+\--- hints \---
 
-Cole este código imediatamente abaixo da seção que você acabou de copiar para criar outra linha. Repita mais uma vez para que você tenha três linhas de três pixels cada.
+\--- hint \---
 
-Você pode verificar se sua tabela está certa observando a área de resultados à direita. \--- /hint \--- \--- hint \--- Aqui está como seu código deve parecer:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
