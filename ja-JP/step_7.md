@@ -18,9 +18,17 @@
     
     [[[generic-javascript-create-variable]]]
     
-    \---ヒント\--- \---ヒント\--- \--- ファイルの先頭に次のコードを追加します。
+    \--- hints \---
     
-    ![スクリーンショット](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+    \--- hint \---
+    
+    Add the following code at the top of the file:
+    
+    ![スクリーンショット](images/pixel-art-pencolour.png)
+    
+    \--- /hint \---
+    
+    \--- /hints \---
     
     + 変数の下に、 `setPenColour` という新しい関数を作成し、 `ペン`入力を加えます。すでに作成した関数 `setPixelColour` を見てください。
     
@@ -28,7 +36,7 @@
     
     + `setPenColour` 関数の中で、 `penColour` 変数を入力として提供された `pen` 色に設定するコードを追加します。
     
-    ![スクリーンショット](images/pixel-art-set-pen.png)
+    ![screenshot](images/pixel-art-set-pen.png)
     
     You'll also need to use the `penColour` variable when you change the colour of a pixel.
     
@@ -38,6 +46,6 @@
     
     + `index.html` ファイルで、パレットの色をクリックしたときに `setPenColour` 関数を呼び出すコードを追加します。
     
-    ![スクリーンショット](images/pixel-art-palette-onclick.png)
+    ![screenshot](images/pixel-art-palette-onclick.png)
     
     + ペンの色を黒と白の間で切り替えて、ピクセルを塗りつぶしたり削除したりできることをテストします。
