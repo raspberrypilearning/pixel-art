@@ -40,10 +40,24 @@ Teraz twoje piksele ustawią się w siatce z czarnymi liniami wokół nich.
 
 + W swoim pliku `index.html` dodaj kolejne dwie sekcje pikseli, aby utworzyć siatkę o wymiarach 3 × 3 pikseli. Możesz ponownie skopiować i wkleić, aby zaoszczędzić czas.
 
-\--- hints \--- \--- hint \--- Znajdź znacznik `<div>` z klasą `row` i skopiuj go, w tym trzy wiersze oznaczone `pixel` które są w środku, wliczając jego znacznik `</div>`.
+\--- hints \---
 
-Wklej ten kod bezpośrednio pod sekcją, którą właśnie skopiowałeś, aby utworzyć kolejny wiersz. Powtórz jeszcze raz, aby mieć trzy rzędy po trzy piksele.
+\--- hint \---
 
-Możesz sprawdzić, czy twoja tabela wygląda prawidłowo, patrząc na wynik po prawej. \--- /hint \--- \--- hint \--- Tak powinien wyglądać twój kod:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![zrzut ekranu](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
