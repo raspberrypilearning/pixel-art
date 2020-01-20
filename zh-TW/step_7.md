@@ -18,9 +18,17 @@
 
 [[[generic-javascript-create-variable]]]
 
-\---提示\--- \---提示\--- 在文件頂部添加以下代碼：
+\--- hints \---
 
-![截圖](images/pixel-art-pencolour.png) \--- /提示\--- \--- /提示\---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![截圖](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + 在變量下面，創建一個名為 `setPenColour` 的新函數，輸入為 `筆`。查看您已創建的功能 `setPixelColour` 來幫助您。
 
@@ -28,7 +36,7 @@
 
 + 在 `setPenColour` 函數內，添加代碼以將 `penColour` 變量設置為作為輸入提供的 `筆` 顏色。
 
-![截圖](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
@@ -38,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + 在 `index.html` 文件中，添加一些代碼以在單擊調色板中的顏色時調用 `setPenColour` 函數。
 
-![截圖](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + 測試您可以在黑白之間切換筆顏色以填充或刪除像素。
