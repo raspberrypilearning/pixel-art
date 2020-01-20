@@ -40,10 +40,24 @@ A `<div>` 是一個隱形框，你可以給它一個 **風格**。 這個 `<div>
 
 + 在您的 `index.html` 文件中，添加另外兩個像素部分以創建3×3像素網格。您可以再次使用複制和粘貼來節省時間。
 
-\---提示\--- \---提示\--- 找到帶有 `級第` 行的 `<div>` 標籤並複制它，包括標有 `像素` 三行，包括它在內匹配 `</div>` 標籤。
+\--- hints \---
 
-將此代碼粘貼到剛剛複制的部分的下方以創建另一行。再重複一遍，這樣你就有了三行，每行三個像素。
+\--- hint \---
 
-您可以通過查看右側的結果區域來檢查您的表是否正確。 \--- /提示\--- \---提示\--- 以下是代碼的外觀：
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![截圖](images/pixel-art-grid-3.png) \--- /提示\--- \--- /提示\---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
