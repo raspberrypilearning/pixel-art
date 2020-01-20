@@ -18,9 +18,17 @@ Precisamos adicionar um código para que, quando uma das cores da paleta for cli
 
 [[[generic-javascript-create-variable]]]
 
-\--- hint \---:
+\--- hints \---
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![screenshot](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Abaixo da variável, crie uma nova função chamada ` setPenColour ` com uma ` pen` (caneta) como entrada. Veja a função ` setPixelColour ` que você já criou para ajudá-lo.
 
@@ -30,7 +38,7 @@ Precisamos adicionar um código para que, quando uma das cores da paleta for cli
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-Você vai precisar também usar a variável de `penColour` quando você mudar a cor de um pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Altere a função ` setPixelColour ` para usar a variável ` penColour ` em vez de ` black ` (a cor preta):
     
