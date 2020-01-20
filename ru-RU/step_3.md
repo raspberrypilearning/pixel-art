@@ -40,10 +40,24 @@
 
 + В вашем `index.html` файл, добавьте еще два раздела пикселей, чтобы создать сетку пикселей 3 × 3. Вы можете использовать копирование и вставку снова, чтобы сэкономить время.
 
-\--- hints \--- \--- hint \--- Найдите тег `<div>` с классом `row` и скопируйте ее, включая три строки внутри помеченные `pixel`. Включая их соответствие тегу `</div>`.
+\--- hints \---
 
-Вставьте этот код непосредственно под разделом, который вы только что скопировали, чтобы создать еще одну строку. Повторите еще раз, чтобы у вас было три строки по три пикселя в каждой.
+\--- hint \---
 
-Вы можете проверить, правильно ли выглядит ваша таблица, посмотрев на область результатов справа. \--- / hint \--- \--- hint \--- Вот как должен выглядеть ваш код:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
