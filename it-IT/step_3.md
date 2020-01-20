@@ -40,10 +40,24 @@ Ora i tuoi pixel si allineano in una griglia con linee nere attorno a loro.
 
 + Nel tuo file `index.html`, aggiungi altre due sezioni di pixel per creare una griglia di pixel 3 × 3. Puoi copiare e incollare di nuovo per risparmiare tempo.
 
-\--- hints \--- \--- hint \--- Trova il tag `<div>` con la classe `row` e copialo, incluse le tre righe etichettate `pixel` che sono al suo interno, fino alla suo corrispondente tag `</div>`.
+\--- hints \---
 
-Incolla questo codice immediatamente sotto la sezione appena copiata per creare un'altra riga. Ripeti ancora una volta in modo da avere tre righe di tre pixel ciascuna.
+\--- hint \---
 
-Puoi controllare se la tua tabella sia corretta guardando nell'area risultante sulla destra. \--- /hint \--- \--- hint \--- Ecco come dovrebbe apparire il tuo codice:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
