@@ -18,9 +18,17 @@
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- أضف التعليمة البرمجية التالية في بداية الملف:
+\--- hints \---
 
-![لقطة الشاشة](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![لقطة الشاشة](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + أسفل المتغير، أنشئ دالة جديدة تُسمى `setPenColour` تأخذ قيمة إدخال `pen`. راجع الدالة `setPixelColour` التي أنشأتها مُسبقاً لمساعدتك.
 
@@ -28,9 +36,9 @@
 
 + داخل الدالة `setPenColour`، أضف تعليمة برمجية لتعيين المتغير `penColour` إلى لون `pen` الموجود كقيمة الإدخال.
 
-![لقطة الشاشة](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-ستحتاج أيضاً إلى استخدام المتغير `penColour` عندما تغير لون وحدة بكسل.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + غيِّر الدالة `setPixelColour` بحيث تستخدم المتغير `penColour` بدلًا من القيمة `black`:
     
@@ -38,6 +46,6 @@
 
 + في الملف `index.html`، أضف بعض التعليمات البرمجية لاستدعاء الدالة `setPenColour` عندما يتم النقر على لون في لوحة الألوان.
 
-![لقطة الشاشة](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + اختبر التعليمات البرمجية لتتأكد من أنه يمكنك تحويل لون القلم بين الأسود والأبيض لتلوين وحدات البكسل أو حذفها.
