@@ -18,9 +18,17 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Dodaj następujący kod u góry pliku:
+\--- hints \---
 
-![zrzut ekranu](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![zrzut ekranu](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Poniżej zmiennej, utwórz nową funkcję o nazwie `setPenColour` z argumentem `pen`. Spójrz na funkcję `setPixelColour`, którą już utworzyłeś, aby ci pomóc.
 
@@ -28,9 +36,9 @@ Musimy dodać kod, aby po kliknięciu jednego z kolorów w palecie zmieniał si�
 
 + Wewnątrz funkcji `setPenColour` dodaj kod, aby ustawić zmienną `penColour` na kolor `pen` podany jako argument.
 
-![zrzut ekranu](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-Będziesz także musiał użyć zmiennej `penColour` do zmiany koloru piksela.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Zmień funkcję `setPixelColour`, aby używała zmiennej `penColour` zamiast `black`:
     
@@ -38,6 +46,6 @@ Będziesz także musiał użyć zmiennej `penColour` do zmiany koloru piksela.
 
 + W pliku `index.html` dodaj kod do wywołania funkcji `setPenColour` po kliknięciu koloru w palecie.
 
-![zrzut ekranu](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Sprawdź, czy możesz zmienić kolor pióra między czarnym i białym, aby wypełnić lub usunąć piksele.
