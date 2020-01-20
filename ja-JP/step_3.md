@@ -40,10 +40,24 @@
 
 + `index.html` ファイルに、別の2つのピクセルセクションを追加して、3×3ピクセルグリッドを作成します。もう一度コピー＆ペーストして時間を節約することができます。
 
-\---ヒント\--- \---ヒント\--- クラス `行` の `<div>` タグを見つけて、その中にある `ピクセル` とラベル付けされた3つの行を含めてコピーします。 `</div>` タグと一致する。
+\--- hints \---
 
-別の行を作成するためにコピーしたセクションのすぐ下にこのコードを貼り付けます。もう一度繰り返すと、それぞれ3ピクセルの3行が表示されます。
+\--- hint \---
 
-右側の結果領域を見ることで、テーブルが正しいかどうかを確認することができます。 \--- / hint \--- \---ヒント\--- ここであなたのコードがどのように見えるかを示します：
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![スクリーンショット](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
