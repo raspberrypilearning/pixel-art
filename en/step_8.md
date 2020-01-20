@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: add more colours to the palette
 
 Can you add more colours to the palette?
