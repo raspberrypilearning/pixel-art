@@ -18,9 +18,17 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Add the following code at the top of the file:
+\--- hints \---
 
-![स्क्रीनशॉट](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![स्क्रीनशॉट](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
@@ -28,7 +36,7 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 + Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
-![स्क्रीनशॉट](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
@@ -38,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
-![स्क्रीनशॉट](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Test that you can switch the pen colour between black and white to fill in or delete pixels.
