@@ -40,10 +40,24 @@ Maintenant, les pixels vont s'aligner dans une grille avec des lignes noires aut
 
 + Dans ton fichier `index.html` ajoute deux autres sections de pixels pour créer une grille de 3×3 pixel. Tu peux utiliser le procédé du copier-coller à nouveau pour gagner du temps.
 
-\--- hints \--- \--- hint \--- Trouve la balise `<div>` avec la classe `rangee` et copie-la, y compris les trois lignes intitulées `pixel` qui sont à l'intérieur, tout en incluant son `</div>` étiquette correspondante.
+\--- hints \---
 
-Colle ce code immédiatement sous la section que tu viens de copier pour créer une autre ligne. Répète une fois de plus afin d'avoir trois rangées de trois pixels chacune.
+\--- hint \---
 
-Tu peux vérifier si ta table a l’air juste en regardant la zone de résultats à droite. \--- /hint \--- \--- hint \--- Voici à quoi devrait ressembler ton code:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![capture d'écran](images/pixel-art-final.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
