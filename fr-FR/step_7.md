@@ -18,9 +18,17 @@ Nous devons ajouter du code pour que lorsque l'une des couleurs de la palette es
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Ajouter le code suivant en haut du fichier :
+\--- hints \---
 
-![capture d'écran](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![capture d'écran](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Sous la variable, crée une nouvelle fonction appelée `setPenColour` avec une entrée de `pen`. Regarde la fonction `setPixelColour` que tu as déjà créé pour t’aider.
 
@@ -28,7 +36,7 @@ Nous devons ajouter du code pour que lorsque l'une des couleurs de la palette es
 
 + Dans la fonction `setPenColour`, ajoute du code pour définir la variable `penColour` à la couleur `pen` fournie en tant qu'entrée.
 
-![capture d'écran](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
@@ -38,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + Dans le fichier `index.html` ajoute un code pour appeler la fonction `setPenColour` quand une couleur dans la palette est cliquée.
 
-![capture d'écran](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Teste que tu peux changer la couleur du stylo entre noir et blanc pour remplir ou supprimer des pixels.
