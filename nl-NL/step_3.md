@@ -40,10 +40,24 @@ Nu zullen je pixels in een raster worden geplaatst met zwarte lijnen eromheen.
 
 + Voeg in je `index.html` -bestand nog twee secties pixels toe om een ​​raster van 3 × 3 pixels te maken. Je kunt opnieuw kopiëren en plakken om tijd te besparen.
 
-\--- hints \--- \--- hint \--- Zoek de `<div>` tag met de `rij` en kopieer die, inclusief de drie rijen met het label `pixel` die erin zitten, tot en met de bijbehorende `</div>` tag.
+\--- hints \---
 
-Plak deze code direct onder de sectie die je zojuist hebt gekopieerd om een ​​nieuwe rij te maken. Herhaal dit nog een keer zodat je drie rijen van elk drie pixels hebt.
+\--- hint \---
 
-Je kunt controleren of je tabel er goed uitziet door naar het resultaat aan de rechterkant te kijken. \--- / hint \--- \--- hint \--- Zo zou je code eruit moeten zien:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
