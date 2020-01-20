@@ -40,10 +40,24 @@ A `<div>` - це невидиме поле, на яке ви можете нат
 
 + У своєму ` index.html ` файл, додайте ще дві секції пікселів, щоб створити 3 × 3 піксельну сітку. Ви можете скопіювати та вставити ще раз, щоб заощадити час.
 
-\--- hints \--- \--- hint \--- Знайдіть тег `<div>` з класом `row` і скопіюйте його, включаючи три рядки, позначені як `pixel` які знаходяться всередині нього, до і включаючи з'єднювальний тег `</div>`.
+\--- hints \---
 
-Вставте цей код безпосередньо під розділ, який ви щойно скопіювали, щоб створити інший рядок. Повторіть ще раз, щоб у вас було три ряди по три пікселя кожен.
+\--- hint \---
 
-Ви можете перевірити, чи правильно виглядає таблиця, переглядаючи область результатів праворуч. \--- /hint \--- \--- hint \--- Ось як виглядає ваш код:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![знімок екрану](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
