@@ -40,10 +40,24 @@
 
 + في الملف `index.html`، أضف قسمين آخرين من وحدات البكسل لإنشاء شبكة 3×3. يمكنك استخدام النسخ واللصق مرة أخرى لتوفير الوقت.
 
-\--- hints \--- \--- hint \--- ابحث عن الوسم `<div>` الذي يتضمن الفئة `row` وانسخه كاملًا، بما في ذلك الصفوف الثلاثة المسماة `pixel` الموجودة بداخله حتى تصل إلى الوسم `</div>` المطابق له متضمناً إياه.
+\--- hints \---
 
-ألصق هذه التعليمات البرمجية مباشرةً أسفل القسم الذي نسخته لإنشاء صف آخر. كرِّر الأمر مرة أخرى حتى يكون لديك ثلاثة صفوف يحتوي كل منها على ثلاث وحدات من البكسل.
+\--- hint \---
 
-يمكنك التحقق ما إذا كان الجدول يظهر بالشكل المطلوب بالنظر إلى منطقة النتيجة على اليمين. \--- /hint \--- \--- hint \--- إليك كيف يجب أن تبدو تعليمتك البرمجية:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![لقطة الشاشة](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
