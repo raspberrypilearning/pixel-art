@@ -40,10 +40,24 @@
 
 + Στο αρχείο `index.html` πρόσθεσε δύο ακόμη τμήματα εικονοστοιχείων προκειμένου να δημιουργήσεις ένα πλέγμα 3x3. Μπορείς να χρησιμοποιήσεις ξανά την διαδικασία αντιγραφής - επικόλλησης για να γλιτώσεις χρόνο.
 
-\--- hints \--- \--- hint \--- Εντόπισε την ετικέτα `<div>` με την ιδιότητα class που έχει τιμή `row` και αντίγραψέ την, συμπεριλαμβάνοντας και τις τρεις γραμμές με την τιμή ` pixel` καθώς και την ετικέτα κλεισίματος `</div>`.
+\--- hints \---
 
-Επικόλλησε αυτόν τον κώδικα αμέσως κάτω από το τμήμα που μόλις αντέγραψες για να δημιουργήσεις άλλη μια γραμμή. Επανάλαβε άλλη μια φορά ώστε να δημιουργήσεις τρεις γραμμές των τριών εικονοστοιχείων η καθεμία.
+\--- hint \---
 
-Μπορείς να ελέγξεις αν ο πίνακας φαίνεται σωστός κοιτώντας στην περιοχή αποτελεσμάτων στα δεξιά. \--- /hint \--- \--- hint \--- Να πώς θα πρέπει να μοιάζει ο κώδικάς σου:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![στιγμιότυπο οθόνης](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
