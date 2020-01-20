@@ -40,10 +40,24 @@
 
 + 在` index.html中`文件中，添加另外两个像素区，创建出一个3×3的像素网格。您可以再次使用复制和粘贴来节省时间。
 
-\--- hints \--- \--- hint \--- 找到包含class（类）是`row`的`<div>`标签后，从这里开始，一直复制到匹配的` </div>`标签，这其中包括标签的class是`pixel`的三行。
+\--- hints \---
 
-将此代码紧接着粘贴在您刚刚复制部分的下面，用来创建另一行。 再次重复，这样您就创建了三行，每行三个像素。
+\--- hint \---
 
-您可以通过查看右侧的结果区域来检查表格是否正确。 \--- /hint \--- \--- hint \--- 你的代码应该像下面这样：
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![截屏](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
