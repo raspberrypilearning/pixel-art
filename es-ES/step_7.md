@@ -18,9 +18,17 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Agregue el siguiente código en la parte superior del archivo:
+\--- hints \---
 
-![captura de pantalla](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![captura de pantalla](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Debajo de la variable, crea una nueva función llamada ` setPenColour ` con una entrada de ` pen`. Mira la función ` setPixelColour ` que ya has creado para ayudarte.
 
@@ -28,9 +36,9 @@ Necesitamos agregar código para que cuando se haga clic en uno de los colores d
 
 + Dentro de la función ` setPenColour `, agrega código para asignar el de ` pen` proporcionado como entrada a la variable ` penColour `.
 
-![captura de pantalla](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-También necesitarás usar la variable ` penColour ` cuando cambies el color de un píxel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Cambia la función ` setPixelColour ` para usar la variable ` penColour ` en lugar de ` black `:
     
@@ -38,6 +46,6 @@ También necesitarás usar la variable ` penColour ` cuando cambies el color de 
 
 + En el archivo `index.html`, agrega código para llamar a la función `setPenColour` cuando se haga clic en un color en la paleta.
 
-![captura de pantalla](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Prueba que puedes cambiar el color del lápiz entre negro y blanco para pintar o borrar píxeles.
