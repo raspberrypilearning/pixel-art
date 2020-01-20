@@ -18,9 +18,17 @@ Wir müssen Code hinzufügen, damit sich die Farbe des Stifts ändert, wenn eine
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Füge den folgenden Code oben in der Datei hinzu:
+\--- hints \---
 
-![Screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![Screenshot](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Erstelle unter der Variablen eine neue Funktion mit dem Namen `setPenColour` ("setzeStiftFarbe") mit einer Eingabe `pen`. Schaue dir die Funktion `setPixelColour` an, die du bereits erstellt hast, um Dir zu helfen.
 
@@ -28,9 +36,9 @@ Wir müssen Code hinzufügen, damit sich die Farbe des Stifts ändert, wenn eine
 
 + In der Funktion `setPenColour` fügst du Code hinzu, um die `penColour` Variable auf die `pen` Farbe zu setzen, die als Eingabe übergeben wurde.
 
-![Screenshot](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-Du musst die `penColour` Variable auch verwenden, wenn du die Farbe eines Pixels änderst.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Ändere die `setPixelColour` Funktion, um die `penColour` Variable zu verwenden anstatt `black`:
     
