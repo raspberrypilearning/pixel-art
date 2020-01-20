@@ -40,10 +40,24 @@ Acum, pixelii tăi să vor alinia într-o grilă cu linii negre în jurul lor.
 
 + În fișierul tău `index.html`, adaugă încă două secțiuni de pixeli pentru a crea o grilă 3x3 de pixeli. Poți să dai copy paste din nou pentru a economisi timp.
 
-\--- hints \--- \--- hint \--- Găsește eticheta `<div>` cu clasa class `row` și copiaz-o, inclusiv cele trei linii etichetate ca `pixel` din interiorul ei, până la inclusiv eticheta `</div>`.
+\--- hints \---
 
-Lipește acest cod imediat după secțiunea pe care tocmai ai copiat-o pentru a crea o altă linie. Repetă încă odată pentru a avea trei linii cu câte 3 pixeli fiecare.
+\--- hint \---
 
-Poți verifica dacă tabelul tău arată în regulă, uitându-te în zona de rezultate din dreapta. \--- /hint \--- \--- hint \--- Iată cum ar trebui să arate codul tău:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![captură de ecran](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
