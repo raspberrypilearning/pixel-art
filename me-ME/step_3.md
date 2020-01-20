@@ -40,10 +40,24 @@ Sada će se tvoji pikseli poređati u rešetku sa crnim linijama oko njih.
 
 + U svoju `index.html` datoteku dodaj još dva reda piksela da kreiraš rešetku od 3 x 3 piksela. Možeš ponovo koristiti kopiranje i prenošenje da uštediš vrijeme.
 
-\--- hints \--- \--- hint \--- Nađi oznaku `<div>` sa klasom `row` i kopiraj je, uključujući tri reda označena sa `pixel` koja su unutar nje, kao i odgovarajuću završnu oznaku `</div>`.
+\--- hints \---
 
-Prenesi ovaj kôd odmah ispod dijela koji si upravo kopirao/kopirala da kreiraš drugi red. Ponovi to još jednom, tako da imaš tri reda po tri piksela.
+\--- hint \---
 
-Možeš da provjeriš da li tvoja tabela izgleda ispravno tako što ćeš pogledati rezultat sa desne strane. \--- /hint \--- \--- hint \--- Tvoj kôd treba da izgleda ovako:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
