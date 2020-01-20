@@ -18,9 +18,17 @@ Potrebno je da dodamo kôd kako bi se boja olovke mijenjala kada se klikne na je
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Dodaj sljedeći kôd na vrh datoteke:
+\--- hints \---
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![screenshot](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Ispod promjenljive kreiraj novu funkciju pod nazivom `setPenColour` sa ulazom `pen` (olovka). Pogledaj već kreiranu funkciju `setPixelColour` ako ti treba pomoć.
 
