@@ -18,9 +18,17 @@
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Додайте наступний код у верхній частині файлу:
+\--- hints \---
 
-![знімок екрану](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![знімок екрану](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Нижче змінної створіть нову функцію, яка називається `setPenColour` з входом `pen`. Подивіться на функцію `setPixelColour` що ви вже створили, це допоможе вам.
 
@@ -28,9 +36,9 @@
 
 + Всередині `setPenColour` функція, додайте код, щоб встановити `penColour` змінна до `pen` колір наданий як вхідний.
 
-![знімок екрану](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
-Вам також буде потрібно використовувати `penColour` змінна, коли ви змінюєте колір пікселя.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Змініть ` setPixelColour ` Використовуйте ` penColour ` змінна замість `black` :
     
@@ -38,6 +46,6 @@
 
 + У `index.html` файл, додайте код, щоб натиснути `setPenColour ` Функція, коли натискається колір у палітрі.
 
-![знімок екрану](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Перевірте, чи можна змінити колір пера між чорним і білим, щоб заповнити або видалити пікселі.
