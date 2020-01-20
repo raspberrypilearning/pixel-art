@@ -40,10 +40,24 @@ Ahora tus píxeles se alinearán en una cuadrícula con líneas negras a su alre
 
 + En tu archivo` index.html `, agrega otras dos secciones de píxeles para crear una cuadrícula de 3 × 3 píxeles. Puedes usar copiar y pegar nuevamente para ahorrar tiempo.
 
-\--- hints \--- \--- hint \--- Encuentra la etiqueta `<div>` con la clase `row` y cópiala, incluyendo las tres filas llamadas `pixel` que están dentro de ella, hasta e incluyendo la etiqueta de cierre `</div>`.
+\--- hints \---
 
-Pega este código inmediatamente debajo de la sección que acabas de copiar para crear otra fila. Repite una vez más para tener tres filas de tres píxeles cada una.
+\--- hint \---
 
-Puedes verificar si tu tabla se ve bien mirando el área de resultados a la derecha. \--- / hint \--- \--- hint \--- Así es como debe verse tu código:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![captura de pantalla](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
