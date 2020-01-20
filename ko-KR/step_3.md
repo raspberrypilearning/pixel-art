@@ -40,10 +40,24 @@
 
 + `index.html` 파일에서, 두 개의 픽셀 섹션을 추가하여 3x3 픽셀 격자를 만들어 보십시오. 복사 붙여넣기를 사용해서 시간을 절약할 수 있습니다.
 
-\--- hints \--- \---hint \--- `<div>`의 `row` 클래스를 찾아, `pixel`로 클래스와 같이 내용을 복사하세요. 코드가 올바르게 입력되도록 `</div>` 태그도 같이 복사하세요.
+\--- hints \---
 
-다른 행을 만들기 위해서는 방금 복사한 섹션 바로 아래에 코드를 붙여 넣으세요. 한번 더 반복하여 각각 3x3 픽셀을 만들어 봅시다.
+\--- hint \---
 
-오른쪽에 있는 결과를 보고 테이블이 정상적으로 생성되었는지 여부를 확인할 수 있습니다. \--- /hint \--- \--- hint \---
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![스크린샷](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
