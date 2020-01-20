@@ -18,9 +18,17 @@ Trebuie să adăugăm niște cod pentru ca culoarea stiloului să se schimbe atu
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Adaugă următorul cod în partea de sus a fișierului:
+\--- hints \---
 
-![captură de ecran](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![captură de ecran](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Sub variabilă, creează o nouă funcție numită `seteazaCuloareStilou` cu intrarea `stilou`. Uită-te la funcția `seteazaCuloarePixel` pe care ai creat-o deja pentru a te ajuta.
 
@@ -28,7 +36,7 @@ Trebuie să adăugăm niște cod pentru ca culoarea stiloului să se schimbe atu
 
 + În interiorul funcției `seteazaCuloareStilou`, adaugă cod pentru a seta variabila `culoareStilou` la culoarea `stilou` furnizată ca intrare.
 
-![captură de ecran](images/pixel-art-set-pen.png)
+![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
@@ -38,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + În fișierul `index.html`, adaugă niște cod pentru a apela funcția `seteazaCuloareStilou` atunci când se dă click pe o culoare din paletă.
 
-![captură de ecran](images/pixel-art-palette-onclick.png)
+![screenshot](images/pixel-art-palette-onclick.png)
 
 + Testează dacă poți schimba culoarea stiloului între negru și alb pentru a umple sau șterge pixeli.
