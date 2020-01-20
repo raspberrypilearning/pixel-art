@@ -18,9 +18,17 @@ We moeten code toevoegen zodat wanneer een van de kleuren in het palet wordt aan
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Voeg de volgende code bovenaan het bestand toe:
+\--- hints \---
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![screenshot](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Maak onder de variabele een nieuwe functie met de naam `geefPenKleur` met een invoer `pen`. Kijk naar de functie `geefPixelKleur` die je al hebt gemaakt om je te helpen.
 
