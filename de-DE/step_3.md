@@ -40,10 +40,24 @@ Jetzt werden deine Pixel in einem Raster mit schwarzen Linien um sie herum ausge
 
 + In deiner `index.html` Datei füge weitere zwei Teile von Pixeln hinzu, um ein 3×3 Pixel-Raster zu erstellen. Du kannst erneut kopieren und einfügen benutzen, um Zeit zu sparen.
 
-\--- hints \--- \--- hint \--- Finde den `<div>` tag mit der Klasse `row` und kopiere ihn, einschließlich der drei Zeilen, die mit `pixel` gekennzeichnet sind, bis zu und einschließlich dessen zugehörigen `</div>` tag.
+\--- hints \---
 
-Füge diesen Code dierekt unterhalb des Abschnitts ein, den du gerade kopiert hast, um eine neue Zeile zu erstellen. Wiederhole dies erneut, damit du drei Zeilen von jeweils drei Pixeln hast.
+\--- hint \---
 
-Du kannst überprüfen, ob deine Tabelle richtig aussieht, indem du den Ergebnisbereich auf der rechten Seite betrachten. \--- /hint \--- \--- hint \--- So sollte dein Code aussehen:
+Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
 
-![Screenshot](images/pixel-art-grid-3.png) \--- /hint \--- \--- /hints \---
+Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+
+You can check whether your table looks right by looking at the result area on the right.
+
+\--- /hint \---
+
+\--- hint \---
+
+Here is how your code should look:
+
+![screenshot](images/pixel-art-grid-3.png)
+
+\--- /hint \---
+
+\--- /hints \---
