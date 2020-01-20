@@ -18,9 +18,17 @@ Dobbiamo aggiungere il codice in modo che quando uno dei colori della tavolozza 
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \--- \--- hint \--- Aggiungi il seguente codice all'inizio del file:
+\--- hints \---
 
-![screenshot](images/pixel-art-pencolour.png) \--- /hint \--- \--- /hints \---
+\--- hint \---
+
+Add the following code at the top of the file:
+
+![screenshot](images/pixel-art-pencolour.png)
+
+\--- /hint \---
+
+\--- /hints \---
 
 + Sotto la variabile, crea una nuova funzione chiamata `setPenColour` con un input di `pen`. Guarda la funzione `setPixelColour` che hai già creato per aiutarti.
 
@@ -30,7 +38,7 @@ Dobbiamo aggiungere il codice in modo che quando uno dei colori della tavolozza 
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-Avrai anche bisogno di usare la variabile `penColour` quando cambi il colore di un pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Cambia la funzione `setPixelColour` per utilizzare la variabile `penColour` invece di `nero`:
     
