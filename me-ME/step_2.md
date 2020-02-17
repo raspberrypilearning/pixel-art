@@ -1,9 +1,9 @@
-## Šta će ti biti potrebno
+## What you will need
 
-### Hardver
+### Hardware
 
-+ Računar sa pristupom sajtu [trinket.io](https://trinket.io){:target="_blank"}
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
-### Softver
+### Software
 
-Ovaj projekat može biti izrađen u veb-pregledaču, koristeći online aplikaciju [trinket.io](https://trinket.io){:target="_blank"}.
+This project can be completed in a web browser using the [trinket.io](https://trinket.io){:target="_blank"} online application.
