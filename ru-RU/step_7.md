@@ -1,4 +1,4 @@
-## Добавим цветовую палитру
+## Add a colour palette
 
 Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
