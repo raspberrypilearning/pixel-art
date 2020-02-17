@@ -8,7 +8,7 @@ Did you find it annoying that you couldn't change a pixel's colour back to white
 
 + Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
 
-![स्क्रीनशॉट](images/pixel-art-palette.png)
+![screenshot](images/pixel-art-palette.png)
 
 `style=` allows you to add CSS code inside your HTML file, which is convenient here.
 
@@ -24,7 +24,7 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 Add the following code at the top of the file:
 
-![स्क्रीनशॉट](images/pixel-art-pencolour.png)
+![screenshot](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
@@ -42,7 +42,7 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
     
-    ![स्क्रीनशॉट](images/pixel-art-use-pen.png)
+    ![screenshot](images/pixel-art-use-pen.png)
 
 + In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
