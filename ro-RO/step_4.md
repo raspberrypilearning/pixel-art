@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Provocare: redimensionează-ți grila
+## Challenge: resize your grid
 
-3x3 e o grilă destul de mică pentru artă cu pixeli. Poți să o faci mai mare? 8x8 este o dimensiune bună pentru artă cu pixeli.
+3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
 
-Încearcă să dai copy paste în loc să scrii totul de mână.
+Try copying and pasting rather than typing everything out.
 
-![captură de ecran](images/pixel-art-grid-8.png)
+![screenshot](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
