@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Izazov: omogućite klikanje svih piksela
+## Challenge: make all pixels clickable
 
-Možete li kliknuti sve piksele? Da biste uštedjeli vrijeme, možete kopirati i zalijepiti kôd koji vam je potreban.
+Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
 
-Isprobajte svoj kôd tako što ćete izraditi brzi element piksela.
+Test your code by creating a quick piece of pixel art.
 
 ![screenshot](images/pixel-art-black-example.png)
 
-Savjet: možete kliknuti **Autorun** za brisanje svih piksela.
+Tip: you can click **Autorun** to clear all of the pixels.
 
 \--- /challenge \---
