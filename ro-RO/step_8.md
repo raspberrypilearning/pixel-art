@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Provocare: adaugă mai multe culori la paletă
+## Challenge: add more colours to the palette
 
-Poți adăuga mai multe culori la paletă?
+Can you add more colours to the palette?
 
-+ Alege culorile pe care vrei să le folosești în arta cu pixeli și adaugă-le la codul tău. Apoi, creează niște imagini mișto cu pixeli.
++ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
 
-Sfat: Culoarea verde deschis e numită `chartreuse`. Iată o [listă de nume de culori](https://www.w3schools.com/colors/colors_names.asp) de unde îți poți alege preferatele.
+Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
 
-![captură de ecran](images/pixel-art-final.png)
+![screenshot](images/pixel-art-final.png)
 
-Poți folosi Instrumentul de decupere din Windows (sau o alternativă, dacă nu folosești Windows) pentru a salva o copie a operei tale de artă cu pixeli ca o imagine.
+You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
 
 \--- /challenge \---
