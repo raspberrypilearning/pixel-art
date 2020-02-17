@@ -4,7 +4,7 @@ Vamos a crear una cuadrícula de píxeles que se pueden utilizar para la creaci�
 
 La cuadrícula se verá como una tabla. Las tablas contienen filas, y las filas contienen celdas que representarán los píxeles.
 
-+ Abre el [trinket de iniciación](http://jumpto.cc/web-pixel).
++ Abre el [trinket de inicio](http://jumpto.cc/web-pixel).
 
 El proyecto debería parecerse a esto:
 
@@ -12,7 +12,7 @@ El proyecto debería parecerse a esto:
 
 En primer lugar, vamos a escribir algo de código para crear una tabla con un fondo negro y luego poner píxeles blancos en él.
 
-+ Agrega este código en el `<body>` archivo ` index.html` para crear un `<div>`:
++ Agrega este código dentro del `<body>` del archivo `index.html` para crear un `<div>`:
 
 ![captura de pantalla](images/pixel-art-art.png)
 
