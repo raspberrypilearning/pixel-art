@@ -8,7 +8,7 @@ Can you add more colours to the palette?
 
 Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
 
-![स्क्रीनशॉट](images/pixel-art-final.png)
+![screenshot](images/pixel-art-final.png)
 
 You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
 
