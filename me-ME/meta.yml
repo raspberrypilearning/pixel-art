@@ -1,6 +1,6 @@
 ---
 title: Pixel art
-description: Izradi pixel art editor koristeći HTML, CSS i JavaScript.
+description: Create a pixel art editor using HTML, CSS, and JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Šta će ti biti potrebno
+    title: What you will need
   - 
-    title: Napravi rešetku od piksela
+    title: Create a grid of pixels
   - 
-    title: 'Izazov: promijeni veličinu rešetke'
+    title: 'Challenge: resize your grid'
   - 
-    title: Oboji piksele
+    title: Colour the pixels
   - 
-    title: 'Izazov: napravi da svi pikseli budu klikabilni'
+    title: 'Challenge: make all pixels clickable'
   - 
-    title: Dodaj paletu boja
+    title: Add a colour palette
   - 
-    title: 'Izazov: dodaj više boja u paletu'
+    title: 'Challenge: add more colours to the palette'
