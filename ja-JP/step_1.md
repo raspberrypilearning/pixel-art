@@ -1,10 +1,10 @@
-## はじめに
+## Introduction
 
-ピクセルアートエディタを作成します。 HTMLとCSSを使用するだけでなく、JavaScriptを使用してインタラクティブ機能をプロジェクトに追加する方法も学びます。
+Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
 
-### 作るもの
+### What you will make
 
-下のプロジェクトを試してみてください。パレットから色をクリックし、ピクセルをクリックして色を変更します。
+Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,16 +12,16 @@
   <img src="images/pixel-art-final.png">
 </div>
 
-### あなたが学ぶもの
+### What you will learn
 
-このプロジェクトは、[ラズベリーパイデジタルメイクカリキュラムの以下の要素をカバーします](http://rpf.io/curriculum) ：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [基本的な2Dおよび3Dアセット](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}を設計します。
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [基本的なプログラミング構造を使いかんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### 教育者のための追加情報
+### Additional information for educators
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/pixel-art/print)を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
 
-フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
