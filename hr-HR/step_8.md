@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Izazov: dodajte više boja na paletu
+## Challenge: add more colours to the palette
 
-Možete li dodati više boja na paletu?
+Can you add more colours to the palette?
 
-+ Odaberite boje koje želite upotrebljavati u pikselnoj umjetnosti i dodajte ih u svoj kôd. Zatim izradite neke cool piksele.
++ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
 
-Savjet: svijetla zelena boja zove `chartreuse`. Ovdje je [popis imena boja](https://www.w3schools.com/colors/colors_names.asp) s kojih možete odabrati svoje favorite.
+Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
 
 ![screenshot](images/pixel-art-final.png)
 
-Pomoću alata za izrezivanje u sustavu Windows (ili alternativne opcije ako ne upotrebljavate Windows) možete spremiti primjerak piksela piksela kao slikovnu datoteku.
+You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
 
 \--- /challenge \---
