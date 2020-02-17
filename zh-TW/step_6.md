@@ -1,13 +1,13 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：使所有像素都可以點擊
+## Challenge: make all pixels clickable
 
-你可以點擊所有像素嗎？為節省時間，您可以復制並粘貼所需的代碼。
+Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
 
-通過創建快速的像素藝術來測試您的代碼。
+Test your code by creating a quick piece of pixel art.
 
-![截圖](images/pixel-art-black-example.png)
+![screenshot](images/pixel-art-black-example.png)
 
-提示：您可以單擊 **自動運行** 清除所有像素。
+Tip: you can click **Autorun** to clear all of the pixels.
 
-\--- /挑戰\---
+\--- /challenge \---
