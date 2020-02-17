@@ -1,20 +1,20 @@
-## Adaugă o paletă de culori
+## Add a colour palette
 
-Ți s-a părut enervant că nu poți să schimbi culoarea unui pixel în alb dacă ai greșit? Hai să rezolvăm asta creând o paletă de culori pentru a putea alege între mai multe culori cu un click.
+Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
-+ Adaugă acest cod în partea de jos a fișierului tău `style.css` pentru a crea un stil de stilou:
++ Add this code at the bottom of your `style.css` file to create a pen style:
 
-![captură de ecran](images/pixel-art-pen.png)
+![screenshot](images/pixel-art-pen.png)
 
-+ Acum, creează o paletă cu creioane negre și albe folosind stilul stiloului pe care tocmai l-ai creat. Adaugă următorul cod la fișierul `index.html`, sub eticheta `<body>`:
++ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
 
-![captură de ecran](images/pixel-art-palette.png)
+![screenshot](images/pixel-art-palette.png)
 
-`style=` permite adăugarea de cod CSS în interiorul fișierului tău HTML, lucru convenabil aici.
+`style=` allows you to add CSS code inside your HTML file, which is convenient here.
 
-Trebuie să adăugăm niște cod pentru ca culoarea stiloului să se schimbe atunci când se dă click pe una dintre culorile din paletă.
+We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
 
-+ Comută la fișierul `script.js` și creează o variabilă create `culoareStilou` la începutul fișierului. Setează valoarea variabilei la `'black'`.
++ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
 
 [[[generic-javascript-create-variable]]]
 
@@ -24,28 +24,28 @@ Trebuie să adăugăm niște cod pentru ca culoarea stiloului să se schimbe atu
 
 Add the following code at the top of the file:
 
-![captură de ecran](images/pixel-art-pencolour.png)
+![screenshot](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
 \--- /hints \---
 
-+ Sub variabilă, creează o nouă funcție numită `seteazaCuloareStilou` cu intrarea `stilou`. Uită-te la funcția `seteazaCuloarePixel` pe care ai creat-o deja pentru a te ajuta.
++ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
 [[[generic-javascript-create-a-function]]]
 
-+ În interiorul funcției `seteazaCuloareStilou`, adaugă cod pentru a seta variabila `culoareStilou` la culoarea `stilou` furnizată ca intrare.
++ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
-+ Modifică funcția `seteazaCuloarePixel` pentru a folosi variabila `culoareStilou` în loc de `black`:
++ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
     
-    ![captură de ecran](images/pixel-art-use-pen.png)
+    ![screenshot](images/pixel-art-use-pen.png)
 
-+ În fișierul `index.html`, adaugă niște cod pentru a apela funcția `seteazaCuloareStilou` atunci când se dă click pe o culoare din paletă.
++ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
-+ Testează dacă poți schimba culoarea stiloului între negru și alb pentru a umple sau șterge pixeli.
++ Test that you can switch the pen colour between black and white to fill in or delete pixels.
