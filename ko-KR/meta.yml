@@ -1,0 +1,27 @@
+---
+title: 픽셀 아트
+description: HTML, CSS, JavaScript를 사용하여 만드는 픽셀 아트 편집기.
+hero_image: images/pixel-art.png
+theme: navy
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 소개
+  - title: 준비물
+  - title: 픽셀 그리드 만들기
+  - title: '과제: 그리드 리사이징'
+  - title: 픽셀에 색상 입히기
+  - title: '과제: 모든 픽셀에 클릭 적용하기'
+  - title: 색깔 팔레트 추가
+  - title: '과제: 팔레트에 더 많은 색상 추가하기'
