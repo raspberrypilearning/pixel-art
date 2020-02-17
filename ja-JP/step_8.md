@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## 課題：パレットに色を追加する
+## Challenge: add more colours to the palette
 
-パレットに色を追加できますか？
+Can you add more colours to the palette?
 
-+ ピクセルアートで使用する色を選択し、コードに追加します。次に、クールなピクセル画像を作成します。
++ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
 
-ヒント：鮮やかな緑の色は `chartreuse`と呼ばれ 。ここにあなたのお気に入りを選ぶことができる色名</a> <a href="https://www.w3schools.com/colors/colors_names.asp">リストがあります。</p>
+Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
 
-<p><img src="images/pixel-art-final.png" alt="スクリーンショット" /></p>
+![screenshot](images/pixel-art-final.png)
 
-<p>WindowsではSnipping Tool（またはWindowsを使用していない場合は別の方法）を使用して、ピクセルアートのコピーをイメージファイルとして保存できます。</p>
+You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
 
-<p>--- challenge ---</p>
+\--- /challenge \---
