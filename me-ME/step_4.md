@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Izazov: promijeni veličinu rešetke
+## Challenge: resize your grid
 
-Rešetka veličine 3 x 3 je veoma mala za pixel art. Možeš li da povećaš rešetku? Dobra veličina za pixel art je 8 x 8.
+3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
 
-Umjesto da sve upisuješ, pokušaj da koristiš kopiranje i prenošenje.
+Try copying and pasting rather than typing everything out.
 
 ![screenshot](images/pixel-art-grid-8.png)
 
