@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Desafío: agregar más colores a la paleta
+## Desafío: agrega más colores a la paleta
 
 ¿Puedes agregar más colores a la paleta?
 
@@ -10,6 +10,6 @@ Sugerencia: el color verde brillante se llama ` chartreuse `. Aquí hay una [ li
 
 ![captura de pantalla](images/pixel-art-final.png)
 
-Puede usar la herramienta de recorte en Windows (o una alternativa si no está usando Windows) para guardar una copia de su diseño de píxeles como un archivo de imagen.
+Puedes usar la herramienta de recorte en Windows (o una alternativa si no estás usando Windows) para guardar una copia de tu diseño de píxeles como un archivo de imagen.
 
 \--- /challenge \---
