@@ -22,7 +22,7 @@
 
 \--- hint \---
 
-Add the following code at the top of the file:
+Πρόσθεσε τον ακόλουθο κώδικα στην αρχή του αρχείου:
 
 ![στιγμιότυπο οθόνης](images/pixel-art-pencolour.png)
 
@@ -38,7 +38,7 @@ Add the following code at the top of the file:
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+Θα χρειαστεί επίσης να χρησιμοποιήσεις τη μεταβλητή `penColour` για ν' αλλάξεις το χρώμα ενός εικονοστοιχείου.
 
 + Άλλαξε τη συνάρτηση `setPixelColour` ώστε να κάνει χρήση της μεταβλητής `penColour` αντί της τιμής `black`:
     
