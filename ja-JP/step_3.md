@@ -1,44 +1,44 @@
-## ピクセルグリッドを作成する
+## Create a grid of pixels
 
-ピクセルアートの作成に使用できるピクセルのグリッドを作成しましょう。
+Let's create a grid of pixels that you can use for creating pixel art.
 
-グリッドはテーブルのように見えます。表には行が含まれ、行にはピクセルを表すセルが含まれます。
+The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
 
-+ [スターター小物](http://jumpto.cc/web-pixel)開きます。
++ Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-プロジェクトはこのようになります。
+The project should look like this:
 
-![スクリーンショット](images/pixel-starter.png)
+![screenshot](images/pixel-starter.png)
 
-まず、黒い背景を持つテーブルを作成し、白いピクセルをそのテーブルに入れるコードを記述しましょう。
+First, let's write some code to create a table with a black background and then put white pixels into it.
 
-+ あなたの `index.html` ファイルの `<body>` にこのコードを追加して `<div>`：
++ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
-![スクリーンショット](images/pixel-art-art.png)
+![screenshot](images/pixel-art-art.png)
 
-`<div>` は不可視のボックスで、 **スタイルを与えることができます**。 この `<div>` にはID `art`があります。これにより、ボックスにスタイルを追加できるようになります。
+A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
 
-+ 今度は `style.css` ファイルに行き、 `<div>` という `アート`のテーブルスタイリングを追加してください。
++ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
 
-![スクリーンショット](images/pixel-art-style.png)
+![screenshot](images/pixel-art-style.png)
 
-これにより、境界線を持つテーブルが作成され、グリッド内の間隔が設定されます。
+This creates a table with a border and sets the spacing inside the grid.
 
-それはまだ非常に面白そうに見えないので、内部にピクセルの行を配置する必要があります。
+It doesn't look very interesting yet, so you need to put rows of pixels inside it.
 
-+ `index.html` ファイルに戻って、3つのピクセル **行を** の `アート` ボックスに追加します。 時間を節約したい場合は、最初の行を入力してからコピーして貼り付けて、他の行を作成することができます。
++ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
 
-![スクリーンショット](images/pixel-art-row.png)
+![screenshot](images/pixel-art-row.png)
 
-ここでは、IDの代わりに **クラス** を使用してdivをスタイルすることに注目してください。これはたくさんありそうなので、クラスがもっと便利です。
+Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
 
-+ `style.css` ファイルに切り替えて、各行内の行とピクセルに次のスタイルを追加します。
++ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
-![スクリーンショット](images/pixel-art-row-style.png)
+![screenshot](images/pixel-art-row-style.png)
 
-これで、ピクセルがグリッド内に黒線で表示されます。
+Now your pixels will line up in a grid with black lines around them.
 
-+ `index.html` ファイルに、別の2つのピクセルセクションを追加して、3×3ピクセルグリッドを作成します。もう一度コピー＆ペーストして時間を節約することができます。
++ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
 
 \--- hints \---
 
