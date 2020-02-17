@@ -18,11 +18,11 @@
 
 [[[generic-javascript-create-variable]]]
 
-\--- hints \---
+\--- hint \---
 
 \--- hint \---
 
-Add the following code at the top of the file:
+在文件顶部添加以下代码：
 
 ![截屏](images/pixel-art-pencolour.png)
 
@@ -36,9 +36,9 @@ Add the following code at the top of the file:
 
 + 在` setPenColour`函数中，添加下述代码，将变量` penColour `设置为提供的输入 `pen`。
 
-![screenshot](images/pixel-art-set-pen.png)
+![截屏](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+当您更改像素的颜色时，还需要使用`penColour`变量。
 
 + 将 `setPixelColour` 函数更改为使用`penColour` 变量而不是 `black`：
     
@@ -46,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + 在 `index.html` 文件中，添加一些代码使得当调色板中的颜色被点击时，可以调用`setPenColour`函数。
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![截屏](images/pixel-art-palette-onclick.png)
 
 + 测试您是否可以在黑色和白色之间切换笔的颜色用来填充或删除像素。
