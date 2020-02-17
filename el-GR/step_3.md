@@ -44,17 +44,17 @@
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+Εντόπισε την ετικέτα `<div>` με την ιδιότητα class που έχει τιμή `row` και αντίγραψέ την, συμπεριλαμβάνοντας και τις τρεις γραμμές με την τιμή ` pixel` καθώς και την ετικέτα κλεισίματος `</div>`.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+Επικόλλησε αυτόν τον κώδικα αμέσως κάτω από το τμήμα που μόλις αντέγραψες για να δημιουργήσεις άλλη μια γραμμή. Επανάλαβε άλλη μια φορά ώστε να δημιουργήσεις τρεις γραμμές των τριών εικονοστοιχείων η καθεμία.
 
-You can check whether your table looks right by looking at the result area on the right.
-
-\--- /hint \---
+Μπορείς να ελέγξεις αν ο πίνακας σου φαίνεται σωστός εξετάζοντας την περιοχή αποτελεσμάτων στα δεξιά.
 
 \--- hint \---
 
-Here is how your code should look:
+\--- hint \---
+
+Έτσι πρέπει να φαίνεται ο κώδικάς σου:
 
 ![screenshot](images/pixel-art-grid-3.png)
 
