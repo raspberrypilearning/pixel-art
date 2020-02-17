@@ -1,10 +1,10 @@
-## 介紹
+## Introduction
 
-創建像素藝術編輯器。除了使用HTML和CSS，您還將學習如何使用JavaScript為項目添加交互性。
+Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
 
-### 你要做什麼
+### What you will make
 
-試試下面的項目。單擊調色板中的顏色，然後單擊像素以更改其顏色。
+Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,16 +12,16 @@
   <img src="images/pixel-art-final.png">
 </div>
 
-### 你會學到什麼
+### What you will learn
 
-該項目涵蓋了 [Raspberry Pi數字製作課程](http://rpf.io/curriculum){：target =“_ blank”}的以下幾個元素：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator){：target =“_ blank”}。
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [使用基本編程結構創建簡單程序](https://www.raspberrypi.org/curriculum/programming/creator){：target =“_ blank”}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### 教育工作者的其他信息
+### Additional information for educators
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/pixel-art/print){：target =“_ blank”}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
 
-使用頁腳中的鏈接訪問此項目的GitHub存儲庫，該存儲庫包含“en / resources”文件夾中的所有資源（包括示例完成的項目）。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
