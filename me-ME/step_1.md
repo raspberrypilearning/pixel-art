@@ -1,10 +1,10 @@
-## Uvod
+## Introduction
 
-Izradi pixel art editor. Pored toga što ćeš koristiti HTML i CSS, naučićeš kako da koristiš JavaScript za dodavanje interaktivnosti u svoj projekat.
+Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
 
-### Šta ćeš napraviti
+### What you will make
 
-Isprobaj projekat u nastavku. Klikni na boju iz palete, a zatim klikni na piksel da promijeniš njegovu boju.
+Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,16 +12,16 @@ Isprobaj projekat u nastavku. Klikni na boju iz palete, a zatim klikni na piksel
   <img src="images/pixel-art-final.png">
 </div>
 
-### Šta ćeš naučiti
+### What you will learn
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Dodatne informacije za nastavnike
+### Additional information for educators
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
 
-Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozitorijumu za ovaj projekat, koji sadrži sve izvore (uključujući primjer završenog projekta) u 'en/resources' folderu.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
