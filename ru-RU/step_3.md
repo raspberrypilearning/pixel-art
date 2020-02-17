@@ -1,44 +1,44 @@
-## Создадим сетку из пикселей
+## Create a grid of pixels
 
-Создадим секту из пикселей, которую мы будем использовать для пиксельной графики.
+Let's create a grid of pixels that you can use for creating pixel art.
 
-Сетка выглядит как таблица. Таблица содержит строки, строки содержат ячейки, которые будут представлять пиксели.
+The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
 
-+ Откройте [начальную заготовку](http://jumpto.cc/web-pixel).
++ Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-Проект должен выглядеть следующим образом:
+The project should look like this:
 
 ![screenshot](images/pixel-starter.png)
 
-Сначала напишем некоторый код для создания таблицы с черным фоном, а затем поместим в нее белые пиксели.
+First, let's write some code to create a table with a black background and then put white pixels into it.
 
-+ Добавьте этот код в `<body>` вашего файла ` index.html` чтобы создать `<div>`:
++ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
-`<div>` - это невидимое поле, которому вы можете присвоить **стиль**. Этот `<div>` имеет идентификатор ` art `, так чтобы вы могли добавить стили в поле.
+A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
 
-+ Теперь перейдите в файл `style.css` и добавьте стиль таблицы для `<div>` с названием `art`.
++ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
-Это создает таблицу с рамкой и задает интервал внутри сетки.
+This creates a table with a border and sets the spacing inside the grid.
 
-Чтобы сделать таблицу более интересной, давайте добавим в неё пиксели.
+It doesn't look very interesting yet, so you need to put rows of pixels inside it.
 
-+ Вернитесь к `index.html` файлу и добавьте ряд с тремя пикселями **внутри** поля `art`. Вы можете сделать это быстрее, если введете только первую строку, а затем скопируете и вставите её несколько раз, чтобы создать остальные строки.
++ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
 
 ![screenshot](images/pixel-art-row.png)
 
-Обратите внимание, что вы используете **class** вместо id для стилизации поля div. Так как будет использовано несколько div, использование class позволит им иметь общий стиль.
+Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
 
-+ Переключитесь на `style.css` и добавьте следующие стили для строк и пикселей в каждой строке:
++ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Теперь ваши пиксели выстроятся в сетку с черными линиями вокруг них.
+Now your pixels will line up in a grid with black lines around them.
 
-+ В вашем `index.html` файл, добавьте еще два раздела пикселей, чтобы создать сетку пикселей 3 × 3. Вы можете использовать копирование и вставку снова, чтобы сэкономить время.
++ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
 
 \--- hints \---
 
