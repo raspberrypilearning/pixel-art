@@ -10,7 +10,7 @@ Agreguemos un código JavaScript para colorear un píxel automáticamente cuando
 
 Vamos a crear una **función**. Las funciones son bloques de código con nombre, que realizan una tarea particular. Podemos ** llamar ** a una función por su nombre cuando queremos ejecutar el código que contiene.
 
-+ Dentro del archivo ` script.js `, crea una función con el nombre ` setPixelColour `. La función `setPixelColour` debe tomar un `pixel` como **entrada** para que puede cambiar el color de ese píxel.
++ Dentro del archivo ` script.js `, crea una función con el nombre ` setPixelColour `. La función `setPixelColour` debe tomar un `pixel` como **entrada** para que pueda cambiar el color de ese píxel.
 
 ![Crear una función](images/create-function.png)
 
@@ -26,7 +26,7 @@ Por el momento, este código no tiene ningún efecto.
 
 ![captura de pantalla](images/pixel-art-onclick.png)
 
-El ` this ` en los paréntesis es la entrada para la función ` setPixelColour `, que le permite saber a qué píxel darle el color - ` este` píxel!
+El ` this ` en los paréntesis es la entrada para la función ` setPixelColour `, que le permite saber a qué píxel darle el color - ¡` este` píxel!
 
 + Prueba tu código haciendo clic en el primer píxel. Deberá ponerse negro.
 
