@@ -18,7 +18,7 @@
 
 [[[generic-javascript-create-variable]]]
 
---- hint ---
+--- hints ---
 
 --- hint ---
 
