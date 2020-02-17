@@ -22,7 +22,7 @@
 
 \--- hint \---
 
-Add the following code at the top of the file:
+스크립트의 끝에 다음 코드를 추가하십시오:
 
 ![스크린샷](images/pixel-art-pencolour.png)
 
@@ -36,9 +36,9 @@ Add the following code at the top of the file:
 
 + `setPenColour` 함수 안에 아래 코드를 추가하여 `penColour` 변수가 입력 받은 `pen`의 색깔이 되도록 합니다.
 
-![screenshot](images/pixel-art-set-pen.png)
+![스크린샷](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+또한 `penColour` 변수는 픽셀 색상을 바꿀 때도 사용해야 합니다.
 
 + `setPixelColour` 함수를 아래와 같이 `black` 대신 `penColour`로 변경합니다.
     
@@ -46,6 +46,6 @@ You'll also need to use the `penColour` variable when you change the colour of a
 
 + `index.html` 파일에서 아래 코드를 추가하여 팔레트의 색깔을 클릭하면 `setPenColour` 함수가 동작하도록 제작하십시오.
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![스크린샷](images/pixel-art-palette-onclick.png)
 
 + 펜 색상이 검은색, 흰색으로 바뀌는지, 픽셀 색깔을 채우거나 삭제할 수 있는지 테스트해 보세요.
