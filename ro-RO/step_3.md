@@ -1,44 +1,44 @@
-## Creează o grilă de pixeli
+## Create a grid of pixels
 
-Hai să creăm o grilă de pixeli pe care o poți folosi pentru a crea artă cu pixeli.
+Let's create a grid of pixels that you can use for creating pixel art.
 
-Grila va arăta ca și un tabel. Tabelul conține linii, iar liniile conțin celule care vor reprezenta pixelii.
+The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
 
-+ Deschide [trinketul de început](http://jumpto.cc/web-pixel).
++ Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-Proiectul ar trebui să arate astfel:
+The project should look like this:
 
-![captură de ecran](images/pixel-starter.png)
+![screenshot](images/pixel-starter.png)
 
-Mai întâi, hai să scriem niște cod pentru a crea un tabel cu un fundal negru și apoi să adaugăm niște pixeli albi în el.
+First, let's write some code to create a table with a black background and then put white pixels into it.
 
-+ Adaugă acest cod în secțiunea `<body>` a fișierului tău `index.html` pentru a crea un `<div>`:
++ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
-![captură de ecran](images/pixel-art-art.png)
+![screenshot](images/pixel-art-art.png)
 
-Un `<div>` este o casetă invizibilă pe care o poți **stiliza**. Acest `<div>` are ID-ul `art`, de care vei avea nevoie pentru a adăuga stiluri la casetă.
+A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
 
-+ Acum, mergi la fișierul tău `style.css` și adaugă stilul tabelului pentru elementul `<div>` numit `art`.
++ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
 
-![captură de ecran](images/pixel-art-style.png)
+![screenshot](images/pixel-art-style.png)
 
-Acest lucru va crea un tabel cu un chenar și setează spațiere în interiorul grilei.
+This creates a table with a border and sets the spacing inside the grid.
 
-Nu arată foarte interesant încă, așa că trebuie să pui linii de pixeli în el.
+It doesn't look very interesting yet, so you need to put rows of pixels inside it.
 
-+ Mergi înapoi la fișierul tău `index.html` și adaugă o linie cu 3 pixeli **în interiorul** casetei `art`. Dacă vrei să economisești timp, poți scrie prima linie și apoi să dai copy paste pentru a crea celalalte.
++ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
 
-![captură de ecran](images/pixel-art-row.png)
+![screenshot](images/pixel-art-row.png)
 
-Observă că aici folosești o **clasă** în loc de un ID pentru a stiliza elementele div. Acest lucru se datorează faptului că vor fi mai multe, așa că o clasă este mult mai utilă.
+Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
 
-+ Comută la fișierul `style.css` și adaugă următoarele stiluri pentru liniile și pixelii din fiecare linie:
++ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
-![captură de ecran](images/pixel-art-row-style.png)
+![screenshot](images/pixel-art-row-style.png)
 
-Acum, pixelii tăi să vor alinia într-o grilă cu linii negre în jurul lor.
+Now your pixels will line up in a grid with black lines around them.
 
-+ În fișierul tău `index.html`, adaugă încă două secțiuni de pixeli pentru a crea o grilă 3x3 de pixeli. Poți să dai copy paste din nou pentru a economisi timp.
++ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
 
 \--- hints \---
 
