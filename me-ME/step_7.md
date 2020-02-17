@@ -1,20 +1,20 @@
-## Dodaj paletu boja
+## Add a colour palette
 
-Da li ti je zasmetalo što boju piksela ne možeš da vratiš u bijelu kada napraviš grešku? Riješimo to kreiranjem palete boja, tako da možeš da odabereš boju olovke jednim klikom.
+Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
 
-+ Dodaj sljedeći kôd na kraju svoje `style.css` datoteke da kreiraš stil olovke:
++ Add this code at the bottom of your `style.css` file to create a pen style:
 
 ![screenshot](images/pixel-art-pen.png)
 
-+ Sada kreiraj paletu sa crnom i bijelom bojom olovke koristeći stil olovke koji si upravo kreirao/kreirala. Dodaj sljedeći kôd u `index.html`, ispod oznake `<body>`:
++ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
 
 ![screenshot](images/pixel-art-palette.png)
 
-`style=` nam omogućuje da dodamo CSS kôd unutar HTML datoteke, što nam ovdje odgovara.
+`style=` allows you to add CSS code inside your HTML file, which is convenient here.
 
-Potrebno je da dodamo kôd kako bi se boja olovke mijenjala kada se klikne na jednu od boja iz palete.
+We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
 
-+ Pređi na `script.js` i kreiraj promjenljivu pod nazivom `penColour` na samom vrhu datoteke. Promjenljivoj dodijeli vrijednost `'black'` (crna).
++ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
 
 [[[generic-javascript-create-variable]]]
 
@@ -30,22 +30,22 @@ Add the following code at the top of the file:
 
 \--- /hints \---
 
-+ Ispod promjenljive kreiraj novu funkciju pod nazivom `setPenColour` sa ulazom `pen` (olovka). Pogledaj već kreiranu funkciju `setPixelColour` ako ti treba pomoć.
++ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Unutar funkcije `setPenColour` dodaj kôd za postavljanje promjenljive `penColour` na boju `olovke` (pen) koja je data kao ulaz.
++ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
 ![screenshot](images/pixel-art-set-pen.png)
 
 You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
-+ Izmijeni funkciju `setPixelColour` tako da koristi promjenljivu `penColour` umjesto `black`:
++ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
     
     ![screenshot](images/pixel-art-use-pen.png)
 
-+ U `index.html` datoteku dodaj kôd za pozivanje funkcije `setPenColour` kada se klikne na boju u paleti.
++ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
 
 ![screenshot](images/pixel-art-palette-onclick.png)
 
-+ Isprobaj da li možeš da mijenjaš boju olovke iz crne u bijelu i obratno, za brisanje ili bojenje piksela.
++ Test that you can switch the pen colour between black and white to fill in or delete pixels.
