@@ -44,19 +44,19 @@
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+`<div>`의 `row` 클래스를 찾아, `pixel`로 클래스와 같이 내용을 복사하세요. 코드가 올바르게 입력되도록 `</div>` 태그도 같이 복사하세요.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+다른 행을 만들기 위해서는 방금 복사한 섹션 바로 아래에 코드를 붙여 넣으세요. 한번 더 반복하여 각각 3x3 픽셀을 만들어 봅시다.
 
-You can check whether your table looks right by looking at the result area on the right.
+오른쪽의 결과 영역을 보면 테이블이 올바르게 보이는지 확인할 수 있습니다.
 
 \--- /hint \---
 
 \--- hint \---
 
-Here is how your code should look:
+코드는 다음과 같이 설계되어야 합니다:
 
-![screenshot](images/pixel-art-grid-3.png)
+![스크린샷](images/pixel-art-grid-3.png)
 
 \--- /hint \---
 
