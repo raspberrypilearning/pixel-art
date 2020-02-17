@@ -1,12 +1,12 @@
-	var culoareStilou = 'black';
+	var penColour = 'black';
     
-  function seteazaCuloareStilou(stilou)
+  function setPenColour(pen)
   {
-    culoareStilou = stilou;
+    penColour = pen;
   }
 
-  function seteazaCuloarePixel(pixel)
+  function setPixelColour(pixel)
   {
-    pixel.style.backgroundColor = culoareStilou;
+    pixel.style.backgroundColor = penColour;
   }
 
