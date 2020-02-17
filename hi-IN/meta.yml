@@ -1,35 +1,35 @@
 ---
-title: पिक्सल आर्ट
-description: HTML, CSS, और JavaScript का उपयोग करके पिक्सल आर्ट एडिटर बनाएँ।
+title: Pixel art
+description: Create a pixel art editor using HTML, CSS, and JavaScript.
 hero_image: images/pixel-art.png
-theme: गहरा नीला
+theme: navy
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
-interests: art and design
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
-software: htmp-css-javascript
+software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: भूमिका
+    title: Introduction
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: What you will need
   - 
-    title: पिक्सल्स का ग्रिड बनाएँ
+    title: Create a grid of pixels
   - 
-    title: 'चुनौती: अपने ग्रिड का आकार बदलें'
+    title: 'Challenge: resize your grid'
   - 
-    title: पिक्सल्स में रंग करें
+    title: Colour the pixels
   - 
-    title: 'चुनौती: सभी पिक्सल्स को क्लिक करने योग्य बनाएँ'
+    title: 'Challenge: make all pixels clickable'
   - 
-    title: कलर पैलेट जोड़ें
+    title: Add a colour palette
   - 
-    title: 'चुनौती: पैलट में और रंग जोड़ें'
+    title: 'Challenge: add more colours to the palette'
