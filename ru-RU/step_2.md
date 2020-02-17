@@ -1,9 +1,9 @@
-## Что нам понадобится
+## What you will need
 
-### Оборудование
+### Hardware
 
-+ Компьютер с доступом к сайту [trinket.io](https://trinket.io){: target = "_ blank"}
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
-### Программное обеспечение
+### Software
 
-Этот проект можно сделать в веб-браузере, используя [trinket.io](https://trinket.io){:target="_blank"}.
+This project can be completed in a web browser using the [trinket.io](https://trinket.io){:target="_blank"} online application.
