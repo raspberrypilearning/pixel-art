@@ -1,44 +1,44 @@
-## Izradite rešetku piksela
+## Create a grid of pixels
 
-Napravimo rešetku piksela koje možete koristiti za stvaranje piksela.
+Let's create a grid of pixels that you can use for creating pixel art.
 
-Rešetka će izgledati poput stola. Tablice sadrže retke, a redovi sadrže ćelije koje predstavljaju piksele.
+The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
 
-+ Otvorite [starter triketu](http://jumpto.cc/web-pixel).
++ Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-Projekt bi trebao izgledati ovako:
+The project should look like this:
 
 ![screenshot](images/pixel-starter.png)
 
-Prvo napišite neki kôd da biste izradili tablicu s crnom pozadinom i stavili bijele piksele u nju.
+First, let's write some code to create a table with a black background and then put white pixels into it.
 
-+ Dodajte ovaj kôd u `<body>` svoje `index.html` datoteke za stvaranje `<div>`:
++ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
 ![screenshot](images/pixel-art-art.png)
 
-`<div>` je nevidljivi okvir na koji možete dati **stil**. Ovaj `<div>` ima ID `art`, koji vam je potreban kako biste u okvir dodali stilove.
+A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
 
-+ Sada idite na `style.css` datoteku i dodajte stil stola za `<div>` zove `art`.
++ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
 
 ![screenshot](images/pixel-art-style.png)
 
-To stvara tablicu s granicom i postavlja razmak unutar rešetke.
+This creates a table with a border and sets the spacing inside the grid.
 
-Još ne izgleda zanimljivo, stoga trebate staviti redke piksela unutar nje.
+It doesn't look very interesting yet, so you need to put rows of pixels inside it.
 
-+ Vratite se na `index.html` datoteku i dodajte redak od tri piksela **u** okvir `art`. Ako želite uštedjeti vrijeme, možete upisati prvi red, a zatim kopirati i zalijepiti da biste stvorili ostale.
++ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
 
 ![screenshot](images/pixel-art-row.png)
 
-Primijetite da ovdje upotrebljavate **klase** umjesto ID-a za stilizaciju divova. To je zato što će ih biti puno, pa je klasa korisnija.
+Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
 
-+ Prijeđite na `style.css` datoteku i dodajte sljedeće stilove za retke i piksele unutar svakog retka:
++ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Sada će vam se pikseli smjestiti u mrežu s crnim crtama oko njih.
+Now your pixels will line up in a grid with black lines around them.
 
-+ U `index.html` datoteku dodajte još dva odjeljka piksela za izradu rešetke 3 × 3 piksela. Možete ponovno kopirati i zalijepiti da biste uštedjeli vrijeme.
++ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
 
 \--- hints \---
 
