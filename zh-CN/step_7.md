@@ -1,47 +1,51 @@
 ## 添加调色板
 
-你是否发现如果你出错的话，就无法将像素颜色变回白色这点很烦人？让我们来创建一个调色板，使得你能通过点击来选择画笔颜色，从而解决这个问题。
+您是否因遇到这种情況而感到烦恼：一旦不小心点错，就无法将错误像素的颜色改回白色？ 让我们创建一个调色板来解决这个问题：您可以通过单击来更改画笔的颜色。
 
-+ 在 `style.css` 文件的底部添加此代码来创建一个画笔样式：
++ 将此代码添加到您的`style.css`文件底部，就可以创建画笔的样式：
 
-![screenshot](images/pixel-art-pen.png)
+![截屏](images/pixel-art-pen.png)
 
-+ 现在使用你刚刚创建的画笔样式来创建一个带有黑白画笔颜色的调色板。向 `<body>` 标记下方的 `index.html` 添加以下代码：
++ 现在，使用刚才创建的画笔来创建具有黑白画笔颜色的调色板。在`index.html`文件中，将以下代码添加到`<body>`标签下面：
 
-![screenshot](images/pixel-art-palette.png)
+![截屏](images/pixel-art-palette.png)
 
-`style=` 使你能在你的 HTML 文件内部添加 CSS 代码，在此处也很方便。
+`style=`允许您在HTML文件中很方便地添加CSS代码。
 
-我们需要添加代码，使得点击调色板中的一种颜色时，画笔的颜色随之改变。
+我们需要添加代码，使得在用户单击调色板中的某一种颜色时，画笔的颜色会相应改变。
 
-+ 切换到 `script.js`，然后在文件顶部创建一个名为 `penColour`（画笔颜色）的变量。将变量值设为 `black`（黑色）。
++ 切换到`script.js`文件。在文件的最顶部创建一个名为`penColour`的变量，并将变量的初始值设置为`'black'` 。
 
 [[[generic-javascript-create-variable]]]
 
---- hints ---
 --- hint ---
+
+--- hint ---
+
 在文件顶部添加以下代码：
 
-![screenshot](images/pixel-art-pencolour.png)
+![截屏](images/pixel-art-pencolour.png)
+
 --- /hint ---
+
 --- /hints ---
 
-+ 在变量下方创建一个名为 `setPenColour`（设置画笔颜色）的新函数，函数的输入项为 `pen`（画笔）。请查看你已经创建的用来帮助你的 `setPixelColour`（设置像素颜色）函数。
++ 在变量下面，创建一个名为`setPenColour`的新函数，函数的输入是`pen` 。您可以参考您已经创建的函数`setPixelColour`获得帮助。
 
 [[[generic-javascript-create-a-function]]]
 
-+ 在 `setPenColour`（设置画笔颜色）函数内部添加代码来将 `penColour`（画笔颜色）变量设为作为输入项提供的 `pen`（画笔）颜色。
++ 在`setPenColour`函数中，添加下述代码，将变量`penColour`设置为提供的输入 `pen`。
 
-![screenshot](images/pixel-art-set-pen.png)
+![截屏](images/pixel-art-set-pen.png)
 
-在更改像素颜色时，你还将需要使用 `penColour`（画笔颜色）变量。
+当您更改像素的颜色时，还需要使用`penColour`变量。
 
-+ 将 `setPixelColour`（设置像素颜色）函数更改为使用 `penColour`（画笔颜色）变量而非 `black`（黑色）：
++ 将 `setPixelColour` 函数更改为使用`penColour` 变量而不是 `black`：
+    
+    ![截屏](images/pixel-art-use-pen.png)
 
- ![screenshot](images/pixel-art-use-pen.png)
++ 在 `index.html` 文件中，添加一些代码使得当调色板中的颜色被点击时，可以调用`setPenColour`函数。
 
-+ 在 `index.html` 文件中添加一些代码，以在调色板中的颜色被点击时调用 `setPenColour`（设置画笔颜色）函数。
+![截屏](images/pixel-art-palette-onclick.png)
 
-![screenshot](images/pixel-art-palette-onclick.png)
-
-+ 测试你能否在黑色和白色之间切换画笔颜色来填充或删除像素。
++ 测试您是否可以在黑色和白色之间切换笔的颜色用来填充或删除像素。
