@@ -1,10 +1,10 @@
-## Introduction
+## Introdução
 
-Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
+Cria um editor de arte em pixel. Além de usar HTML e CSS, tu vais aprender a usar JavaScript para adicionar interatividade ao teu projeto.
 
-### What you will make
+### O que vais fazer
 
-Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
+Experimenta o projeto abaixo. Clica numa cor da paleta e clica num pixel para mudar a sua cor.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,16 +12,16 @@ Try out the project below. Click on a colour from the palette, then click on a p
   <img src="images/pixel-art-final.png">
 </div>
 
-### What you will learn
+### O que vais aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Desenhar recursos básicos em 2D e 3D ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Usar construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target = "_ blank"}
 
-### Additional information for educators
+### Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
+Se necessita imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/pixel-art/print){: target = "_ blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para aceder ao repositório do GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
