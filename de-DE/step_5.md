@@ -8,7 +8,7 @@ Dieses Projekt verwendet drei verschiedene Sprachen:
 
 Fügen wir einen JavaScript-Code hinzu, um die Farbe in einem Pixel automatisch zu ändern, wenn du darauf klickst.
 
-Wir erstellen eine **Funktion** (engl.: function). Funktionen sind benannte Codeblöcke, die eine bestimmte Aufgabe ausführen. Wir können eine Funtion über ihren Namen **aufrufen**, wenn wir den Code ausführen wollen, den sie enthält.
+Wir erstellen eine **Funktion** (engl.: function). Funktionen sind benannte Codeblöcke, die eine bestimmte Aufgabe ausführen. Wir können eine Funktion über ihren Namen **aufrufen**, wenn wir den Code ausführen wollen, den sie enthält.
 
 + In der Datei `script.js` erstellst du eine Funktion mit dem Namen `setPixelColour` ("setzePixelFarbe"). Die ` setPixelColour ` Funktion muss ein `pixel` als ** Eingabe** bekommen, damit sie die Farbe dieses Pixels ändern kann.
 
