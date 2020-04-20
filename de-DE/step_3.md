@@ -44,11 +44,11 @@ Jetzt werden deine Pixel in einem Raster mit schwarzen Linien um sie herum ausge
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+Finde den `<div>`Tag</0> mit der Klasse `row` und kopiere ihn, einschließlich der drei Zeilen, die mit `pixel` gekennzeichnet sind, einschließlich des zugehörigen `</div>` Tags.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+Füge diesen Code direkt unterhalb des Abschnitts ein, den du gerade kopiert hast, um eine neue Zeile zu erstellen. Wiederhole dies erneut, damit du drei Zeilen von jeweils drei Pixeln hast.
 
-You can check whether your table looks right by looking at the result area on the right.
+Du kannst überprüfen ob deine Tabelle richtig aussieht, indem du dir die Ergebnisseite rechts anschaust.
 
 \--- /hint \---
 
