@@ -1,20 +1,20 @@
-## Add a colour palette
+## Adicionar uma paleta de cores
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+Achaste irritante não poder mudar a cor de um pixel de volta para branco se cometeres um erro? Vamos corrigir isso criando uma paleta de cores para que possas escolher entre as cores da caneta com um clique.
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ Adiciona este código na parte inferior do teu ficheiro ` estilos.css ` para criar um estilo de caneta:
 
-![screenshot](images/pixel-art-pen.png)
+![captura de ecrã](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ Agora cria uma paleta com cores da caneta em preto e branco usando o estilo de caneta que acabaste de criar. Adiciona o seguinte código ao teu ` index.html` abaixo da tag `<body>`:
 
-![screenshot](images/pixel-art-palette.png)
+![captura de ecrã](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+` style = ` permite adicionar código CSS ao teu ficheiro HTML, o que é conveniente aqui.
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+Precisamos adicionar código para que, ao clicar em uma das cores da paleta, a cor da caneta mude.
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ Alterna para ` script.js ` e cria uma variável chamada ` penColour ` no topo do ficheiro. Define o valor da variável como ` 'black' ` (preto).
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,30 +22,30 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hint \---
 
-Add the following code at the top of the file:
+Adiciona o seguinte código no topo do ficheiro:
 
-![screenshot](images/pixel-art-pencolour.png)
+![captura de ecrã](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
 \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ Abaixo da variável, cria uma nova função chamada ` setPenColour ` com uma entrada de ` caneta `. Vê a função ` setPixelColour ` que já criaste para te ajudar.
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ Dentro da função ` setPenColour `, adiciona o código para definir a variável ` penColour ` para a cor da `caneta ` fornecida como entrada.
 
-![screenshot](images/pixel-art-set-pen.png)
+![captura de ecrã](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+Irás também precisar de usar a variável ` penColour ` quando alterares a cor de um pixel.
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ Altera a função ` setPixelColour ` para usar a variável ` penColour ` em vez de ` black` (preto):
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![captura de ecrã](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ No ficheiro ` index.html `, adiciona algum código para chamar a função ` setPenColour ` quando uma cor na paleta é clicada.
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![captura de ecrã](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ Testa se consegues alternar a cor da caneta entre preto e branco para preencher ou apagar pixeis.
