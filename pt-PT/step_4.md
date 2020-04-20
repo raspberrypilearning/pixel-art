@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Desafio: redimensionar a tua grelha
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3 × 3 é uma grelha bastante pequena para arte com pixeis. Podes fazê-la maior? 8 × 8 é um bom tamanho para arte com pixeis.
 
-Try copying and pasting rather than typing everything out.
+Tenta copiar e colar em vez de escrever tudo.
 
-![screenshot](images/pixel-art-grid-8.png)
+![captura de ecrã](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
