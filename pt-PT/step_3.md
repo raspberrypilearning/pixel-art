@@ -1,62 +1,62 @@
-## Create a grid of pixels
+## Criar uma grelha de pixels
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Vamos criar uma grelha de pixeis que poderás usar para criar arte em pixels.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+A grelha irá parecer uma tabela. As tabelas contêm linhas, e as linhas contêm células que representam os pixeis.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Abre o [trinket inicial](http://jumpto.cc/web-pixel).
 
-The project should look like this:
+O projeto deverá parecer-se com isto:
 
-![screenshot](images/pixel-starter.png)
+![captura de ecrã](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+Primeiro, vamos escrever código para criar uma tabela com fundo preto e depois colocar pixeis brancos nela.
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ Adiciona este código ao `<body>` do teu ficheiro `index.html` para criar um `<div>`:
 
-![screenshot](images/pixel-art-art.png)
+![captura de ecrã](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+O `<div>` é uma caixa invisível à qual podes dar um **estilo**. Este `<div>` tem o ID ` art `, que tu precisas para adicionar estilos à caixa.
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ Agora vai para o teu ficheiro `estilos.css` e adiciona o estilo da tabela para o `<div>`chamado `arte`.
 
-![screenshot](images/pixel-art-style.png)
+![captura de ecrã](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+Isto cria uma tabela com uma borda e define o espaçamento dentro da grelha.
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+Ainda não parece muito interessante, por isso precisas de colocar linhas de pixeis dentro dela.
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ Volta para o teu ficheiro ` index.html ` e adiciona uma linha de três pixeis ** dentro ** da caixa de ` arte `. Se quiseres poupar tempo, podes escrever a primeira linha e, em seguida, copiar e colar para criar as outras.
 
-![screenshot](images/pixel-art-row.png)
+![captura de ecrã](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+Observa que aqui estás a usar **class** em vez de ID para estilizar os divs. Isso é porque haverá muitos e por isso uma classe é mais útil.
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ Alterna para o ` estilos.css ` e adiciona os seguintes estilos para as linhas e os pixeis em cada linha:
 
-![screenshot](images/pixel-art-row-style.png)
+![captura de ecrã](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+Agora os teus pixels serão alinhados numa grelha com linhas pretas em redor deles.
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ No teu ficheiro ` index.html `, adiciona outras duas seções de pixeis para criar uma grelha de 3 × 3 pixeis. Podes copiar e colar novamente para poupar tempo.
 
 \--- hints \---
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+Encontra a tag `<div>` com a classe `row ` e copia-a, incluindo as três linhas chamadas ` pixel ` que estão dentro dela, até e incluindo a correspondente ` </div>` tag.
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+Cola este código imediatamente abaixo da seção que acabaste de copiar para criar outra linha. Repete mais uma vez para ter três linhas de três pixeis cada.
 
-You can check whether your table looks right by looking at the result area on the right.
+Podes verificar se a tua tabela está correta, olhando para a área de resultados à direita.
 
 \--- /hint \---
 
 \--- hint \---
 
-Here is how your code should look:
+Este é o aspeto que o teu código deve ter:
 
-![screenshot](images/pixel-art-grid-3.png)
+![captura de ecrã](images/pixel-art-grid-3.png)
 
 \--- /hint \---
 
