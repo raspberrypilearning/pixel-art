@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add more colours to the palette
+## Desafio: adicionar mais cores à paleta
 
-Can you add more colours to the palette?
+Consegues adicionar mais cores à paleta?
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
++ Escolhe as cores que desejas usar na tua arte com pixeis e adiciona-as ao teu código. Em seguida, cria algumas imagens de pixeis porreiras.
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+Dica: a cor verde brilhante é chamada ` chartreuse `. Aqui está uma lista [ de nomes de cores ](https://www.w3schools.com/colors/colors_names.asp) a partir das quais podes escolher as tuas favoritas.
 
-![screenshot](images/pixel-art-final.png)
+![captura de ecrã](images/pixel-art-final.png)
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+Podes usar a Ferramenta de recorte no Windows - Snipping Tool - (ou uma alternativa, se não estiveres a usar o Windows) para guardar uma cópia da tua arte com pixeis como um ficheiro de imagem.
 
 \--- /challenge \---
