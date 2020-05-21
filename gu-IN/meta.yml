@@ -1,0 +1,35 @@
+---
+title: પિક્સેલ આર્ટ
+description: એચટીએમએલ (HTML), સીએસએસ (CSS) અને જાવાસ્ક્રિપ્ટનો (Javascript) ઉપયોગ કરીને પિક્સેલ આર્ટ સંપાદક બનાવો.
+hero_image: images/pixel-art.png
+theme: navy
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: પરિચય
+  - 
+    title: તમને જેની જરૂર પડશે
+  - 
+    title: પિક્સેલ્સનો ગ્રીડ બનાવો
+  - 
+    title: 'પડકાર: તમારા ગ્રીડનું કદ બદલો'
+  - 
+    title: પિક્સેલ્સ ને રંગ કારો
+  - 
+    title: 'પડકાર: બધા પિક્સેલ્સને ક્લિક કરવા યોગ્ય બનાવો'
+  - 
+    title: કલર પેલેટ ને ઉમેરો
+  - 
+    title: 'પડકાર: પેલેટમાં વધુ રંગો ઉમેરો'
