@@ -1,63 +1,69 @@
-## Create a grid of pixels
+## পিক্সেল একটি গ্রিড তৈরি করুন
 
-Let's create a grid of pixels that you can use for creating pixel art.
+পিক্সেলগুলির একটি গ্রিড তৈরি করুন যা আপনি পিক্সেল আর্ট তৈরির জন্য ব্যবহার করতে পারেন।
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+গ্রিডটি দেখতে টেবিলের মতো লাগবে। টেবিলগুলিতে সারি (rows) থাকে এবং সারিগুলিতে এমন কক্ষ (cell) থাকে যা পিক্সেলগুলি উপস্থাপন করে।.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ [starter trinket](http://jumpto.cc/web-pixel) খুলুন ।
 
-The project should look like this:
+প্রোজেক্টটা এই রকম দেখতে লাগা উচিৎ
 
-![screenshot](images/pixel-starter.png)
+![স্ক্রিনশট](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+প্রথমে একটি কালো পটভূমি সহ একটি টেবিল তৈরি করতে কিছু কোড লিখি এবং তারপরে এর মধ্যে সাদা পিক্সেল রাখি।
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ একটি `<div>তৈরি করতে আপনার <code> index.html` ফাইলের `<body>` এ কোডটি যুক্ত করুন </code> : 
 
-![screenshot](images/pixel-art-art.png)
+![স্ক্রীনশট](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+একটি `<div>` একটি অদৃশ্য বাক্স যা আপনি **style** দিতে পারে ।. এই `<div>` আইডি ` আর্ট রয়েছে ` , যা আপনার প্রয়োজন তাই আপনি বাক্সে style যুক্ত করতে পারেন।
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ এখন আপনার style.css ফাইলে যান এবং art নামের `&lt;div&gt;জন্য টেবিল স্টাইলিং যুক্ত করুন ।.</li>
+</ul>
 
-![screenshot](images/pixel-art-style.png)
+<p><img src="images/pixel-art-style.png" alt="স্ক্রীনশট" /></p>
 
-This creates a table with a border and sets the spacing inside the grid.
+<p>এটি একটি সীমানা সহ একটি টেবিল তৈরি করে এবং গ্রিডের মধ্যে ব্যবধান স্থাপন করে।</p>
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+<p>এটি এখনও খুব আকর্ষণীয় দেখাচ্ছে না, সুতরাং আপনার এটির ভিতরে  পিক্সেল rows লাগানো দরকার।</p>
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
+<ul>
+<li>আপনার <code> index.html  এ ফিরে যান  এবং art এর  ভিতরে তিন পিক্সেলের একটি row  যুক্ত করুন  আপনি যদি সময় বাঁচাতে চান তবে আপনি প্রথম row টি  টাইপ করতে পারেন এবং তারপরে বাকি row গুলো  তৈরি করতে কপি এবং পেস্ট করে পারেন।</li>
+</ul>
 
-![screenshot](images/pixel-art-row.png)
+<p><img src="images/pixel-art-row.png" alt="স্ক্রীনশট" /></p>
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+<p>লক্ষ্য করুন যে এখানে ডিভগুলি স্টাইল কোরতে আপনি একটি  class ব্যবহার করছেন IDর পরিবর্তে । এটি কারণ প্রচুর পরিমাণ div  থাকবে, সুতরাং একটি class  দরকারী।</p>
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
+<ul>
+<li>style.css এ যান  এবং প্রতিটি row  এবং পিক্সেলগুলির জন্য নিম্নলিখিত class গুলি  যুক্ত করুন:</li>
+</ul>
 
-![screenshot](images/pixel-art-row-style.png)
+<p><img src="images/pixel-art-row-style.png" alt="স্ক্রীনশট" /></p>
 
-Now your pixels will line up in a grid with black lines around them.
+<p>এখন আপনার পিক্সেলগুলি চারদিকে কালো লাইনগুলি দিয়ে একটি গ্রিডে সজ্জিত হবে।</p>
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
+<ul>
+<li>আপনার index.html ফাইল , একটি 3 × 3 পিক্সেল গ্রিড তৈরি করতে পিক্সেলের আরও দুটি বিভাগ যুক্ত করুন। সময় বাঁচাতে আপনি আবার কপি  এবং পেস্ট করতে পারেন।</li>
+</ul>
 
-\--- hints \---
+<p>--- hints ---</p>
 
-\--- hint \---
+<p>--- hint ---</p>
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
-
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
-
-You can check whether your table looks right by looking at the result area on the right.
-
-\--- /hint \---
-
-\--- hint \---
-
-Here is how your code should look:
-
-![screenshot](images/pixel-art-grid-3.png)
-
-\--- /hint \---
-
-\--- /hints \---
+<p><code><div>` ট্যাগ গুলো যাতে class = row আছে সেগুলো খুঁজে বের করুন। এর ভেতরে পিক্সেল লেবেলযুক্ত তিনটি row সহ এটি কপি করুন `</div>` ট্যাগ পর্যন্ত </p> 
+    এই sectionটি তত্ক্ষণাত্ অন্য একটি row তৈরির জন্য copy করা বিভাগটির নীচে আটকান। আরও একবার পুনরাবৃত্তি করুন যাতে আপনার প্রতি তিনটি পিক্সেলের তিনটি row থাকে।
+    
+    ডানদিকে ফলাফলের অঞ্চলটি দেখে আপনার টেবিলটি ঠিক দেখাচ্ছে কিনা তা পরীক্ষা করতে পারেন।
+    
+    \--- /hint \---
+    
+    \--- hint \---
+    
+    আপনার কোডটি দেখতে কেমন হবে তা এখানে:
+    
+    ![স্ক্রিনশট](images/pixel-art-grid-3.png)
+    
+    \--- /hint \---
+    
+    \--- /hints \---
