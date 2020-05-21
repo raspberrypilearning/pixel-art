@@ -6,7 +6,7 @@ The grid will look like a table. Tables contain rows, and rows contain cells whi
 
 + Open the [starter trinket](http://jumpto.cc/web-pixel).
 
-The project should look like this:
+El proyecto deberá parecerse a esto:
 
 ![screenshot](images/pixel-starter.png)
 
