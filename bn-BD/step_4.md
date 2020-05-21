@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## চ্যালেঞ্জ: আপনার গ্রিডকে resize করুন 
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3 × 3 পিক্সেল আর্টের জন্য বেশ ছোট গ্রিড। আপনি গ্রিড আরও বড় করতে পারেন? 8 × 8 পিক্সেল আর্টের জন্য একটি ভাল সাইজ ।
 
-Try copying and pasting rather than typing everything out.
+সবকিছু টাইপ না করে কপি পেস্ট করুন।
 
-![screenshot](images/pixel-art-grid-8.png)
+![স্ক্রীনশট](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
