@@ -1,35 +1,35 @@
-## Colour the pixels
+## পিক্সেল রঙ করুন
 
-This project uses three different languages:
+এই প্রকল্পটি তিনটি পৃথক ভাষা ব্যবহার করে:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ এইচটিএমএল আপনার বিষয়বস্তু সংগঠিত করতে ব্যবহৃত হয়
++ CSS বিষয়বস্তু কে সাজাতে সাহাজ্য করে করে স্টাইল এর সাথে 
++ জাভাস্ক্রিপ্ট হ'ল একটি প্রোগ্রামিং ভাষা যা আপনি যখন কোনও ওয়েবপেজ এর সাথে ইন্টারাক্ট করার জন্য ব্যবহার করতে পারেন 
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+আপনি যখন এটি ক্লিক করেন তখন স্বয়ংক্রিয়ভাবে একটি পিক্সেলের রঙে কিছু জাভাস্ক্রিপ্ট কোড যুক্ত করুন।
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+আমরা একটি ** ফাংশন তৈরি করব ** । ফাংশনগুলি নাম সহ কোডের ব্ল যা একটি নির্দিষ্ট কাজ সম্পাদন করে। কোডটি চালাতে গেলে আমরা ফাংশন এর নাম অনুসারে কল করতে পারি 
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ ` script.js ফাইল এর ভিতরে `setPixelColour `  নামের সাথে একটি ফাংশ তৈরি করুন ` । ` setPixelColour ` ফাংশনটির একটি ` পিক্সেল নেওয়া দরকার ` ** ইনপুট হিসাবে ** যাতে এটি পিক্সেলের রঙ পরিবর্তন করতে পারে।
 
-![Create function](images/create-function.png)
+![একটি ফাংশন তৈরি করুন](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ পিক্সেলের ব্যাকগ্রাউন্ডের রঙ সেট করতে ফাংশনের ভিতরে এই কোডটি যুক্ত করুন:
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![স্ক্রীনশট](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+` backgroundColor লক্ষ্য করুন ` আমেরিকান বানান 'colour' ব্যবহার করে।
 
-At the moment this code doesn't have any effect.
+এই মুহুর্তে এই কোডটির কোনও প্রভাব নেই।
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ ` index.html এ যান ` এবং নিম্নলিখিত পিক্সেলটিতে নিম্নলিখিত কোডটি যুক্ত করুন যাতে আপনি যখন এই পিক্সেলটিতে ক্লিক করেন, ` setPixelColour ফাংশন কল  হয়:</li>
+</ul>
 
-![screenshot](images/pixel-art-onclick.png)
+<p><img src="images/pixel-art-onclick.png" alt="স্ক্রীনশট" /></p>
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
-
-+ Test your code by clicking on the first pixel. It should turn black.
-
-![screenshot](images/pixel-art-black.png)
-
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+<p>ব্র্যাকেটের  মোধ্যে  যে <code> this  ` ` আছে সেটা হলো সেটপিক্সেলকলার ফাংশন এর ইনপুট ` ফাংশন, যা জানতে দেয় যে পিক্সেলটির জন্য রঙ সেট করতে হবে - সেটা হলো ` this  ` পিক্সেল!</p> 
+    + প্রথম পিক্সেলটিতে ক্লিক করে আপনার কোডটি পরীক্ষা করুন। এটি কালো হতে হবে।
+    
+    ![স্ক্রীনশট](images/pixel-art-black.png)
+    
+    আপনি কেবল ` onclick এর কোড  লিখেছেন  `প্রথম পিক্সেল এ , সুতরাং অন্যান্য পিক্সেল ক্লিক করে এখনও কিছুই করবে না।
