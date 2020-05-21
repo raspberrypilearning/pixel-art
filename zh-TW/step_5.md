@@ -1,35 +1,35 @@
-## Colour the pixels
+## 為像素著色
 
-This project uses three different languages:
+此專案使用三種不同的語言：
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML用於組織你的內容
++ CSS用來定義內容樣式的外觀
++ JavaScript是一種程式語言，你可用於製作一個使用者互動時的網頁響應(回饋)
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+讓我們新增一些JavaScript程式碼，當你點擊它時，自動將一個像素著色。
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+我們將建立一個 **function**，功能函數。 函數是執行特定任務的程式碼區塊。 當我們想要執行一個函數中的程式碼時，我們可以透過其名字來 **呼叫** 一個函數。
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ 在 `script.js` 文件中，建立一個名為 `setPixelColour`的函數。 `setPixelColour` 函數需要將 `pixel` 作為一個 **input** 以便它可以改變該像素的顏色。
 
-![Create function](images/create-function.png)
+![新增函數](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ 在此函數內添加此程式碼以設置像素的背景顏色：
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![螢幕截圖](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+請注意，`backgroundColor` 使用美式拼法，“color”。
 
-At the moment this code doesn't have any effect.
+目前這段程式碼並沒有任何功能。
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ 到 `index.html` 並將以下程式碼添加到第一個像素，這樣當你點擊此像素時，將會呼叫 `setPixelColour` 函數：
 
-![screenshot](images/pixel-art-onclick.png)
+![螢幕截圖](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+括號中的 `this` 是 `setPixelColour` 函數的輸入，讓程式知道為哪個像素設置顏色 - `this` 像素！
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ 透過點擊第一個像素來測試你的程式碼。它應該變成黑色。
 
-![screenshot](images/pixel-art-black.png)
+![螢幕截圖](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+你目前只新增了 `onclick` 程式碼到 **first** 第一個像素，所以點擊其他像素將不會有任何效果。
