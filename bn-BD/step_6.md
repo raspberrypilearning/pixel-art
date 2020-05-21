@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## চ্যালেঞ্জ: সমস্ত পিক্সেল এ যেন ক্লিক করা যায় 
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+আপনি কি সব পিক্সেলকে ক্লিকযোগ্য করে তুলতে পারবেন? সময় বাঁচাতে , আপনার প্রয়োজনীয় কোডটি কপি পেস্ট করে দিতে পারেন।
 
-Test your code by creating a quick piece of pixel art.
+একটি দ্রুত পিক্সেল আর্ট তৈরি করে আপনার কোডটি পরীক্ষা করুন।
 
-![screenshot](images/pixel-art-black-example.png)
+![স্ক্রীনশট](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+টিপ: আপনি ** অটোরুন ক্লিক করতে পারেন ** সমস্ত পিক্সেল সরাতে ।
 
 \--- /challenge \---
