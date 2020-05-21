@@ -1,4 +1,4 @@
-## Introduction
+## Introducción
 
 Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
 
@@ -12,7 +12,7 @@ Try out the project below. Click on a colour from the palette, then click on a p
   <img src="images/pixel-art-final.png">
 </div>
 
-### What you will learn
+### Lo que aprenderás
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
