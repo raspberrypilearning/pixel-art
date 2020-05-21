@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## Задача: измени размер сетки
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3×3 это довольно маленькая сетка для пиксельной графики. Сможешь ли ты сделать сетку больше? 8×8 будет неплохим размером для пиксельной графики.
 
-Try copying and pasting rather than typing everything out.
+Попробуй скопировать и вставить, вместо того чтобы печатать все.
 
-![screenshot](images/pixel-art-grid-8.png)
+![снимок экрана](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
