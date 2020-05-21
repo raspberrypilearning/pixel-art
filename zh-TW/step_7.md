@@ -1,20 +1,20 @@
-## Add a colour palette
+## 添加一個調色板
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+如果你犯了錯誤，你是否覺得難以將像素的顏色改回白色？ 讓我們透過建立一個調色板來解決這個問題，以便你可以透過點擊選擇不同筆刷顏色。
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ 將此程式碼新增到 `style.css` 檔案的底部以建立一個筆刷樣式：
 
-![screenshot](images/pixel-art-pen.png)
+![螢幕截圖](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ 現在，使用剛建立的筆刷樣式創建一個黑白筆刷顏色的調色板。將以下程式碼添加到你的`index.html`的`<body>`標籤下方：
 
-![screenshot](images/pixel-art-palette.png)
+![螢幕截圖](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style =` 允許你在HTML檔案中加入CSS程式碼，這在這裡非常方便。
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+我們需要新增程式碼，以便在點擊調色板中的一種顏色時，筆刷的顏色會跟著發生變化。
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ 切換到 `script.js` 並在檔案的最上方創建一個名為 `penColour` 的變數。該變數的值設置為 `'black'`。
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,30 +22,30 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hint \---
 
-Add the following code at the top of the file:
+在檔案最上方添加以下程式碼：
 
-![screenshot](images/pixel-art-pencolour.png)
+![螢幕截圖](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
 \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ 查看你已建立的函數 `setPixelColour` 來幫助你在變數下面，建立一個名為 `setPenColour` 的新函數，其輸入為 `pen`。
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ 在 `setPenColour` 函數內，添加程式碼以將 `penColour` 變數設置為作為提供輸入的 `pen` 顏色。
 
-![screenshot](images/pixel-art-set-pen.png)
+![螢幕截圖](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+當你想要更改一個像素的顏色時，你將會需要使用 `penColour` 變數。
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ 更改 `setPixelColour` 函數來使用 `penColour` 變數而不是直接更改 `black`：
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![螢幕截圖](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ 在 `index.html` 文件中，新增一些程式碼，讓你在點擊調色板中的顏色時呼叫 `setPenColour` 函數。
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![螢幕截圖](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ 測試你是否可以在黑白之間切換筆刷顏色以填充或刪除像素。
