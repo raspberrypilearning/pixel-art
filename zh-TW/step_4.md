@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: resize your grid
+## 挑戰：調整你的網格大小
 
-3×3 is quite a small grid for pixel art. Can you make the grid bigger? 8×8 is a good size for pixel art.
+3×3是用於像素藝術的相當小的網格。你能讓網格更大嗎？ 8×8是像素藝術很適合的尺寸。
 
-Try copying and pasting rather than typing everything out.
+嘗試複製和貼上程式碼，而不是手動輸入所有內容。
 
-![screenshot](images/pixel-art-grid-8.png)
+![螢幕截圖](images/pixel-art-grid-8.png)
 
 \--- /challenge \---
