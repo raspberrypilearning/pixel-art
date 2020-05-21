@@ -1,63 +1,63 @@
-## Create a grid of pixels
+## 建立一個像素網格
 
-Let's create a grid of pixels that you can use for creating pixel art.
+讓我們來創建一個可用於建立像素藝術的像素網格。
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+此網格看起來像一張表格。表格中包含行列，此行列構成的方格將用來代表像素的單元格。
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ 打開 [this trinket](http://jumpto.cc/web-pixel)。
 
-The project should look like this:
+此專案應該看起來像這樣：
 
-![screenshot](images/pixel-starter.png)
+![螢幕截圖](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+首先，讓我們編寫一些程式碼來建立一個帶有黑色背景的表格，然後將白色像素放入其中。
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ 將此程式碼加入到你的`index.html` 檔案的 `<body>` 中以創建 一個`<div>`：
 
-![screenshot](images/pixel-art-art.png)
+![螢幕截圖](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+`<div>` 是一個隱形框，你可以給它一個 **style**樣式。 這個 `<div>` 有你需要的ID `art`，所以你可以在框裡添加樣式。
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ 現在到你的 `style.css` 文件，並在名為 `art`的 `<div>` 添加表格樣式。
 
-![screenshot](images/pixel-art-style.png)
+![螢幕截圖](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+這將建立一個帶有邊框的表格，並網格內的設定間距。
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+它目前看起來還不是很有趣，因此你需要在其中放置像素列。
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ 回到你的 `的index.html` 檔案，並添加三個像素的程式碼行到`art `框**裡面**。 如果要節省時間，可以輸入第一行，然後複製並貼上它以建立其他行程式碼。
 
-![screenshot](images/pixel-art-row.png)
+![螢幕截圖](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+請注意，在這裡，你使用一個 **class** 而不是ID來設定div的樣式。這是因為它們會有很多ID，所以使用單一個class更有效率。
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ 切換到 `style.css` 檔案，並為每行中的列和像素添加以下樣式：
 
-![screenshot](images/pixel-art-row-style.png)
+![螢幕截圖](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+現在，你的像素將在網格中排成一行，周圍有黑線。
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ 在你的 `index.html` 檔案中，添加另外兩個像素部分以建立一個3×3像素網格。你可以再次使用複製和貼上來節省時間。
 
 \--- hints \---
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+找到帶有`row`類別的`<div>`標籤並複製它與包含標記為`pixel`的另外三行程式碼，直到與它相對應的&lt;/div&gt;<1>標籤。</p>
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+<p>將此程式碼貼上到剛才複製的部分下面來建立另一行。再重複一次，總共得到三行，每行三個像素。</p>
 
-You can check whether your table looks right by looking at the result area on the right.
+<p>你可以透過查看右側的結果區域來檢查你的表格是否正確。</p>
 
-\--- /hint \---
+<p>--- /hint ---</p>
 
-\--- hint \---
+<p>--- hint ---</p>
 
-Here is how your code should look:
+<p>你的程式碼看起來應該像這樣：</p>
 
-![screenshot](images/pixel-art-grid-3.png)
+<p><img src="images/pixel-art-grid-3.png" alt="螢幕截圖" /></p>
 
-\--- /hint \---
+<p>--- /hint ---</p>
 
-\--- /hints \---
+<p>--- /hints ---</p>
