@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Задача: сделать все пиксели нажимаемыми
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+Можешь ли ты сделать все пиксели нажимаемыми? Чтобы сэкономить время, ты можешь скопировать и вставить нужный код.
 
-Test your code by creating a quick piece of pixel art.
+Протестируй свой код, создав быстрый набросок пиксельной графики.
 
-![screenshot](images/pixel-art-black-example.png)
+![снимок экрана](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Совет: ты можешь нажать **Autorun** для очистки всех пикселей.
 
 \--- /challenge \---
