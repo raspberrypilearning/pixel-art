@@ -1,35 +1,35 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: 像素藝術
+description: 使用HTML，CSS和JavaScript建立一個像素藝術編輯器。
 hero_image: images/pixel-art.png
-theme: navy
+theme: 藏青色
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
 original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
-interests: art
+interests: 藝術
 technologies: html-css-javascript
-site_areas: projects
+site_areas: 專案
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017年1月1日
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: What you will need
+    title: 你將會需要
   - 
-    title: Create a grid of pixels
+    title: 建立一個像素網格
   - 
-    title: 'Challenge: resize your grid'
+    title: '挑戰：調整你的網格大小'
   - 
-    title: Colour the pixels
+    title: 為像素著色
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: '挑戰：使所有像素都可以被點擊'
   - 
-    title: Add a colour palette
+    title: 添加一個調色板
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: '挑戰：為該調色板添加更多顏色'
