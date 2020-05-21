@@ -1,6 +1,6 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: পিক্সেল আর্ট
+description: এইচটিএমএল, সিএসএস এবং জাভাস্ক্রিপ্ট ব্যবহার করে একটি পিক্সেল আর্ট সম্পাদক তৈরি করুন।
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ভূমিকা
   - 
-    title: What you will need
+    title: যা যা প্রয়োজন
   - 
-    title: Create a grid of pixels
+    title: পিক্সেল একটি গ্রিড তৈরি করুন
   - 
-    title: 'Challenge: resize your grid'
+    title: 'চ্যালেঞ্জ: আপনার গ্রিডকে resize করুন '
   - 
-    title: Colour the pixels
+    title: পিক্সেল রঙ করুন
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: 'চ্যালেঞ্জ: সমস্ত পিক্সেল এ যেন ক্লিক করা যায় '
   - 
-    title: Add a colour palette
+    title: একটি রঙ প্যালেট যুক্ত করুন
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: 'আপনি কি প্যালেটটিতে আরও রঙ যুক্ত করতে পারেন'
