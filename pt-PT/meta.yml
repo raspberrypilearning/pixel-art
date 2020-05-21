@@ -1,0 +1,27 @@
+---
+title: Arte em pixels
+description: Cria um editor de arte em pixels usando HTML, CSS e JavaScript.
+hero_image: images/pixel-art.png
+theme: navy
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introdução
+  - title: Do que é que vais precisar
+  - title: Cria uma grelha de pixels
+  - title: 'Desafio: redimensionar a tua grelha'
+  - title: Colorir os pixels
+  - title: 'Desafio: tornar todos os pixels clicáveis'
+  - title: Adicionar uma paleta de cores
+  - title: 'Desafio: adicionar mais cores à paleta'
