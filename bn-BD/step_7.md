@@ -1,20 +1,20 @@
-## Add a colour palette
+## একটি রঙ প্যালেট যুক্ত করুন
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+আপনি কি লক্ষ করেছেন যে যদি আপনি কোনও ভুল করেন তবে আপনি পিক্সেলের রঙ সাদাতে পরিবর্তন করতে পারবেন না? একটি রঙ প্যালেট তৈরি করে এটি ঠিক করুন যাতে আপনি ক্লিকের মাধ্যমে কলমের রঙগুলির মধ্যে চয়ন করতে পারেন।
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ একটি pen style তৈরি করতে আপনার `  style.css ফাইল এর নীচে এই কোডটি যুক্ত করুন ` :
 
-![screenshot](images/pixel-art-pen.png)
+![স্ক্রিনশট](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ আপনার সবেমাত্র তৈরি পেন স্টাইল ব্যবহার করে এখন কালো এবং সাদা কলমের রঙগুলির সাথে একটি প্যালেট তৈরি করুন। ` আপনার <code> index.html` ট্যাগ এর নীচে এ নিম্নলিখিত কোডটি যুক্ত করুন </code> :
 
-![screenshot](images/pixel-art-palette.png)
+![স্ক্রীনশট](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+` style=` আপনাকে আপনার HTML ফাইলের মধ্যে সিএসএস কোড যুক্ত করতে দেয় যা এখানে সুবিধাজনক।
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+আমাদের কোড যুক্ত করতে হবে যাতে প্যালেটের কোনও রঙ ক্লিক করা হলে কলমের রঙ পরিবর্তন হয় 
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ ` script.js এ স্যুইচ করুন ` এবং ` penColour নামে একটি ভেরিয়েবল তৈরি করুন ` ফাইলের একেবারে শীর্ষে। ভেরিয়েবলের মান ` 'black' এ সেট করুন ` ।
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,30 +22,29 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hint \---
 
-Add the following code at the top of the file:
+ফাইলের শীর্ষে নিম্নলিখিত কোড যুক্ত করুন:
 
-![screenshot](images/pixel-art-pencolour.png)
+![স্ক্রীনশট](images/pixel-art-pencolour.png)
 
-\--- /hint \---
+\--- / ইঙ্গিত \---
 
-\--- /hints \---
+\--- / ইঙ্গিত \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ ভেরিয়েবলের নীচে ` setPenColour নামে একটি নতুন ফাংশন তৈরি করুন আর ` pen ` ইনপুট করুন  ` । ` setPixelColour ফাংশনটি দেখুন ` আপনাকে সাহায্য করার জন্য আপনি ইতিমধ্যে তৈরি করেছেন।
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ ` setPenColour ফাংশন এর  ভিতরে ` ` penColour ভ্যারিয়েবল এ pen  সেট করতে কোড যুক্ত করুন যাতে ইনপুট  হিসাবে রঙ পাঠানো হয়েছে ।</li>
+</ul>
 
-![screenshot](images/pixel-art-set-pen.png)
+<p><img src="images/pixel-art-set-pen.png" alt="স্ক্রীনশট" /></p>
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+<p>আপনাকে <code> penColour ব্যবহার করতে হবে ` যখন আপনি একটি পিক্সেল এর রঙ পরিবর্তন।</p> 
+    + ` setPixelColour  ফাংশন পরিবর্তন করুন ` যাতে ` penColour ভ্যারিয়েবল ব্যবহার করতে পারেন  ` ` কালো র  পরিবর্তে ;</p>
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
+<p><img src="images/pixel-art-use-pen.png" alt="স্ক্রীনশট" /></p></li>
+<li><p><code> index.html  ফাইল এ ` ফাইল, ` setPenColour কল করতে কিছু কোড যুক্ত করুন ` প্যালেটটিতে একটি রঙ ক্লিক করা হলে
     
-    ![screenshot](images/pixel-art-use-pen.png)
-
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
-
-![screenshot](images/pixel-art-palette-onclick.png)
-
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
+    ![স্ক্রীনশট](images/pixel-art-palette-onclick.png)
+    
+    + পরীক্ষা করুন যে আপনি পিক্সেলগুলি পূরণ করতে বা মুছতে কালো এবং সাদা মধ্যে কলমের রঙ পরিবর্তন করতে পারেন।
