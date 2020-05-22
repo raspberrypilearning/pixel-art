@@ -2,21 +2,21 @@
 
 我們來創建一個像素表格來建立像素藝術。
 
-此網格看起來像一張表格。表格中包含行列，此行列構成的方格將用來代表像素的單元格。
+網格看起來像一張表格。表格中包含了行列，行列構成的單元格將用來代表像素。
 
-+ 打開 [this trinket](http://jumpto.cc/web-pixel)。
++ 點閱 [starter trinket](http://jumpto.cc/web-pixel)。
 
-此專案應該看起來像這樣：
+此項目應該看起來像這樣：
 
 ![螢幕截圖](images/pixel-starter.png)
 
 首先，讓我們編寫一些程式碼來建立一個帶有黑色背景的表格，然後將白色像素放入其中。
 
-+ 將此程式碼加入到你的`index.html` 檔案的 `<body>` 中以創建 一個`<div>`：
++ 將此程式碼加入到你的`index.html` 檔案的 `<body>` 中來創建 一個`<div>`：
 
 ![螢幕截圖](images/pixel-art-art.png)
 
-`<div>` 是一個隱形框，你可以給它一個 **style**樣式。 這個 `<div>` 有你需要的ID `art`，所以你可以在框裡添加樣式。
+`<div>` 是一個隱形框，你可以給它一個 **style**（樣式）。 這個 `<div>` 有一個ID `art`, 用來添加樣式。
 
 + 現在到你的 `style.css` 文件，並在名為 `art`的 `<div>` 添加表格樣式。
 
