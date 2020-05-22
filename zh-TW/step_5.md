@@ -22,14 +22,14 @@
 
 目前這段程式碼並沒有任何功能。
 
-+ 到 `index.html` 並將以下程式碼添加到第一個像素，這樣當你點擊此像素時，將會呼叫 `setPixelColour` 函數：
++ 到 `index.html` 並將以下程式碼添加到第一個像素，當你點擊此像素時，將會呼叫 `setPixelColour` 函數：
 
 ![螢幕截圖](images/pixel-art-onclick.png)
 
-括號中的 `this` 是 `setPixelColour` 函數的輸入，讓程式知道為哪個像素設置顏色 - `this` 像素！
+`setPixelColour` 函數會輸入括號中的`this`，讓程式知道要為哪個像素設定顏色 - 設定在`this` 像素！
 
 + 透過點擊第一個像素來測試你的程式碼。它應該變成黑色。
 
 ![螢幕截圖](images/pixel-art-black.png)
 
-你目前只新增了 `onclick` 程式碼到 **first** 第一個像素，所以點擊其他像素將不會有任何效果。
+你目前只新增了 `onclick` 程式碼到 **first (第一個)** 像素，所以點擊其他像素將不會有任何效果。
