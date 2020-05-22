@@ -1,10 +1,10 @@
 ## 介紹
 
-建立一個像素藝術編輯器。除了使用HTML和CSS外，你將學習如何使用JavaScript為你的專案增加互動性。
+建立像素的藝術編輯器。除了使用HTML和CSS以外，你將會學習如何使用JavaScript為你的編碼項目增加互動性。
 
-### 你將會做出
+### 你將會編造
 
-試試下面的專案。單擊調色板中的顏色，然後點擊一個像素以更改其顏色。
+試試以下的項目。首先, 點擊調色板中的一個顏色，然後再點擊一個像素來更改它的顏色。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
