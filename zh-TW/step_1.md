@@ -22,6 +22,6 @@
 
 ### 給教師的其它資訊
 
-如果需要列印本專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
+如果你需要列印本項目，請使用[列印](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} 連結.
 
-使用頁腳中的連結來進入此專案的 GitHub 資源庫中，在資源庫中找到 'en / resources' 資料，裡面有所有的資源(包括已完成的專案範例)。
+使用頁腳中的連結來進入項目的 GitHub 資源庫，在資源庫中的‘en/resources’資料夾保存著所有的資源(包括已完成的專案範例)。
