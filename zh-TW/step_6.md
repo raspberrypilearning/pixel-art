@@ -8,6 +8,6 @@
 
 ![螢幕截圖](images/pixel-art-black-example.png)
 
-提示：你可以點擊 **自動執行** 來清除所有像素。
+Tip: you can click **Autorun** to clear all of the pixels.
 
 \--- /challenge \---
