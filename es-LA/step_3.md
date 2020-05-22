@@ -1,4 +1,4 @@
-## Create a grid of pixels
+## Crea una cuadrícula de píxeles
 
 Let's create a grid of pixels that you can use for creating pixel art.
 
@@ -36,7 +36,7 @@ Notice that here you're using a **class** instead of an ID to style the divs. Th
 
 ![screenshot](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+Ahora tus píxeles se alinearán en una cuadrícula con líneas negras a su alrededor.
 
 + In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
 
