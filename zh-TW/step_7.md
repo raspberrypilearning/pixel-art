@@ -30,15 +30,15 @@
 
 \--- /hints \---
 
-+ 查看你已建立的函數 `setPixelColour` 來幫助你在變數下面，建立一個名為 `setPenColour` 的新函數，其輸入為 `pen`。
++ 查看你已建立的函數 `setPixelColour` 來幫助下一步驟。新建立一個名為 `setPenColour` 的函數，其輸入為 `pen`。
 
 [[[generic-javascript-create-a-function]]]
 
-+ 在 `setPenColour` 函數內，添加程式碼以將 `penColour` 變數設置為作為提供輸入的 `pen` 顏色。
++ 在 `setPenColour` 函數內，添加程式碼來設定 `penColour`為`pen` 的顏色。
 
 ![螢幕截圖](images/pixel-art-set-pen.png)
 
-當你想要更改一個像素的顏色時，你將會需要使用 `penColour` 變數。
+當你想要更改一個像素的顏色時，你會需要使用 `penColour` 變數。
 
 + 更改 `setPixelColour` 函數來使用 `penColour` 變數而不是直接更改 `black`：
     
