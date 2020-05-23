@@ -8,8 +8,8 @@
 
 Sugerencia: el color verde brillante se llama `chartreuse`. Aquí hay una [lista de nombres de colores](https://www.w3schools.com/colors/colors_names.asp) donde puedes elegir tus favoritos.
 
-![screenshot](images/pixel-art-final.png)
+![captura de pantalla](images/pixel-art-final.png)
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+Puedes usar la herramienta de recorte en Windows (u una equivalente si no estás usando Windows) para guardar una copia de tu pixel art como un archivo de imagen.
 
 \--- /challenge \---
