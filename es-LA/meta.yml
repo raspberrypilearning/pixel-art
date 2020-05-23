@@ -24,12 +24,12 @@ steps:
   - 
     title: Crea una cuadrícula de píxeles
   - 
-    title: 'Challenge: resize your grid'
+    title: 'Desafío: Cambia el tamaño de tu cuadrícula'
   - 
-    title: Colour the pixels
+    title: Colorea los píxeles
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: 'Desafío: Haz que se pueda hacer clic en todos los píxeles'
   - 
-    title: Add a colour palette
+    title: Agrega una paleta de colores
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: 'Desafío: Agrega más colores a la paleta'
