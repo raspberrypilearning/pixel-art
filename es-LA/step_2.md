@@ -2,8 +2,8 @@
 
 ### Hardware
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ Una computadora capaz de acceder a la página web [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Software
 
-This project can be completed in a web browser using the [trinket.io](https://trinket.io){:target="_blank"} online application.
+Este proyecto se puede completar en un navegador web usando la applicación online [trinket.io](https://trinket.io){:target="_blank"}.
