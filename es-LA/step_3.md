@@ -1,20 +1,20 @@
 ## Crea una cuadrícula de píxeles
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Vamos a crear una cuadrícula de píxeles que puedes usar para crear pixel art.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+La cuadrícula se verá como una tabla. Las tablas contienen filas y las filas contienen celdas que representarán los píxeles.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ Abre el [trinket de iniciación](http://jumpto.cc/web-pixel).
 
 El proyecto deberá parecerse a esto:
 
-![screenshot](images/pixel-starter.png)
+![captura de pantalla](images/pixel-starter.png)
 
 First, let's write some code to create a table with a black background and then put white pixels into it.
 
 + Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
-![screenshot](images/pixel-art-art.png)
+![captura de pantalla](images/pixel-art-art.png)
 
 A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
 
