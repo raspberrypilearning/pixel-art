@@ -1,16 +1,16 @@
-## Colour the pixels
+## Colorea los píxeles
 
-This project uses three different languages:
+Este proyecto usa tres lenguajes diferentes:
 
-+ HTML is used to organise your content
++ HTML se usa para organizar tu contenido
 + CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ JavaScript es un lenguaje de programación que puedes usar para hacer que una página web responda cuando interactúas con ella
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+Agreguemos un código JavaScript para colorear un píxel automáticamente cuando haces clic en él.
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Vamos a crear una **función**. Las funciones son bloques de código con nombre, que realizan una tarea particular. Podemos ** llamar ** a una función por su nombre cuando queremos ejecutar el código que contiene.
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ Dentro del archivo `script.js`, crea una función con el nombre `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
 
 ![Create function](images/create-function.png)
 
