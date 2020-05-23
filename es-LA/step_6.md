@@ -2,12 +2,12 @@
 
 ## Challenge: make all pixels clickable
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+¿Puedes hacer clic en todos los píxeles? Para ahorrar tiempo, puedes copiar y pegar el código que necesitas.
 
 Test your code by creating a quick piece of pixel art.
 
-![screenshot](images/pixel-art-black-example.png)
+![captura de pantalla](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+Sugerencia: puedes hacer clic en **Autorun** para borrar todos los píxeles.
 
 \--- /challenge \---
