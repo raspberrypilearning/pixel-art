@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## Desafío: Haz que se pueda hacer clic en todos los píxeles
 
 ¿Puedes hacer clic en todos los píxeles? Para ahorrar tiempo, puedes copiar y pegar el código que necesitas.
 
-Test your code by creating a quick piece of pixel art.
+Prueba tu código creando una pieza rápida de pixel art.
 
 ![captura de pantalla](images/pixel-art-black-example.png)
 
