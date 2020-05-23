@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: add more colours to the palette
+## Desafío: Agrega más colores a la paleta
 
-Can you add more colours to the palette?
+¿Puedes agregar más colores a la paleta?
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
++ Elije los colores que quieres usar en tu pixel art y agrégalos a tu código. Luego crea algunas imágenes bonitas de píxeles.
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+Sugerencia: el color verde brillante se llama `chartreuse`. Aquí hay una [lista de nombres de colores](https://www.w3schools.com/colors/colors_names.asp) donde puedes elegir tus favoritos.
 
 ![screenshot](images/pixel-art-final.png)
 
