@@ -16,17 +16,17 @@ First, let's write some code to create a table with a black background and then 
 
 ![captura de pantalla](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+A `<div>` is an invisible box to which you can give a **style**. Este `<div>` tiene el ID `art`, que necesitas para que puedas añadir estilos a la caja.
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ Ahora ve a tu archivo `style.css` y agrega el estilo de tabla para el `<div>` llamado `art`.
 
-![screenshot](images/pixel-art-style.png)
+![captura de pantalla](images/pixel-art-style.png)
 
 This creates a table with a border and sets the spacing inside the grid.
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+Aun no se ve muy interesante, así que hay que poner filas de píxeles en su interior.
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ Vuelve a tu archivo `index.html` y agrega una fila de tres píxeles **dentro** de la caja `arte`. If you want to save time, you can type the first row and then copy and paste it to create the others.
 
 ![screenshot](images/pixel-art-row.png)
 
@@ -38,7 +38,7 @@ Notice that here you're using a **class** instead of an ID to style the divs. Th
 
 Ahora tus píxeles se alinearán en una cuadrícula con líneas negras a su alrededor.
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ En tu archivo` index.html `, agrega otras dos secciones de píxeles para crear una cuadrícula de 3 × 3. Puedes usar copiar y pegar nuevamente para ahorrar tiempo.
 
 \--- hints \---
 
