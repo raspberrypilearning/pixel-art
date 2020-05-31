@@ -1,16 +1,16 @@
-## Create a grid of pixels
+## पिक्सेल का ग्रिड बनाएँ
 
 Let's create a grid of pixels that you can use for creating pixel art.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+ग्रिड यह एक तालिका की तरह दिखेगा। तालिकाओं में पंक्तियाँ होती हैं, और पंक्तियों में जो कोशिकाएँ होती हैं वो पिक्सेल का प्रतिनिधित्व करती हैं।
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
++ [स्टार्टर ट्रिंकेट](http://jumpto.cc/web-pixel) खोलें।
 
-The project should look like this:
+प्रोजैक्ट इस तरह दिखनी चाहिए:
 
-![screenshot](images/pixel-starter.png)
+![स्क्रीनशॉट](images/pixel-starter.png)
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+सबसे पहले, एक काले रंग की पृष्ठभूमि के साथ एक तालिका बनाने के लिए कोड लिखें और फिर इसमें कुछ सफेद पिक्सेल डालें।
 
 + Add this code into the `<body>` of your `index.html` file to create a `<div>`:
 
