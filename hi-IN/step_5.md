@@ -1,16 +1,16 @@
-## Colour the pixels
+## पिक्सेल को रंग करें
 
-This project uses three different languages:
+यह परियोजना तीन अलग-अलग प्रोग्रामिंग भाषाओं का उपयोग करती है:
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTML का उपयोग आपकी सामग्री को संगठित करने के लिए किया जाता है
++ सीएसएस सामग्री को बताता है कि शैलियों के साथ क्या देखना है
++ जावास्क्रिप्ट एक प्रोग्रामिंग भाषा है जिसका उपयोग कर आप वेबपेज से जवाब दे सकते हैं जब आप इस वेबपेज के साथ बातचीत करते हैं
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+अब कुछ जावास्क्रिप्ट कोड जोड़ते हैं जिससे पिक्सेल में रंग अपने आप से भर जाए जब आप उस पर क्लिक करते हैं।
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+हम एक ** फ़ंक्शन ** बनाएंगे। फ़ंक्शंस नामांकित कोड के खंड होते है जो एक विशेष कार्य करते हैं। हम फंक्शन को उसके नाम से **बुला** सकते हैं जब हम उसके कोड को चलाना चाहते हैं।
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ `script.js` फ़ाइल के अंदर एक फ़ंक्शन बनाएं जिसका नाम हो ` setPixelColour`। ` setPixelColour ` फ़ंक्शन को एक ` पिक्सेल `** इनपुट ** के रूप में लेने की आश्यकता है ताकि यह उस पिक्सेल का रंग बदल सके।
 
 ![Create function](images/create-function.png)
 
