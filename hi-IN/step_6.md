@@ -4,10 +4,10 @@
 
 Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
 
-Test your code by creating a quick piece of pixel art.
+पिक्सेल कला का एक त्वरित टुकड़ा बनाकर अपने कोड का परीक्षण करें।
 
-![screenshot](images/pixel-art-black-example.png)
+![स्क्रीनशॉट](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+युक्ति: सभी पिक्सेल साफ़ करने के लिए आप ** Autorun** पर क्लिक कर सकते हैं।
 
 \--- /challenge \---
