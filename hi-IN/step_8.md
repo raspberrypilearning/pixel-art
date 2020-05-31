@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add more colours to the palette
+## चुनौती: पट्टिका में और रंग जोड़ें
 
-Can you add more colours to the palette?
+क्या आप पट्टिका में अधिक रंग जोड़ सकते हैं?
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
++ उन रंगों को चुनें जिन्हें आप अपनी पिक्सेल कला में उपयोग करना चाहते हैं, और उन्हें अपने कोड में जोड़ें। फिर कुछ शानदार पिक्सेल चित्र बनाएं।
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+संकेत: चमकीले हरे रंग को `chartreuse` कहा जाता है। यहाँ [ रंग नामों की एक सूची है](https://www.w3schools.com/colors/colors_names.asp) जिससे आप अपने मनपसंद रंग को चुन सकते हैं।
 
-![screenshot](images/pixel-art-final.png)
+![स्क्रीनशॉट](images/pixel-art-final.png)
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+आप अपने पिक्सेल कला की एक प्रति को एक छवि फ़ाइल के रूप में सहेजने के लिए विंडोज में स्निपिंग टूल (या एक विकल्प यदि आप विंडोज का उपयोग नहीं कर रहे हैं) का उपयोग कर सकते हैं।
 
 \--- /challenge \---
