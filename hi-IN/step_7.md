@@ -1,20 +1,20 @@
-## Add a colour palette
+## चित्रकार की रंग मिलाने की पटिया जोड़ें
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+क्या आपको यह कष्टप्रद लगा कि अगर आपने गलती की हे तो आप पिक्सेल का रंग वापस सफेद नहीं कर सकते हैं? चलो एक रंग पट्टिका बनाते हे ताकि आप एक क्लिक के साथ कलम के रंगों के बीच चयन कर सकें।
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ एक कलम शैली बनाने के लिए इस कोड को अपने ` style.css` फ़ाइल के नीचे जोड़ें:
 
-![screenshot](images/pixel-art-pen.png)
+![स्क्रीनशॉट](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ अब आपके द्वारा बनाई गई कलम शैली का उपयोग करके काले और सफेद कलम रंगों के साथ एक पट्टिका बनाएं।आपके ` index.html` मे बिल्ले `<body>` के नीचे निम्न कोड जोड़ें:
 
-![screenshot](images/pixel-art-palette.png)
+![स्क्रीनशॉट](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style=` आपको अपनी HTML फ़ाइल के अंदर CSS कोड जोड़ने देता है, जो यहाँ सुविधाजनक है।
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+हमें कोड जोड़ने की आवश्यकता है ताकि जब पट्टिका में से किसी एक रंग पर क्लिक किया जाए, तो कलम का रंग बदल जाए।
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ ` script.js` पर स्विच करें और फ़ाइल के शीर्ष पर एक वैरिएबल बनाएं जिसका नाम `penColour` हो। चर का मान ` 'काला'` रखे।
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,30 +22,31 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hint \---
 
-Add the following code at the top of the file:
+निम्नलिखित कोड को अपनी स्क्रिप्ट के ऊपर में जोड़ें:
 
-![screenshot](images/pixel-art-pencolour.png)
+![स्क्रीनशॉट](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
 \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ चर के नीचे, ` setPenColour` नामक एक नया फ़ंक्शन बनाएं जिसका इनपुट `
+कलम` हो। आप पहले से ही बनाए फ़ंक्शन` setPixelColour ` को देखकर मदद ले सकते है।
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ `setPenColour` फ़ंक्शन के अंदर, `penColour` जमाने के लिए कोड जोड़ें, चर `pen` के लिए रंग इनपुट के रूप में प्रदान किया जायेगा
 
-![screenshot](images/pixel-art-set-pen.png)
+![स्क्रीनशॉट](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+जब आप किसी पिक्सेल का रंग बदलते हैं तब आपको `penColour` का भी उपयोग करना होगा।
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ `setPixelColour` फ़ंक्शन बदलें ताकि यह `black` के बजाये `penColour` चर का उपयोग करे:
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![स्क्रीनशॉट](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ `index.html` फ़ाइल मे, जब पैलेट में एक रंग पर क्लिक किया जाता है तब ` setPenColour` फ़ंक्शन को बुलाने के लिए कुछ कोड जोड़ें।
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![स्क्रीनशॉट](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ परीक्षण करें कि आप पिक्सेल का रंग काले और सफेद के बीच बदल सकते हैं या पिक्सेल को हटा सकते हैं।
