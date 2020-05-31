@@ -1,10 +1,10 @@
 ## परिचय
 
-Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
+एक पिक्सेल आर्ट एडिटर बनाएं। HTML और CSS का उपयोग करने के साथ-साथ आप सीखेंगे कि अपनी परियोजना में अन्तरक्रिया जोड़ने के लिए जावास्क्रिप्ट का उपयोग कैसे करें।
 
-### What you will make
+### आप क्या बनाएँगे
 
-Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
+नीचे दिए गए परियोजना को आज़माएं। रंग पट्टिका के एक रंग पर क्लिक करें, फिर उसके रंग को बदलने के लिए एक पिक्सेल पर क्लिक करें।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,9 +12,9 @@ Try out the project below. Click on a colour from the palette, then click on a p
   <img src="images/pixel-art-final.png">
 </div>
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+यह परियोजना [रास्पबेरी पाई डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित अवयवो को पूरा करता है{:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
