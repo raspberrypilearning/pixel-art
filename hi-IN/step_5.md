@@ -12,24 +12,24 @@
 
 + `script.js` फ़ाइल के अंदर एक फ़ंक्शन बनाएं जिसका नाम हो ` setPixelColour`। ` setPixelColour ` फ़ंक्शन को एक ` पिक्सेल `** इनपुट ** के रूप में लेने की आश्यकता है ताकि यह उस पिक्सेल का रंग बदल सके।
 
-![Create function](images/create-function.png)
+![फ़ंक्शन बनाएँ](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ पिक्सेल के पृष्ठभूमि का रंग जमाने करने के लिए फ़ंक्शन के अंदर इस कोड को जोड़ें:
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![स्क्रीनशॉट](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+ध्यान दें कि `पृष्ठभूमि का रंग `अमेरिकी शब्द-विन्यास का उपयोग करता है।
 
-At the moment this code doesn't have any effect.
+फिलहाल इस कोड का कोई प्रभाव नहीं है।
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ ` index.html` पर जाएँ और पहले पिक्सेल में निम्न कोड जोड़ें ताकि जब आप इस पिक्सेल पर क्लिक करें, तो ` setPixelColour ` फ़ंक्शन को बुलाया जाएगा:
 
-![screenshot](images/pixel-art-onclick.png)
+![स्क्रीनशॉट](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+` this` कोष्ठक में ` setPixelColour` फ़ंक्शन के लिए इनपुट है, जो यह बताता है कि किस पिक्सेल के लिए रंग जमाना है - ` this` पिक्सेल!
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ पहले पिक्सेल पर क्लिक करके अपने कोड का परीक्षण करें। यह काला हो जाना चाहिए।
 
-![screenshot](images/pixel-art-black.png)
+![स्क्रीनशॉट](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+आपने **पहले** पिक्सेल को केवल `क्लिक पर` कोड जोड़ा है, इसलिए अन्य पिक्सेल पर क्लिक करने से अभी तक कुछ नहीं होगा।
