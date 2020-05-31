@@ -16,12 +16,12 @@
 
 यह परियोजना [रास्पबेरी पाई डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित अवयवो को पूरा करता है{:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [साधारण 2D और 3D संपत्ति की रचना करना ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करना](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
+अगर आपको इस प्रोजैक्ट को छापने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/pixel-art/print){: target = "_ blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दि हुइ कड़ी का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन (एक उदाहरण संपूर्ण प्रोजैक्ट सहित) सम्मिलित हैं।
