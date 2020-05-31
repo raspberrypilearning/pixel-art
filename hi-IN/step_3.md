@@ -44,19 +44,19 @@
 
 \--- hint \---
 
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
+टैग`<div>` ढूंढें जिसकि कक्षा`पंक्ति` हो और इसे नकल करें. नकल मे ` पिक्सेल` लेबल वाली तीन पंक्तियाँ जो उसके अंदर हैं, और उसका मेल करता टैग` </div>` भी शामिल करे।
 
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
+इस कोड को तुरंत उस अनुभाग के नीचे चिपकाइये जिसे आपने दूसरी पंक्ति बनाने के लिए नकल किया था। एक बार और दोहराएं ताकि आपके पास तीन पिक्सेल की तीन पंक्तियाँ हों।
 
-You can check whether your table looks right by looking at the result area on the right.
+आप जाँच सकते हैं कि आपकी तालिका सही पर परिणाम क्षेत्र को देखकर सही है या नहीं।
 
 \--- /hint \---
 
 \--- hint \---
 
-Here is how your code should look:
+यहाँ दिखाया गया है कि आपका कोड कैसा दिखेगा:
 
-![screenshot](images/pixel-art-grid-3.png)
+![स्क्रीनशॉट](images/pixel-art-grid-3.png)
 
 \--- /hint \---
 
