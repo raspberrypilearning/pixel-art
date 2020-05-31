@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## चुनौती: सभी पिक्सेल को क्लिक करने योग्य बनाएँ
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+क्या आप सभी पिक्सेल को क्लिक करने योग्य बना सकते हैं? समय बचाने के लिए, आप उस कोड, जिसकी आपको आवश्यकता है, कि नकल करके चिपका सकते हैं।
 
 पिक्सेल कला का एक त्वरित टुकड़ा बनाकर अपने कोड का परीक्षण करें।
 
