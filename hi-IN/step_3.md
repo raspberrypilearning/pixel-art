@@ -1,6 +1,6 @@
 ## पिक्सेल का ग्रिड बनाएँ
 
-Let's create a grid of pixels that you can use for creating pixel art.
+अब पिक्सेल का एक ग्रिड बनाते हैं जिसका उपयोग आप पिक्सेल कला बनाने के लिए कर सकते हैं।
 
 ग्रिड यह एक तालिका की तरह दिखेगा। तालिकाओं में पंक्तियाँ होती हैं, और पंक्तियों में जो कोशिकाएँ होती हैं वो पिक्सेल का प्रतिनिधित्व करती हैं।
 
@@ -12,33 +12,33 @@ Let's create a grid of pixels that you can use for creating pixel art.
 
 सबसे पहले, एक काले रंग की पृष्ठभूमि के साथ एक तालिका बनाने के लिए कोड लिखें और फिर इसमें कुछ सफेद पिक्सेल डालें।
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
++ इस कोड को अपने`<body>` ` index.html ` फ़ाइल में</1> जोड़ें: `<div>`
 
-![screenshot](images/pixel-art-art.png)
+![स्क्रीनशॉट](images/pixel-art-art.png)
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+`<div>` एक अदृश्य बॉक्स है जिसमें आप एक ** शैली ** दे सकते हैं। इस `<div>` का आईडी`कला` है, जो आपको चाहिए ताकि आप डिब्बे में शैलियों को जोड़ सकें।
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
++ अब अपनी ` style.css` फ़ाइल पर जाएँ और तालिका शैली मे शैली जोड़ें जिसका `<div>`आईडी`कला` है।
 
-![screenshot](images/pixel-art-style.png)
+![स्क्रीनशॉट](images/pixel-art-style.png)
 
-This creates a table with a border and sets the spacing inside the grid.
+यह एक सीमा के साथ एक तालिका बनाता है और ग्रिड के अंदर अंतर जमाता है।
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+यह अभी तक बहुत दिलचस्प नहीं है, इसलिए आपको इसके अंदर पिक्सेल की पंक्तियाँ डालने की आवश्यकता है।
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
++ अपने `index.html` फ़ाइल पर वापस जाएं और **अंदर **तीन पिक्सेल की एक पंक्ति `कला` डिब्बे के जोड़ें। यदि आप समय बचाना चाहते हैं, तो आप पहली पंक्ति लिख कर फिर इसे कॉपी और पेस्ट करके दूसरी पंक्ति बना सकते हैं।
 
-![screenshot](images/pixel-art-row.png)
+![स्क्रीनशॉट](images/pixel-art-row.png)
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+ध्यान दें कि यहां आप आईडी</code> के बजाय **कक्षा** का उपयोग div की शैली के लीये कर रहे हैं। यह इसलिए है क्योंकि एसे बहुत सारे होंगे, इसलिए एक कक्षा अधिक उपयोगी है।
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
++ फिर से ` style.css` फ़ाइल खोले करें और प्रत्येक पंक्ति और पिक्सेल के लिए निम्न शैलियों को जोड़ें:
 
-![screenshot](images/pixel-art-row-style.png)
+![स्क्रीनशॉट](images/pixel-art-row-style.png)
 
-Now your pixels will line up in a grid with black lines around them.
+अब आपके पिक्सेल ग्रिड में उनके चारों ओर काली रेखाओं के साथ पंक्तिबद्ध होंगे।
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
++ अपने ` index.html ` फ़ाइल में, 3 × 3 पिक्सेल ग्रिड बनाने के लिए पिक्सेल के दो और खंड जोड़ें। समय बचाने के लिए आप कॉपी और पेस्ट का उपयोग कर सकते हैं।
 
 \--- hints \---
 
