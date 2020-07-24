@@ -1,0 +1,27 @@
+---
+title: ಪಿಕ್ಸೆಲ್ ಕಲೆ
+description: ಪಿಕ್ಸೆಲ್ ಆರ್ಟ್ ಎಡಿಟರ್ ರಚಿಸಿ HTML, CSS, ಮತ್ತು JavaScript.
+hero_image: images/pixel-art.png
+theme: navy
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: ಪರಿಚಯ
+  - title: ನಿಮಗೆ ಬೇಕಾದುದು
+  - title: ಪಿಕ್ಸೆಲ್‌ಗಳ ಗ್ರಿಡ್ ರಚಿಸಿ
+  - title: 'ಸವಾಲು: ನಿಮ್ಮ ಗ್ರಿಡ್ ಅನ್ನು ಮರುಗಾತ್ರಗೊಳಿಸಿ'
+  - title: ಪಿಕ್ಸೆಲ್‌ಗಳನ್ನು ಬಣ್ಣ ಮಾಡಿ
+  - title: 'ಸವಾಲು: ಎಲ್ಲಾ ಪಿಕ್ಸೆಲ್‌ಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಂತೆ ಮಾಡಿ'
+  - title: ಬಣ್ಣದ ಪ್ಯಾಲೆಟ್ ಸೇರಿಸಿ
+  - title: 'ಸವಾಲು: ಪ್ಯಾಲೆಟ್‌ಗೆ ಹೆಚ್ಚಿನ ಬಣ್ಣಗಳನ್ನು ಸೇರಿಸಿ'
