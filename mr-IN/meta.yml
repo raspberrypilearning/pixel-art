@@ -1,0 +1,27 @@
+---
+title: पिक्सेल आर्ट
+description: HTML, CSS आणि JavaScipt वापरुन पिक्सेल आर्ट एडिटर तयार करा.
+hero_image: images/pixel-art.png
+theme: navy
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
+original_url: https://codeclubprojects.org/en-GB/webdev/pixel-art
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: तुम्हाला कशाची आवश्यकता असेल
+  - title: पिक्सेलचा ग्रिड तयार करा
+  - title: 'आव्हान: तुमच्या ग्रीडचे आकार बदलणे'
+  - title: पिक्सेल रंगवा
+  - title: 'आव्हान: सर्व पिक्सेल क्लिक करण्यायोग्य बनवा'
+  - title: रंग पॅलेट जोडा
+  - title: 'आव्हान: पॅलेटमध्ये अधिक रंग जोडा'
