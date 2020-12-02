@@ -14,7 +14,7 @@ Selecciona el siguiente proyecto. Haz clic en un color de la paleta, luego haz c
 
 ### Lo que aprenderás
 
-Este proyecto incluye elementos de las siguientes disciplinas del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de las siguientes disciplinas del [currículo de creación digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Diseña elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

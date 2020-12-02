@@ -14,7 +14,7 @@ Wypróbuj projekt poniżej. Kliknij kolor z palety, a następnie kliknij piksel,
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Programu nauczania Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
+Ten projekt pokrywa elementy z następujących wątków z [Programu nauczania Raspberry Pi Digital Making](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

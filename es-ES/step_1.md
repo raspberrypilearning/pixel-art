@@ -14,7 +14,7 @@ Prueba el proyecto que sigue. Haz clic en un color de la paleta, luego haz clic 
 
 ### Lo que aprenderás
 
-Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
