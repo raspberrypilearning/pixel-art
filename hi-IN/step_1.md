@@ -14,7 +14,7 @@
 
 ### आप क्या सीखेंगे
 
-यह परियोजना [रास्पबेरी पाई डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित अवयवो को पूरा करता है:
+यह परियोजना [रास्पबेरी पाई डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित अवयवो को पूरा करता है:
 
 + [साधारण 2D और 3D संपत्ति की रचना करना ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

@@ -14,7 +14,7 @@
 
 ### Те, що ви дізнаєтеся
 
-Цей проект охоплює елементи з наступних напрямів навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проект охоплює елементи з наступних напрямів навчального плану [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

@@ -14,7 +14,7 @@ Experimenta o projeto abaixo. Clica numa cor da paleta e clica num pixel para mu
 
 ### O que vais aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Desenhar recursos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
