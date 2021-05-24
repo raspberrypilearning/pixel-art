@@ -1,6 +1,6 @@
 ---
-title: Pixel art
-description: Create a pixel art editor using HTML, CSS, and JavaScript.
+title: ドット絵
+description: HTML、CSS、およびJavaScriptを使用してピクセルアートエディタを作成します。
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: What you will need
+    title: 必要なもの
   - 
-    title: Create a grid of pixels
+    title: ピクセルグリッドを作成する
   - 
-    title: 'Challenge: resize your grid'
+    title: '課題：グリッドのサイズを変更する'
   - 
-    title: Colour the pixels
+    title: ピクセルの色を設定する
   - 
-    title: 'Challenge: make all pixels clickable'
+    title: '課題：すべてのピクセルをクリック可能にする'
   - 
-    title: Add a colour palette
+    title: カラーパレットを追加する
   - 
-    title: 'Challenge: add more colours to the palette'
+    title: '課題：パレットに色を追加する'
