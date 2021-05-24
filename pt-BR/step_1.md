@@ -14,7 +14,7 @@ Experimente o projeto abaixo. Clique em uma cor na paleta e clique em um pixel p
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
