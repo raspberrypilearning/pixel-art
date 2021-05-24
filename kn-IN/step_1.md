@@ -14,7 +14,7 @@
 
 ### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ಮೂಲ ವಿನ್ಯಾಸ 2D ಮತ್ತು 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
