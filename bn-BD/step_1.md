@@ -14,7 +14,7 @@
 
 ### যা শিখতে পারবেন
 
-এই প্রজেক্টটি [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) এর যাবতীয় কার্যক্রমকে উপস্থাপন করে {:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ বেসিক 2 ডি এবং 3 ডি সম্পদের নকশা করুন ](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}.।
 
