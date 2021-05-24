@@ -14,7 +14,7 @@
 
 ### Що ти вивчиш
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Розробка простих ресурсів 2D та 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
