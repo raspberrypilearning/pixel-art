@@ -10,7 +10,7 @@ Vamos adicionar um código JavaScript para colorir um pixel automaticamente quan
 
 Vamos criar uma **função**. As funções são blocos de código denominados que executam uma tarefa específica. Podemos **chamar** uma função pelo seu nome quando queremos executar o código que ela contém.
 
-+ Dentro do arquivo `script.js`, crie uma função com o nome `setPixelColour`. A função `setPixelColour` precisa ter um `pixel` como **entrada** para que ele pode mudar a cor deste pixel.
++ Dentro do arquivo `script.js`, crie uma função com o nome `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
 
 ![Create function](images/create-function.png)
 
