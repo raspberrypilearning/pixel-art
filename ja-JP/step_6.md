@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: make all pixels clickable
+## 課題：すべてのピクセルをクリック可能にする
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+すべてのピクセルをクリック可能にすることはできますか？時間を節約するために、必要なコードをコピーして貼り付けることができます。
 
-Test your code by creating a quick piece of pixel art.
+簡単なピクセルアートを作成して、コードをテストしてください。
 
-![screenshot](images/pixel-art-black-example.png)
+![スクリーンショット](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+ヒント： **自動実行** をクリックすると、すべてのピクセルを消去できます。
 
 \--- /challenge \---
