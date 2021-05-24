@@ -14,7 +14,7 @@
 
 ### તમે શું શીખી શકશો
 
-આ પ્રોજેક્ટ નીચેના સેરના તત્વોને આવરી લે છે [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ મૂળભૂત 2D અને 3D સંપત્તિ ડિઝાઇન કરો ](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}.
 
