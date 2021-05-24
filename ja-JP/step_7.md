@@ -1,20 +1,20 @@
-## Add a colour palette
+## カラーパレットを追加する
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+なにか間違ってた場合、ピクセルの色を白に戻せないのは不便だと思いませんでしたか？ クリックでペンの色を選択できるように、カラーパレットを作成して修正しましょう。
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
++ このコードを `style.css` ファイルの末尾に追加して、ペンスタイルを作成します。
 
-![screenshot](images/pixel-art-pen.png)
+![スクリーンショット](images/pixel-art-pen.png)
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
++ それでは、さっき作成したペンスタイルを使用して黒と白のペンカラーでパレットを作成します。次のコードを`index.html`の `<body>` タグの下に追加して下さい:
 
-![screenshot](images/pixel-art-palette.png)
+![スクリーンショット](images/pixel-art-palette.png)
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+`style=` でHTMLファイルの中にCSSコードを追加することが出来ます。
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+パレットの色の1つをクリックすると、ペンの色が変わるようにコードを追加する必要があります。
 
-+ Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
++ `script.js` に切り替えて、ファイルの一番上に `penColour` という変数を作成します。その変数の値を `'black'`設定します。
 
 [[[generic-javascript-create-variable]]]
 
@@ -22,30 +22,30 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 \--- hint \---
 
-Add the following code at the top of the file:
+ファイルの先頭に、次のコードを追加します。
 
-![screenshot](images/pixel-art-pencolour.png)
+![スクリーンショット](images/pixel-art-pencolour.png)
 
 \--- /hint \---
 
 \--- /hints \---
 
-+ Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
++ 変数の下に、`ペン`の入力を受け取る `setPenColour` という新しい関数を作成します。すでに作成した関数 `setPixelColour` を見てください。
 
 [[[generic-javascript-create-a-function]]]
 
-+ Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
++ `setPenColour` 関数の中に、 `penColour` 変数を入力の `pen` 色に設定するコードを追加します。
 
-![screenshot](images/pixel-art-set-pen.png)
+![スクリーンショット](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+ピクセルの色を変更する場合は、 `penColor` 変数を使用する必要があります。
 
-+ Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
++ `black<code>の代わりに、<code>setPixelColour` 関数に変更して<0>penColour</code>変数を使います:
     
-    ![screenshot](images/pixel-art-use-pen.png)
+    ![スクリーンショット](images/pixel-art-use-pen.png)
 
-+ In the `index.html` file, add some code to call the `setPenColour` function when a colour in the palette is clicked.
++ `index.html` ファイルで、パレットの色をクリックしたときに `setPenColour` 関数を呼び出すコードを追加します。
 
-![screenshot](images/pixel-art-palette-onclick.png)
+![スクリーンショット](images/pixel-art-palette-onclick.png)
 
-+ Test that you can switch the pen colour between black and white to fill in or delete pixels.
++ ペンの色を黒と白の間で切り替えて、ピクセルを塗りつぶしたり削除したりできることをテストします。
