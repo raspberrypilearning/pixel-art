@@ -1,35 +1,35 @@
-## Colour the pixels
+## ピクセルの色を設定する
 
-This project uses three different languages:
+このプロジェクトは、3つの異なる言語を使用しています：
 
-+ HTML is used to organise your content
-+ CSS tells the content what to look like with styles
-+ JavaScript is a programming language you can use to make a webpage respond when you interact with it
++ HTMLはコンテンツ表示に使います。
++ CSSはコンテンツの見た目を設定するのに使います。
++ JavaScriptはプログラミング言語で、ウェブページの内容を操作するのに使います。
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+クリックすると自動的にピクセル内の色を付けるJavaScriptコードを追加しましょう。
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+**関数を作成します**。 関数は、特定の処理をまとめた名前付きブロックです。 関数内の特定の処理は、関数名で**使う(呼ぶ)**ことが出来ます。
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
++ `script.js` ファイル内で、関数名 `setPixelColour` の関数を作成します。 `setPixelColour` 関数は、そのピクセルの色を変えることができるように、 `ピクセル` を **入力** として取る必要があります。
 
-![Create function](images/create-function.png)
+![関数を作成する](images/create-function.png)
 
-+ Add this code inside the function to set the background colour of the pixel:
++ ピクセルの背景色を設定するために、このコードを関数内に追加します。
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+![スクリーンショット](images/pixel-art-set-pixel-colour.png)
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+`backgroundColor` は、米英語のスペル 'color' を使用しています。
 
-At the moment this code doesn't have any effect.
+現時点では、このコードは効果がありません。
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
++ `index.html` 移動し、次のコードを最初のピクセルに追加して、このピクセルをクリックすると `setPixelColour` 関数が呼び出されるようにします。
 
-![screenshot](images/pixel-art-onclick.png)
+![スクリーンショット](images/pixel-art-onclick.png)
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+`この` 括弧の中身は`setPixelColour` 関数の入力で、どのピクセルに色を設定するかを伝えます。— `この` 画素！
 
-+ Test your code by clicking on the first pixel. It should turn black.
++ 最初のピクセルをクリックしてコードをテストします。表示が黒に変わるはずです。
 
-![screenshot](images/pixel-art-black.png)
+![スクリーンショット](images/pixel-art-black.png)
 
-You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.
+**最初の** ピクセルの `onclick` にコードを追加しただけなので、他のピクセルをクリックしても まだ何も行われません。
