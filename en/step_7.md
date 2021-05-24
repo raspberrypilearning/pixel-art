@@ -19,11 +19,15 @@ We need to add code so that when one of the colours in the palette is clicked on
 [[[generic-javascript-create-variable]]]
 
 --- hints ---
+
 --- hint ---
+
 Add the following code at the top of the file:
 
 ![screenshot](images/pixel-art-pencolour.png)
+
 --- /hint ---
+
 --- /hints ---
 
 + Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
@@ -34,7 +38,7 @@ Add the following code at the top of the file:
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need use the `penColour` variable when you change the colour of a pixel.
+You'll also need to use the `penColour` variable when you change the colour of a pixel.
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
 
