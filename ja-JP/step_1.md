@@ -1,10 +1,10 @@
-## Introduction
+## はじめに
 
-Create a pixel art editor. As well as using HTML and CSS, you'll learn how to use JavaScript to add interactivity to your project.
+ピクセルアートエディタを作成します。 HTMLとCSSを使用するだけでなく、JavaScriptを使用してインタラクティブ機能をプロジェクトに追加する方法も学びます。
 
-### What you will make
+### 作るもの
 
-Try out the project below. Click on a colour from the palette, then click on a pixel to change its colour.
+下のプロジェクトを試してみてください。パレットから色をクリックし、ピクセルをクリックして色を変更します。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/0e102a306b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,16 +12,16 @@ Try out the project below. Click on a colour from the palette, then click on a p
   <img src="images/pixel-art-final.png">
 </div>
 
-### What you will learn
+### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [基本的な2Dおよび3Dアセットを設計します。](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [基本的なプログラミング構造を使い、かんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### 先生向けの追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/pixel-art/print)を使用してください。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en/resources' フォルダ内のすべてのリソース (完成プロジェクトの例を含む) が含まれています。
