@@ -14,7 +14,7 @@ Prova il progetto qui sotto. Clicca su un colore dalla tavolozza, poi clicca su 
 
 ### Cosa imparerai
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D e asset in 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
