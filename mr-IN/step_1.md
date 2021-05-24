@@ -14,7 +14,7 @@
 
 ### ह्यातून तुम्हाला काय शिकायला मिळेल
 
-या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} अभ्यासक्रमातील खालील घटकांमधील घटक समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [मूलभूत 2D आणि 3D ऍसेटस् डिझाइन करा](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank"}.
 
