@@ -14,7 +14,7 @@
 
 ### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトは、[Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum){:target="_blank"}の以下の項目を学びます：
 
 + [基本的な2Dおよび3Dアセットを設計します。](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}
 
