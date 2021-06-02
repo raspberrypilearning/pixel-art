@@ -31,7 +31,7 @@
 
 --- /hints ---
 
-+ 変数の下に、`ペン`の入力を受け取る `setPenColour` という新しい関数を作成します。すでに作成した関数 `setPixelColour` を見てください。
++ 変数の下に、`ペン (pen)`の入力を受け取る `setPenColour` という新しい関数を作成します。すでに作成した関数 `setPixelColour` を見てください。
 
 [[[generic-javascript-create-a-function]]]
 
@@ -41,7 +41,7 @@
 
 ピクセルの色を変更する場合は、 `penColor` 変数を使用する必要があります。
 
-+ `black<code>の代わりに、<code>setPixelColour` 関数に変更して<0>penColour</code>変数を使います:
++ `black`の代わりに、`setPixelColour` 関数に変更して`penColour`変数を使います:
     
     ![スクリーンショット](images/pixel-art-use-pen.png)
 
