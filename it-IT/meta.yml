@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Di cosa avrai bisogno
-  - title: Crea una griglia di pixel
-  - title: 'Sfida: ridimensiona la tua griglia'
-  - title: Colora i pixel
-  - title: 'Sfida: rendere tutti i pixel selezionabili'
-  - title: Aggiungi una tavolozza di colori
-  - title: 'Sfida: aggiungi più colori alla tavolozza'
+- title: Introduzione
+- title: Di cosa avrai bisogno
+  completion: engaged
+- title: Crea una griglia di pixel
+- title: 'Sfida: ridimensiona la tua griglia'
+- title: Colora i pixel
+- title: 'Sfida: rendere tutti i pixel selezionabili'
+- title: Aggiungi una tavolozza di colori
+  completion: internal
+- title: 'Sfida: aggiungi più colori alla tavolozza'

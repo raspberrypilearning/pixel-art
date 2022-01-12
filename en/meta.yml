@@ -1,3 +1,4 @@
+---
 title: Pixel art
 description: Create a pixel art editor using HTML, CSS, and JavaScript.
 hero_image: images/pixel-art.png
@@ -15,12 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: Create a grid of pixels
 - title: 'Challenge: resize your grid'
 - title: Colour the pixels
 - title: 'Challenge: make all pixels clickable'
 - title: Add a colour palette
+  completion: internal
 - title: 'Challenge: add more colours to the palette'

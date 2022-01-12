@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Do que é que vais precisar
-  - title: Cria uma grelha de pixels
-  - title: 'Desafio: redimensionar a tua grelha'
-  - title: Colorir os pixels
-  - title: 'Desafio: tornar todos os pixels clicáveis'
-  - title: Adicionar uma paleta de cores
-  - title: 'Desafio: adicionar mais cores à paleta'
+- title: Introdução
+- title: Do que é que vais precisar
+  completion: engaged
+- title: Cria uma grelha de pixels
+- title: 'Desafio: redimensionar a tua grelha'
+- title: Colorir os pixels
+- title: 'Desafio: tornar todos os pixels clicáveis'
+- title: Adicionar uma paleta de cores
+  completion: internal
+- title: 'Desafio: adicionar mais cores à paleta'
