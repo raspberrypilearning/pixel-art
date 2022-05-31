@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Czego będziesz potrzebować
-  - title: Utwórz siatkę pikseli
-  - title: 'Wyzwanie: zmień rozmiar swojej siatki'
-  - title: Pokoloruj piksele
-  - title: 'Wyzwanie: spraw, aby wszystkie piksele były klikalne'
-  - title: Dodaj paletę kolorów
-  - title: 'Wyzwanie: dodaj więcej kolorów do palety'
+- title: Wprowadzenie
+- title: Czego będziesz potrzebować
+- title: Utwórz siatkę pikseli
+- title: 'Wyzwanie: zmień rozmiar swojej siatki'
+- title: Pokoloruj piksele
+  completion:
+  - engaged
+- title: 'Wyzwanie: spraw, aby wszystkie piksele były klikalne'
+- title: Dodaj paletę kolorów
+  completion:
+  - internal
+- title: 'Wyzwanie: dodaj więcej kolorów do palety'

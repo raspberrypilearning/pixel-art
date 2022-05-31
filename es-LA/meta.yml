@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Lo que necesitarás
-  - title: Crea una cuadrícula de píxeles
-  - title: 'Desafío: Cambia el tamaño de tu cuadrícula'
-  - title: Colorea los píxeles
-  - title: 'Desafío: Haz que se pueda hacer clic en todos los píxeles'
-  - title: Agrega una paleta de colores
-  - title: 'Desafío: Agrega más colores a la paleta'
+- title: Introducción
+- title: Lo que necesitarás
+- title: Crea una cuadrícula de píxeles
+- title: 'Desafío: Cambia el tamaño de tu cuadrícula'
+- title: Colorea los píxeles
+  completion:
+  - engaged
+- title: 'Desafío: Haz que se pueda hacer clic en todos los píxeles'
+- title: Agrega una paleta de colores
+  completion:
+  - internal
+- title: 'Desafío: Agrega más colores a la paleta'
