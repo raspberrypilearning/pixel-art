@@ -20,11 +20,13 @@ last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
 - title: Τι θα χρειαστείς
-  completion: engaged
 - title: Δημιούργησε ένα πλέγμα εικονοστοιχείων
 - title: 'Πρόκληση: αλλαγή μεγέθους του πλέγματός σου'
 - title: Χρωμάτισε τα εικονοστοιχεία
+  completion:
+  - engaged
 - title: 'Πρόκληση: Κάνε όλα τα εικονοστοιχεία ενεργά'
 - title: Πρόσθεσε χρωματική παλέτα
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: πρόσθεσε περισσότερα χρώματα στην παλέτα'

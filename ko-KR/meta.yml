@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: 소개
 - title: 준비물
-  completion: engaged
 - title: 픽셀 그리드 만들기
 - title: '과제: 그리드 리사이징'
 - title: 픽셀에 색상 입히기
+  completion:
+  - engaged
 - title: '과제: 모든 픽셀에 클릭 적용하기'
 - title: 색깔 팔레트 추가
-  completion: internal
+  completion:
+  - internal
 - title: '과제: 팔레트에 더 많은 색상 추가하기'

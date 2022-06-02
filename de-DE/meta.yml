@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Einleitung
 - title: Was du brauchen wirst
-  completion: engaged
 - title: Erstelle ein Pixelraster
 - title: 'Herausforderung: Verändere die Größe des Rasters'
 - title: Färbe die Pixel
+  completion:
+  - engaged
 - title: 'Herausforderung: Mache alle Pixel anklickbar'
 - title: Füge eine Farbpalette hinzu
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Füge mehr Farben zur Palette hinzu'

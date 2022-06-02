@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introducción
 - title: Lo que necesitarás
-  completion: engaged
 - title: Crear una cuadrícula de píxeles
 - title: 'Desafío: cambia el tamaño de tu cuadrícula'
 - title: Colorea los píxeles
+  completion:
+  - engaged
 - title: 'Desafío: hacer que todos los píxeles sean "clicables"'
 - title: Añade una paleta de colores
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: agrega más colores a la paleta'

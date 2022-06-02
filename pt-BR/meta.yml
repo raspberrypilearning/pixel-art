@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introdução
 - title: O que você vai precisar
-  completion: engaged
 - title: Crie uma grade de pixels
 - title: 'Desafio: redimensione sua grade'
 - title: Colorindo os pixels
+  completion:
+  - engaged
 - title: 'Desafio: torne todos os pixels clicáveis'
 - title: Adicione uma paleta de cores
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: adicione mais cores à paleta'

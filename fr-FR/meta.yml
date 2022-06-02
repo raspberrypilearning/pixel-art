@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Ce qu'il te faut
-  completion: engaged
 - title: Créer une grille de pixels
 - title: 'Défi : redimensionner ta grille'
 - title: Colorier les pixels
+  completion:
+  - engaged
 - title: 'Défi : rendre tous les pixels cliquables'
 - title: Ajouter une palette de couleur
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi : ajouter plus de couleurs à la palette'

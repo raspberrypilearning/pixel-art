@@ -19,11 +19,13 @@ last_tested: 2017年1月1日
 steps:
 - title: 介紹
 - title: 你將會需要
-  completion: engaged
 - title: 建立一個像素網格
 - title: 挑戰：調整你的網格大小
 - title: 為像素著色
+  completion:
+  - engaged
 - title: 挑戰：使所有像素都可以被點擊
 - title: 添加一個調色板
-  completion: internal
+  completion:
+  - internal
 - title: 挑戰：為該調色板添加更多顏色

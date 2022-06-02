@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: المقدمة
 - title: ما ستحتاج إليه
-  completion: engaged
 - title: إنشاء شبكة من وحدات البكسل
 - title: 'التحدي: غيِّر حجم الشبكة'
 - title: تلوين وحدات البكسل
+  completion:
+  - engaged
 - title: 'التحدي: اجعل كل وحدات البكسل قابلة للنقر'
 - title: إضافة لوحة ألوان
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: أضف المزيد من الألوان إلى لوحة الألوان'

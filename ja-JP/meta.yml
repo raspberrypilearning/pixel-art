@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: はじめに
 - title: 必要なもの
-  completion: engaged
 - title: ピクセルグリッドを作成する
 - title: 課題：グリッドのサイズを変更する
 - title: ピクセルの色を設定する
+  completion:
+  - engaged
 - title: 課題：すべてのピクセルをクリック可能にする
 - title: カラーパレットを追加する
-  completion: internal
+  completion:
+  - internal
 - title: 課題：パレットに色を追加する

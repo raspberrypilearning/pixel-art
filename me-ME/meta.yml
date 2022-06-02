@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Šta će ti biti potrebno
-  completion: engaged
 - title: Napravi rešetku od piksela
 - title: 'Izazov: promijeni veličinu rešetke'
 - title: Oboji piksele
+  completion:
+  - engaged
 - title: 'Izazov: napravi da svi pikseli budu klikabilni'
 - title: Dodaj paletu boja
-  completion: internal
+  completion:
+  - internal
 - title: 'Izazov: dodaj više boja u paletu'
