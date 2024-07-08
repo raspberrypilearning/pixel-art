@@ -17,8 +17,7 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Introduction
-- title: What you will need
+- title: What you will make
 - title: Create a grid of pixels
 - title: 'Challenge: resize your grid'
 - title: Colour the pixels

@@ -2,12 +2,12 @@
 
 ## Challenge: make all pixels clickable
 
-Can you make all the pixels clickable? To save time, you can copy and paste the code you need.
+To save time, you can copy and paste the code you need.
 
-Test your code by creating a quick piece of pixel art.
+Here is an example:
 
-![screenshot](images/pixel-art-black-example.png)
+![An 8x8 grid of pixels showing a smiley face, drawn by colouring black pixels for the eyes and mouth](images/pixel-art-black-example.png)
 
-Tip: you can click **Autorun** to clear all of the pixels.
+**Test:** Run your code and create a piece of pixel art!
 
 --- /challenge ---

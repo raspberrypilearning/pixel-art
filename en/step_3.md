@@ -1,44 +1,79 @@
-## Create a grid of pixels
+## Add a row of pixels
 
-Let's create a grid of pixels that you can use for creating pixel art.
+Switch to the `index.html` file.
 
-The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
+--- task ---
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
+Add a row of three pixels inside the art div.
 
-The project should look like this:
+**Tip**: If you want to save time, you can type the first row and then copy and paste it to create the others.
 
-![screenshot](images/pixel-starter.png)
+--- code ---
+---
+filename: index.html
+language: html
+line_numbers: true
+line_number_start: 7
+line_highlights: 9-13
+---
+<body>
+  <div id="art">
+    <div class = "row">
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+    </div>
+  </div>  
+</body>
 
-First, let's write some code to create a table with a black background and then put white pixels into it.
+--- /code ---
 
-+ Add this code into the `<body>` of your `index.html` file to create a `<div>`:
+--- /task --- 
 
-![screenshot](images/pixel-art-art.png)
+--- task ---
 
-A `<div>` is an invisible box to which you can give a **style**. This `<div>` has the ID `art`, which you need so you can add styles to the box.
+### Style the rows and pixels
 
-+ Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
+Switch to the `style.css` file and add the styles.
 
-![screenshot](images/pixel-art-style.png)
+--- code ---
+---
+filename: style.css
+language: css
+line_numbers: true
+line_number_start: 8
+---
+.row {
+  display: table-row;
+}
 
-This creates a table with a border and sets the spacing inside the grid.
+.pixel {
+  display: table-cell;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
 
-It doesn't look very interesting yet, so you need to put rows of pixels inside it.
+--- /code ---
 
-+ Go back to your `index.html` file and add a row of three pixels **inside** the `art` box. If you want to save time, you can type the first row and then copy and paste it to create the others.
+--- /task ---
 
-![screenshot](images/pixel-art-row.png)
+**Notice**: You have used a class instead of an ID to style the row and pixel divs. This is because there will be lots of them.
 
-Notice that here you're using a **class** instead of an ID to style the divs. This is because there will be lots of them, so a class is more useful.
+**Test:** Run your code to see the row of pixels.
 
-+ Switch to the `style.css` file and add the following styles for the rows and the pixels within each row:
+### Create a 3×3 pixel grid. 
 
-![screenshot](images/pixel-art-row-style.png)
+--- task ---
 
-Now your pixels will line up in a grid with black lines around them.
+Switch to the `index.html` file
 
-+ In your `index.html` file, add another two sections of pixels to create a 3×3 pixel grid. You can use copy and paste again to save time.
+Add another two sections of pixels to create a 3×3 pixel grid. 
+
+You can use copy and paste again to save time.
+
+--- /task ---
 
 --- hints ---
 
@@ -56,8 +91,38 @@ You can check whether your table looks right by looking at the result area on th
 
 Here is how your code should look:
 
-![screenshot](images/pixel-art-grid-3.png)
+--- code ---
+---
+filename: index.html
+language: html
+line_numbers: true
+line_number_start: 7
+line_highlights: 14-23
+---
+<body>
+  <div id="art">
+    <div class = "row">
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+    </div>
+    <div class = "row">
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+    </div>
+    <div class = "row">
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+      <div class="pixel"></div>
+    </div>
+  </div>  
+</body>
+
+--- /code ---
 
 --- /hint ---
 
 --- /hints ---
+
+**Test:** Run your code to see the 3x3 grid.
