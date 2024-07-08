@@ -1,34 +1,55 @@
 ## Colour the pixels
 
-This project uses three different languages:
-- HTML is used to organise your content
-- CSS tells the content what to look like with styles
-- JavaScript is a programming language you can use to make a webpage respond when you interact with it
+Colour a pixel when you click it.
 
-Let's add some JavaScript code to colour in a pixel automatically when you click on it.
+--- task --- 
 
-We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
+Switch to the `script.js` file and change the backgroundColor from `'black'` to a colour of your choice. 
 
-+ Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
+--- code ---
+---
+filename: script.js
+language: javascript
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
 
-![Create function](images/create-function.png)
+---
+function setPixelColour(pixel) {
+  pixel.style.backgroundColor = "black";
+}
 
-+ Add this code inside the function to set the background colour of the pixel:
+--- /code ---
 
-![screenshot](images/pixel-art-set-pixel-colour.png)
+--- /task ---
 
-Notice that `backgroundColor` uses the American spelling of 'colour'.
+**Tip**: A pixel is passed to the function, so the function can change that pixel’s colour.
 
 At the moment this code doesn't have any effect.
 
-+ Go to `index.html` and add the following code to the first pixel so that when you click on this pixel, the `setPixelColour` function is called:
+Switch to the `index.html` file and add an `onclick` event to the first `pixel` div.
 
-![screenshot](images/pixel-art-onclick.png)
+--- code ---
+---
+filename: index.html
+language: html
+line_numbers: true
+line_number_start: 7
+line_highlights: 10
+---
+<body>
+  <div id="art">
+    <div class = "row">
+      <div class="pixel" onclick="setPixelColour(this)"></div>
+      <div class="pixel"></div>
+      <div class="pixel"></div>
 
-The `this` in the brackets is the input for the `setPixelColour` function, which lets it know which pixel to set the colour for — `this` pixel!
+--- /code ---
 
-+ Test your code by clicking on the first pixel. It should turn black.
+**Tip**: The `this` in brackets is passed to the `setPixelColour` function, so it knows which pixel to colour — ***this*** pixel!
 
-![screenshot](images/pixel-art-black.png)
+**Test:** Run your code and click on the first pixel. It should turn black.
+
+**Debug**: `backgroundColor` uses the American spelling of 'colour'.
 
 You've only added `onclick` code to the **first** pixel, so clicking on the other pixels won't do anything yet.

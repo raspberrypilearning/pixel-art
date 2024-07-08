@@ -1,18 +1,65 @@
-## Add a colour palette
+## Create a colour palette
 
-Did you find it annoying that you couldn't change a pixel's colour back to white if you made a mistake? Let's fix that by creating a colour palette so that you can choose between pen colours with a click.
+Add a new table
 
-+ Add this code at the bottom of your `style.css` file to create a pen style:
+--- task ---
 
-![screenshot](images/pixel-art-pen.png)
+Switch to the `style.css` file and create a pen style.
 
-+ Now create a palette with black and white pen colours using the pen style you just created. Add the following code to your `index.html` below the `<body>` tag:
+--- code ---
+---
+filename: style.css
+language: css
+line_numbers: true
+line_number_start: 12
+line_highlights: 20-25
+---
+.pixel {
+  display: table-cell;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
 
-![screenshot](images/pixel-art-palette.png)
+.pen {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 2px solid black;
+}
 
-`style=` allows you to add CSS code inside your HTML file, which is convenient here.
+--- /code ---
 
-We need to add code so that when one of the colours in the palette is clicked on, the colour of the pen changes.
+--- /task ---
+
+--- task ---
+
+Switch to the `index.html` file and add a black and white palette.
+
+--- code ---
+---
+filename: index.html
+language: html
+line_numbers: true
+line_number_start: 7
+line_highlights: 8-11
+---
+<body>
+  <div id="palette">
+    <div class="pen" style="background-color:white;"></div>
+    <div class="pen" style="background-color:black;"></div>
+  </div>
+  <div id="art">
+  <div class = "row">
+
+--- /code ---
+
+--- /task ---
+
+**Test:** Run your code. You should see your palette at the top.
+
+**Debug**: Notice that the styles for the `pen` class end with a semicolon (`;`).
 
 + Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
 
@@ -38,7 +85,7 @@ Add the following code at the top of the file:
 
 ![screenshot](images/pixel-art-set-pen.png)
 
-You'll also need to use the `penColour` variable when you change the colour of a pixel.
+You'll also need use the `penColour` variable when you change the colour of a pixel.
 
 + Change the `setPixelColour` function to use the `penColour` variable instead of `black`:
 

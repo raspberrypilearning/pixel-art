@@ -1,15 +1,74 @@
---- challenge ---
+## Make the palette interactive
 
-## Challenge: add more colours to the palette
+Let users choose colours with a click.
 
-Can you add more colours to the palette?
+--- task ---
 
-+ Choose the colours you want to use in your pixel art, and add them to your code. Then create some cool pixel images.
+Switch to the `script.js` file and create the variable `penColour` and sets its value to `'black'` 
 
-Hint: The bright green colour is called `chartreuse`. Here is a [list of colour names](https://www.w3schools.com/colors/colors_names.asp) from which you can pick your favourites.
+--- code ---
+---
+filename: script.js
+language: javascript
+line_numbers: true
+line_number_start: 1
+line_highlights: 3-5
 
-![screenshot](images/pixel-art-final.png)
+---
+var penColour = 'black';
 
-You can use the Snipping Tool in Windows (or an alternative if you're not using Windows) to save a copy of your pixel art as an image file.
+--- /code ---
 
---- /challenge ---
+--- /task ---
+
+--- task ---
+
+Create a new function called `setPenColour` with an input of `pen` and change the `setPixelColour` function to use the `penColour` variable instead of `'black'`:
+
+--- code ---
+---
+filename: script.js
+language: javascript
+line_numbers: true
+line_number_start: 1
+line_highlights: 7-9
+---
+var penColour = 'black';
+
+function setPenColour(pen) {
+  penColour = pen;
+}
+
+function setPixelColour(pixel) {
+  pixel.style.backgroundColor = penColour;
+}
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Switch to the `index.html` file and add the calls to the `setPenColour` function.
+
+--- code ---
+---
+filename: index.html
+language: html
+line_numbers: true
+line_number_start: 7
+line_highlights: 9-10
+---
+<body>
+  <div id="palette">
+    <div class="pen" style="background-color:white;" onclick="setPenColour('white')"></div>
+    <div class="pen" style="background-color:black;" onclick="setPenColour('black')"></div>
+  </div>
+  <div id="art">
+  <div class = "row">
+
+--- /code ---
+
+--- /task ---
+
+**Test:** Switch the pen colour between black and white and paint some pixels!
