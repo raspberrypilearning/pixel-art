@@ -16,16 +16,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### What you will need
-
-#### Hardware
-
-+ A computer capable of accessing the [Raspberry Pi Editor](https://editor.raspberrypi.org){:target="_blank"}.
-
-#### Software
-
-This project can be completed in a web browser using the [Raspberry Pi Editor](https://editor.raspberrypi.org){:target="_blank"}.
-
 ### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art/print){:target="_blank"} .
