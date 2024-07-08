@@ -27,7 +27,11 @@ function setPixelColour(pixel) {
 
 At the moment this code doesn't have any effect.
 
-Switch to the `index.html` file and add an `onclick` event to the first `pixel` div.
+--- task ---
+
+Switch to the `index.html` file. 
+
+Add an `onclick` event to the first `pixel` div.
 
 --- code ---
 ---
@@ -45,6 +49,8 @@ line_highlights: 10
       <div class="pixel"></div>
 
 --- /code ---
+
+--- /task ---
 
 **Tip**: The `this` in brackets is passed to the `setPixelColour` function, so it knows which pixel to colour — ***this*** pixel!
 
