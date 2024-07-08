@@ -18,19 +18,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2024-07-08
 steps:
-- title: What you will make
-- title: Create a grid of pixels
-  completion:
-  - engaged
-- title: Add a row of pixels
-- title: 'Challenge: resize your grid'
-- title: Colour the pixels
-  completion:
-  - engaged
-- title: 'Challenge: make all pixels clickable'
-- title: Create a colour palette
-- title:   Make the palette interactive
-  completion:
-  - internal
-- title: 'Challenge: add more colours to the palette'
-
+  - title: What you will make
+  - title: Create a grid of pixels
+    completion:
+      - engaged
+  - title: Add a row of pixels
+  - title: 'Challenge: resize your grid'
+  - title: Colour the pixels
+    completion:
+      - internal
+  - title: 'Challenge: make all pixels clickable'
+  - title: Create a colour palette
+  - title:   Make the palette interactive
+    completion:
+      - external
+  - title: 'Challenge: add more colours to the palette'
