@@ -76,17 +76,6 @@ You can use copy and paste again to save time.
 --- /task ---
 
 --- hints ---
-
---- hint ---
-
-Find the `<div>` tag with the class `row` and copy it, including the three rows labelled `pixel` which are inside it, up to and including its matching `</div>` tag.
-
-Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
-
-You can check whether your table looks right by looking at the result area on the right.
-
---- /hint ---
-
 --- hint ---
 
 Here is how your code should look:
@@ -122,7 +111,7 @@ line_highlights: 14-23
 --- /code ---
 
 --- /hint ---
-
 --- /hints ---
+
 
 **Test:** Run your code to see the 3x3 grid.
