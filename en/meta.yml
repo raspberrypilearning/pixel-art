@@ -3,7 +3,7 @@ description: Create a pixel art editor using HTML, CSS, and JavaScript.
 hero_image: images/pixel-art.png
 theme: navy
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-1, phys-comp-0, manufacture-0, community-0
